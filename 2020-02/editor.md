@@ -1,0 +1,1 @@
+Oregon's square and round dance community lost quite a few prominent members in the last few weeks.  Remember to cherish the friends you have now.  Life is fleeting.

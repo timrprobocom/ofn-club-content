@@ -1,0 +1,2 @@
+The Portland Area Council has chosen the February 2020 Oregon Round of the Month:  "My Boy Elvis", Phase II+2 Two Step (fishtail and strolling vine), choreographed by Regine Anderson, by Janis Martin.
+[Download your cue sheet here](https://ofn.club/content/2020-02/My%20Boy%20Elvis,%20Anderson,%20Regine_Two%20%20Step_2%202.pdf).
