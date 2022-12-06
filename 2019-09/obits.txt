@@ -1,0 +1,31 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li class='clear'><a>Roberta (Bert) Ann Labedz</a>
+<div>
+<p>10/8/1936-8/13/2019</p>
+<p><img class="right" src="content/2019-09/Bert%20Labedz%20Picture.jpg" /></p>
+<p>Eighty-two years young, Roberta (Bert) Labedz was an active and treasured member of River City Dancers, its sister plus club, Diamond Cutters, and our dance facility, Milwaukie Community Club Center (MCC). Each time Bert hit a snag in life she picked herself up by her bootstraps and rededicated her efforts to the success of our organizations. For the past eight months Bert was President of MCC, and throughout the years was the spearhead of keeping our building clean and in good shape. She was available to open the building, inspect areas of need, and offer her opinions on improvements.</p>
+<p>Bert was an excellent dancer and could be seen in a square or round throughout the evening. She sewed many of her dance outfits and was always dressed with matching jewelry. Behind scenes she was active in setting up refreshments at dances and activities. We loved the deviled eggs and desserts she brought to dances. She also brought hugs and smiles to our activities and made everyone feel welcome.</p>
+<p>Bert and her deceased husband, Bill, had a lovely home and acreage outside of Canby near Milk Creek, and they enjoyed inviting dancers to the annual River City Dancers picnic where folks could park their RVs to spend the weekend, barbecue burgers and hot dogs over the grill, nosh on pot luck meals, play board games, chat around tables and relax around a big bonfire. After Bill&rsquo;s passing, Bert continued the picnics, throwing herself in helping to prep the large picnic area.</p>
+<p>One more example of Bert&rsquo;s fun-loving spirit is that she originated RCD&rsquo;s monthly &ldquo;First Monday&rdquo; luncheons at local restaurants that have grown into large numbers of laughing and relaxed groups, including present and former members and friends.</p>
+<p>Bert is survived by two grown daughters, Anna &amp; Debbie, a son, Ted, and grandchildren. We will miss and fondly recall this generous, smiling, fun-loving lady with the pretty red hair.</p>
+</div>
+</li>
+
+</ul>

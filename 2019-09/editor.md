@@ -1,0 +1,1 @@
+September represents the start of a new square dance "year", and many clubs will be starting up lessons.  Be sure to let us know in your club news if you have tried something new for gaining and retaining students.  We can all use more ideas.

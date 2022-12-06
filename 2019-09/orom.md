@@ -1,0 +1,2 @@
+The Blue Mountains Council has chosen the September 2019 Oregon Round of the Month:  "Moulin Rouge", Phase II waltz, choreographed by Lloyd & Ruth McKenrick, by the Arthur Miller Orchestra.
+[Download your cue sheet here](https://www.roundalab.org/CuesheetsDL2/MOULIN%20ROUGE,%20McKenrick,%20L&R__2.pdf).
