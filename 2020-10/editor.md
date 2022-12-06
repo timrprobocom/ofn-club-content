@@ -1,0 +1,1 @@
+It's hard to imagine we could have so many disasters in one year.  As I'm writing this, the sky is thick with smoke, and looks like the surface of Mars instead of the surface of the Earth.  We're getting reports from dancers who have been burned out of their homes.  Keep good thoughts in your heart.
