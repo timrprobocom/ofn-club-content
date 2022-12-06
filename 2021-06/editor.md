@@ -1,0 +1,1 @@
+Ah, these lovely warm days and cool nights remind me why I love living in Oregon.  Remember, when  your club decides to open up again, let me know.  We will all have to relearn our habits of creating and distributing flyers. 
