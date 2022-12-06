@@ -1,0 +1,25 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li><a>Bob Osgood Biography</a>
+<div>
+<p>Bob Osgood was one of the founders of Modern Western Square Dancing as we now know it. &nbsp;He studied under Lloyd 'Pappy' Shaw, and taught some of the first square dance classes in the Los Angeles area. &nbsp;Later, he started the square dance magazine Sets In Order, and was fundamental in establishing Callerlab. &nbsp;Now, Paul Moore, a long time friend of Osgood, has compiled a biography that also serves as a complete history of Modern Western Square Dancing. &nbsp;The book is available&nbsp;<a title="As I Saw It" href="https://www.amazon.com/As-I-Saw-Bob-Osgood/dp/1539090981">on Amazon</a>, and all proceeds go to the Callerlab Foundation.</p>
+</div>
+</li>
+
+</ul>
