@@ -1,0 +1,1 @@
+Now that things are finally approaching "normal" again, I'm going to start creating automatic "regular dance" entries for most clubs.  If your regular dance night has changed, you should have your club's OFN representative check to make sure things are being created properly.
