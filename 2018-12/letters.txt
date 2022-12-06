@@ -1,0 +1,69 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+
+
+<li><a>Including Everyone</a>
+<div>
+<p class="MsoNormal">We all hear the statements that square dancing is fun or that if people don&rsquo;t have fun at a dance they won&rsquo;t come back. But have we looked at what people might mean? Let&rsquo;s take a look at &ldquo;fun&rdquo;.</p>
+<p class="MsoNormal">What do you come to a square dance for? Is it the socialization, because of the caller or cuer, or just because it is your home club? Do you want just the squares or just the rounds or both? Do you want dances fast paced, slow or a mixture? Do you want to be able to add styling, fancy moves and other extras and are ok if others do the same or do you just want the moves kept pure and for everyone else to do the same?</p>
+<p class="MsoNormal">Now, I challenge every dancer to walk into your OWN club as if you have never been there before. How are you and other people greeted? How many people greet you or talk to you without you having to go up to them first? Does everyone get asked to dance? Do your club members make an effort to make sure that visitors dance no matter if they are there as a couple, a family or a solo dancer? Does your club let visitors know how you handle break? Do you have a set break time, is it an open break, where is it located? If someone isn&rsquo;t dancing that night, do you try to spend a little time with them talking? If you didn&rsquo;t belong to this club, would you ever come back?</p>
+<p class="MsoNormal">These are a lot of questions to consider, but let&rsquo;s look at how to make a dance &ldquo;fun&rdquo; for everyone attending.</p>
+<ul style="margin-top: 0in;" type="disc">
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">These are things that EVERY club member needs to do at EVERY dance. Don&rsquo;t just leave them to club officers or whoever is assigned to the door.</li>
+<ul style="margin-top: 0in;" type="circle">
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 1.0in;">Have a good attitude. Leave your bad day at home or in the car. Smile at people and try to enjoy yourself. This will rub off on other people and they will perk up too!</li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 1.0in;">Greet visitors. Spend some time talking with everyone at the dance. Don&rsquo;t just talk to the same few people each time. You might find a new best friend. Just try to keep conversations at a low enough volume that you are not distracting the dancers on the floor.</li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 1.0in;">Make sure that every visitor has a chance to dance. There is always a dancer whose regular partner doesn&rsquo;t want to dance every tip/round or who might have been not feeling well and didn&rsquo;t come tonight. If you notice someone who doesn&rsquo;t seem to be getting out on the floor, mention it to other club members or invite them to dance yourself. If you happen to be working the door, you are the one who will see all of the &ldquo;solo&rdquo; dancers coming in &hellip; pass that information on to other club members.</li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 1.0in;">Make sure visitors know how your break is handled so that they know what to expect. Don&rsquo;t make them guess and try to follow along behind.</li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 1.0in;">Make sure that visitors know where they can find the restrooms. Especially if your hall is one of those that &ldquo;hides&rdquo; the restrooms down a side hall or around a corner so that they are not easily visible/found. Many people don&rsquo;t really want to go &ldquo;exploring&rdquo;.</li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 1.0in;">When does your dance end? That information is not always listed on flyers or in the state directory.</li>
+</ul>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">Visitors, you have some responsibility too.</li>
+<ul style="margin-top: 0in;" type="circle">
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 1.0in;">Like the members of the club you are visiting. Have a good attitude. Leave your bad day at home or in the car. Smile at people and try to enjoy yourself. This will rub off on other people and they will perk up too!</li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 1.0in;">Greet other people. You can greet EVERYONE. You can spend time talking to EVERYONE.</li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 1.0in;">If you are by yourself tonight, please mention it at the door as you come in. You can also ask other people to dance too.</li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 1.0in;">If you aren&rsquo;t familiar with this club or hall, ask questions about how they do things. If you just want to follow along behind the club members and do what they do, don&rsquo;t complain.</li>
+</ul>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">Callers and Cuers you can help too.</li>
+<ul style="margin-top: 0in;" type="circle">
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 1.0in;">Smile and greet people, both club members and visitors.</li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 1.0in;">Try to keep your selections varied with speed, rhythm and complexity. Every dancer likes something a little bit different than the next person. It isn&rsquo;t possible to please everyone every tip or set of rounds, but a variety over the evening helps.</li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 1.0in;">Please try to avoid letting dancers stand waiting for the next call or cue a lot. A lot of dancers find that boring.</li>
+</ul>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">Dancers, are you making your best effort on the floor?</li>
+<ul style="margin-top: 0in;" type="circle">
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 1.0in;">Are you talking to others in your square while the caller is calling? Not everyone can follow more than one conversation at a time.</li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 1.0in;">Watch hand grips. No one likes to have their hand squeezed off. It is also hard to dance with a &ldquo;wet noodle&rdquo;. Can each of us find an in-between. We also need to &ldquo;connect&rdquo; (touch hands) after each move and before starting the next move. This will help keep us all together as a group.</li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 1.0in;">Be respectful of someone who doesn&rsquo;t want to twirl, swing, spin, etc. Don&rsquo;t force it on anyone. If you don&rsquo;t want to do any of the twirls, spins, swings, etc. please learn the hand and body signals that indicate this or just say something. Not everyone has a badge that states &ldquo;Don&rsquo;t Swing&rdquo;. Sometimes it is only for a dance or two that a person can be affected. There are also a lot of reasons for this situation: surgery, they get dizzy, they have other balance difficulties, a recent injury/sprain, pregnancy (guys you never had to experience this, but it is kind of embarrassing when you have to run for the bathroom because the kid didn&rsquo;t like mom being swung).</li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 1.0in;">Be accepting of any styling, fancy moves or other extras as long as they don&rsquo;t disrupt the rest of the square. On the reverse, if you are the one doing these extras please make sure that you are not breaking down the square by doing them.</li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 1.0in;">Are you asking others to dance? Are you accepting offers to dance?</li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 1.0in;">Are you willing to try something you haven&rsquo;t heard before or something that might be a little faster than you are used to.</li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 1.0in;">DON&rsquo;T ANTICIPATE!!! Yes, sometimes it is very easy to get into the pattern of &ldquo;that move is always followed by this move&rdquo;. NOT ALWAYS!! Wait for the call or cue, that way you don&rsquo;t have to backtrack to do the move that was given instead of the one you did do.</li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 1.0in;">Watch the other dancers in your square. If they appear to have some difficulty with your extra turns, maybe not do the extras for that tip.</li>
+<li class="MsoNormal" style="mso-list: l0 level2 lfo1; tab-stops: list 1.0in;">Appreciate the caller and cuer. It is not always easy to be up on the stage.&nbsp;</li>
+</ul>
+</ul>
+<p class="MsoNormal">For everyone to have fun at a dance, it takes actual effort towards that goal from EVERYONE!!!!</p>
+<p>Karyn Buchheit<br />Federation 1st Vice President</p>
+</div>
+</li>
+
+
+</ul>

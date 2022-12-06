@@ -1,0 +1,57 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li><a>Marshall Flippo Obituary</a>
+<div>
+<p>Marshall Doyle &ldquo;Flip&rdquo; Flippo 91, passed away November 4, 2018 at Lake Regional Hospital in Osage Beach, Missouri. Flip was born September 2, 1927 in Tuscola, Texas. He was the son of Roy and Gertrude Flippo. Preceded in death by his sisters, Helen June Moore and Onita Shelton.</p>
+<p>Flip attended school in Wylie Texas, where he was class president and played football and baseball. After school, he joined the Navy during World War II where he served on the USS Piedmont, USS Lander and USS Dixie and played baseball for the them after the war was over.</p>
+<p>After serving, he returned to Abilene in 1949 and married Neeca Lee Redus. They started taking square dance lessons in 1951 and he started calling dances in 1952. After vacationing at Kirkwood Lodge in 1959, he was hired in 1962 as Entertainment Director leading to a 40-year history at the lodge including being a part owner. In 1963 he and Neeca gave birth to their only son John. Flip would work 6 months at the lodge when it was open and spend the other 6 months touring the world calling square dances in the US, Japan and Germany.</p>
+<p>He recorded for Blue Star and Chaparral as well as guest recordings for several other companies. He sold over a million square dance records, receiving gold records for &ldquo;The Auctioneer&rdquo; and &ldquo;Every Street&rsquo;s A Boulevard&rdquo;. He has received just about every award there is in square dancing including the prestigious Milestone Award in 1981, Gold Card Life Membership in 2011 and a Lifetime Achievement Award in 2016. Flip was also a founding member of CALLERLAB, the international Association of Square Dance Callers.</p>
+<p>In 2000, Flip moved to Tucson, Arizona to be the resident caller at the Rincon West RV Park where he stayed until 2018. Then he moved back to Osage Beach to live with his son and his wife, John and Shelly.</p>
+<p>Flip was an avid golfer and water skier and loved to watch the Dallas Cowboys play. Flip was world famous for his sense of humor and love for people. He is survived by his son, John and daughter in law, Shelly.</p>
+<p>Memorial service will be held at 1:00 p.m. on Monday, November 26, 2018 at Elliott-Hamil Funeral Home, 5701 Highway 277 South, Abilene, Texas 79606. There will also be a graveside service at 3:30 p.m. on Monday, November 26, 2018 at Elmwood Memorial Park, 5726 Hwy 277 South, Abilene, Texas.</p>
+</div>
+</li>
+
+
+<li><a>Shirley McNary Obituary</a>
+<div>
+<p><img class="right" src="http://www.eastoregonian.com/storyimage/EO/20181105/ARTICLE/181109908/AR/0/AR-181109908.jpg&amp;MaxW=600" /></p>
+<p>Shirley J. McNary passed away peacefully on November 2, 2018, at her home in Ione, Oregon. A funeral service will be held November 10, 2018, at 11 a.m. at the Ione community Church in Ione, Oregon, with burial to follow at the High View Cemetery in Ione.</p>
+<p>She was born In Walla Walla, Washington, on December 29, 1928, to George H. and Blanche L.</p>
+<p>Parman Ransom. Shirley attended Tum-Alum Grade School and graduated from McLoughlin Union High School in 1948 in Milton-Freewater, Oregon.</p>
+<p>After graduation, she attended Kinman Business School in Spokane, Washington, where she met her husband of 68 years, Lloyd G. McNary. The married in Lewiston, Idaho, on December 3, 1949.</p>
+<p>The couple lived in Milton-Freewater a number of years before moving to Ione, Oregon, in 1969 so they could farm Shirley&rsquo;s grandparents&rsquo; homestead in the Gooseberry area. Her grandfather homesteaded in 1886 and Shirley&rsquo;s mother was born at the homestead. In 1981, after retirement, they moved into Ione and lived there the rest of their lives.</p>
+<p>Most of her life Shirley was a homemaker. She became interested in painting after the children were older. She belonged to many art organizations including Allied Arts and the Morrow County Arts Council, and she was juried into membership of the Oregon Water Color Society. Shirley was interviewed once by a newspaper and she said, &ldquo;Anyone can learn how to paint.&rdquo; She enjoyed many different facets of art including china painting.</p>
+<p>Shirley and Lloyd enjoyed league bowling in Milton-Freewater and spent many years square dancing with the Grand Squares Club in Ione. Shirley was a life-long avid gardener and she was technology junkie. She enjoyed going to sporting events of her grandchildren and recently became a huge fan of the Portland Timbers.</p>
+<p>Shirley is survived by her three children, daughter Marla McNary (Robert Bailey) of Portland, Oregon, son David McNary of Ione, Oregon, and daughter Gayle Gutierrez (Kim Gutierrez) of Heppner, Oregon; grandchildren Aaron Bailey, Megan Bailey, Jessica Gutierrez, Joshua Gutierrez, Wyatt McNary and Whitney McNary; and great-grandchildren Reese and Rachel Gutierrez, Elias, Astrid and Malin Bailey.</p>
+<p>She was preceded in death by her husband, Lloyd McNary, and her parents.</p>
+<p>Donation may be made to the Oregon Humane Society, 1067 N.E. Columbia Blvd., Portland, OR 97221.</p>
+</div>
+</li>
+
+
+<li><a>Robert Oswald Obituary</a>
+<div>
+<p><img class="right" src="https://fnetobits.s3.amazonaws.com/galleries/fuitenrosehoyt/1818564/1138984073_thumb.jpg?_=181016180410" /></p>
+<p>Robert James Oswald, a member of the&nbsp;Hoedowners, passed away&nbsp;on October 14.&nbsp; His obituary is located <a href="http://www.fuitenrosehoyt.com/obituary/Robert-James-Oswald/Gaston-Oregon/1818564">here</a>.</p>
+</div>
+</li>
+
+
+</ul>
