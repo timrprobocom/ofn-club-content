@@ -1,0 +1,38 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li><a>Kirby Goode Obituary</a>
+<div>
+<p><a href="/content/2018-06/KirbyGoode.png"> <img class="right" src="/content/2018-06/t300/KirbyGoode300.png" /></a></p>
+<p>Kirby W. Goode<br />August 18, 1932 - May 14, 2018</p>
+<p>Kirby passed away at home Monday morning, May 14, 2018.&nbsp; He had been on 'in home' hospice since November of 2016.&nbsp; With the care received from his wife, Christina Corelli, Peace Health Hospice and caregiver, Jake Westra, Kirby hung in there for over a year.&nbsp; With the needed oxygen, meds and care he felt pretty good until towards the end when breathing was difficult, and he was tired.&nbsp; While on oxygen Kirby's hair started to grow, and Christina had to purchase good barber shears to cut it.&nbsp; Up to that point his hair didn't grow at all.&nbsp; Interesting how oxygen aids our&nbsp;health and well-being.</p>
+<p>Kirby's square dancing career started back in 1960 with Independence Wagon Wheelers.&nbsp; He also round danced before there were cuers.&nbsp; Round dances were memorized after the caller taught it.&nbsp; Many dancers purchased round dance 45's which were complete with cue sheets that we would find difficult to decipher now.</p>
+<p>He started calling in 1991 and called through Plus.&nbsp; He called at a couple of national conventions which he loved. &nbsp;He had an enormous amount of fun on the stage and had a wondrous rapport with the dancers. &nbsp;He was on the program in Penticton, B.C. for many years and was an emcee a number of times.&nbsp;</p>
+<p>Kirby taught and called for Danebo Circle 8 for several years before retiring. &nbsp;His greatest love was teaching people how to square dance.&nbsp; The youngest students were twin boys, Simon and Elliott Ewing, who were six.&nbsp; They did well.&nbsp; Their dad, Bob Ewing, learned to call. Kirby mentored several first callers and taught them the ropes. He taught rounds with Christina until the last few years when he was too tired to do so.&nbsp; They danced with Ron and Mary Noble's Rounds R Us advanced round dance group, then with Jeanine and Paul Norden, and David Vomocil and Kathy Baumhardt.&nbsp; They were members of Rounds R Us for many years.  Kirby was also club caller for the Spin Cycle Squares.</p>
+<p>Kirby, along with his dear friend, Leonard Snodgrass, attended Jerry Bradley's caller school in Portland in 1993.&nbsp; Kirby also worked with two professional voice coaches.&nbsp; He was a member of Cascade Callers and Cuers Association, Roundalab, American Callers Association and CallerLab.</p>
+<p>Kirby's passing leaves a huge hole in our hearts and lives, but we realize he is no longer in pain, breathing well and in the company of great callers, cuers and dancers who have gone on before him.&nbsp;</p>
+<p>Kirby's 'other' career included being a purchasing agent for Flomacher in Corvallis, a retailer for Sears in Tuscon and then an elementary teacher in Junction City and Harrisburg.&nbsp; He taught driver's education at the Junction City High School before his retirement.&nbsp;</p>
+<p>We suggest memorial donations either to the Emerald Square Dance Center, or to Green Hill Humane Society, 88530 Green Hill Road, Eugene, OR 97402, or to a local animal shelter.  Kirby always wanted visitors to bring their dogs along.</b>
+<p>A memorial gathering will be held June 9th, second Saturday, at the Emerald Dance Center, 2095 Yolanda, Springfield, OR 97477 at 1:30 with music, color guard, sharing and a potluck.  Please wear your badge if you have one.</p>
+<p>Your support, love and prayers have sustained him and Christina too in this arduous journey,</p>
+<p>Thank you!</p>
+<p>Christina Corelli</p>
+</div>
+</li>
+
+</ul>
