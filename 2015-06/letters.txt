@@ -1,0 +1,114 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").hide();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+
+<ul class='hideseek'>
+<li><a>Heaven Can Wait 5K</a>
+<div>
+<p>
+Calling all Square and Round Dancers in Central Oregon...
+<p>
+Again this year, we're going to have a "team" representing all dancers at the 
+"Heaven Can Wait" 5K event on Sunday, June 7, 2015, at 9 AM, at Drake Park, 
+in Bend.
+<p>
+You must register at <a href="http://heavencanwait.org">heavencanwait.org</a>
+yourself and during that process, you'll have an opportunity to select a team.
+Select "Central Oregon Square &amp; Round Dancers".  I, as Team Captain, will 
+receive notification that you're walking with our team.  You'll also have the 
+opportunity to purchase a T-shirt or Hat for additional cost.  The Council 
+will supply a pink felt square we'll all wear on our back to designate us as 
+Square/Round Dancers.  Also, I will be able to pick up everyone's registration 
+material at Foot Zone in Bend so that not individuals will have to make that 
+trip.   We will meet at Drake Park left of the Bridge in the park.
+<p>
+Last year we had over 25 dancers walking to benefit Breast Cancer Awareness 
+for Sara's Project.  Let's beat last years numbers.!
+<p>
+If you have any questions, please email me, joycewelton@aol.com, or call 
+541-923-8804.  Hope to see you on June 7th.
+<p>
+Joyce Welton
+</div>
+</li>
+</ul>
+
+<ul class='hideseek'>
+<li><a>Club Directory Information</a>
+<div>
+<p>
+There are two times each year when the Federation asks its clubs and
+councils to fill out information and pay fees.  One time is the annual
+insurance process in October.  The other time is the state directory
+process, going on right now.  I would like to spend a few paragraphs
+here to tell you what information we collect, how we collect it, why we
+collect it, and why you should be careful when entering it.
+<p>
+The state directory information is entered on the same pages you use to
+update your OFN information, at http://squaredance.gen.or.us/ClubInfo/ .
+The information we ask for includes the type of dances you hold
+(mainstream, plus, rounds, etc), when and where you hold your regular
+dances, when and where you hold your lessons, contact information for
+your club officers, contact information for your caller and cuer,
+your tax exempt status, information about your special dances, and
+your number of members.  When you finish entering the data on the
+various pages, a copy of your updated information gets mailed to
+the 2nd Vice President, who uses it to produce the state directory.
+We ask you to enter this information in May, after you have held your
+new officer elections.  We collect all of it into a single document,
+which gets printed and distributed at the September state meeting.
+(Because the printing process is more efficient now than it used to be,
+there is talk of changing the deadline to August.)
+<p>
+The information is used in several other ways.  All of the data is stored
+in a central database, and several sections of the Federation’s web
+page are generated automatically from that database, including the club
+directory and the lesson directory.  Google searches for square dancing
+in Oregon lead to our club directory, so it’s important to make sure
+your contact information is accurate.
+<p>
+The state directory has always been a printed publication.  At the last
+state meeting, the executive board voted to start including an online
+version of the state directory on our web site.  When that happens,
+any updates you make will be available immediately, instead of having
+to wait until September.
+<p>
+One thing some clubs may not realize is that this information is also used
+for any official Federation communication.  Our constitution requires
+that, when we need to have a vote of all of clubs (for constitution
+or by-law changes, or for the annual election of officers), those
+ballots must be sent to the club secretary as recorded in the database.
+Every year, some clubs do not receive their ballots because of inaccurate
+or outdated contact information for their club secretary.
+<p>
+I am always amazed at how many people do not know how to spell their
+city name, or their caller’s name, or their dance hall’s address,
+or their zip code, or their email addresses.  We spend a great deal
+of time proofreading and correcting the directory information, and
+that job is getting more taxing now that information is being updated
+throughout the year.  Please, folks, take a little time to double-check
+the information before you enter it, and check it again after you type it.
+<p>
+Recently, a special situation has come up that deserves mention.  There
+are people who, for legal reasons, have protective orders that mean they
+cannot have their contact information appear in public.  We certainly
+want those people to be able to volunteer for their square dance clubs.
+This question has arisen specifically in relation to online availability,
+but the fact is that the printed directory is also a public document.
+If this issue comes up, you should enter their names, but no address
+or email.  If we need to reach these folks, we can go through another
+officer.
+</div>
+</li>
+</ul>
+
