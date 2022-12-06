@@ -1,0 +1,24 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li><a>Valley Squares Caller Search</a>
+<div>
+<p>Valley Squares, the oldest square dance club in the Portland metropolitan area, is in a transitional phase. We want to encourage new ideas to update this traditional activity. Paramount in our philosophy is to be a club that welcomes ALL dancers - one that reflects the diversity of the 21st Century. We aspire to create an atmosphere where new dancers can have fun and be successful, but also where experienced dancers are delighted by creative and challenging choreography. &nbsp;</p>
+<p>We are in the process of making decisions about our club caller.&nbsp;</p>
+<p>If you have a great singing voice, love patter with creative choreography, have expertise in calling and teaching B51 through Advanced Plus; if you are stoked by dancers of all ages, singles as well as couples, including same sex couples or partners switching left and right positions; if you are excited about calling a variety of dances, including Community or Demo dances, email our secretary, Joy Choy at&nbsp;<a href="mailto:bok.choy@live.com" target="_blank">bok.choy@live.com</a>&nbsp;for an application.</p>
+</div>
+</li>
+
+</ul>

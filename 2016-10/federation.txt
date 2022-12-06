@@ -1,0 +1,12 @@
+<h3>Federation Meeting</h3>
+<p>Your state Federation board met in Springfield on September 18 to conduct the business of the Federation. &nbsp;A new slate of officers were installed, including our new president Marilyn Schmit. &nbsp;A committee was formed to establish some policies for conducting background investigations for those participating in youth activities.</p>
+<hr />
+<h3>Mid-Winter</h3>
+<p>Mid-Winter Festival will be held at the Linn County Fairgrounds in Albany, January 27 to 29, 2017. <a href="http://midwinterfestival.com">Click here</a> for forms and more information.&nbsp;</p>
+<hr />
+<h3>Summer Festival</h3>
+<p>Oregon's 2017 Summer Festival will be held at Blanchet School in Salem, July 14 to 16, 2017. &nbsp;More information will be coming very quickly!</p>
+<hr style="clear: right;" />
+<h3><!-- p>
+You can view the Mid-Winter Festival schedule on
+<a href="http://midwinterfestival.com/festival-schedules/">the festival web site.</a --></h3>
