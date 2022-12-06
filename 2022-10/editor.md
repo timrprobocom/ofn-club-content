@@ -1,0 +1,1 @@
+A new slate of Federation Officers took over at the State Meeting on September 18.  We had a lot of opinions expressed on a variety of important topics at this meeting.  When you see an officer or a delegate, be sure to thank them for giving up their time for the benefit of Oregon's square dancers.
