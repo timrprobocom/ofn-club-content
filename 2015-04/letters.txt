@@ -1,0 +1,87 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+table.board tr td {
+    text-align: center;
+    padding-left: 2em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").hide();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+
+<ul class='hideseek'>
+<li> <a>Beach Bingo Dance</a>
+<div>
+<p>
+Bingo cards can be issued at the door. Give out one card for every
+dancer. Have the dancers put their name on the back of the card just in
+case it gets misplaced.
+<p>
+The bingo cards come in a Bingo game purchased at any toy store or even
+Fred Meyers.  Purchase the cheapest one possible because you will only
+be using the cards. Place the cards on a copier. You should be able to
+get 4 cards per sheet of paper. Copy all the cards and then cut the
+copied cards out. These will be the ones you give out at the door.
+Keep the original cards to be used for future dances.
+<p>
+On the back of the cards you will need to attach a strip of transparent
+dots using Elmer's glue. The transparent dots come in rolls and are made
+by Avery. They can be picked up at any stationary store. Use only the
+transparent dots. They are available in Red, Blue, Green, and Yellow. Do
+Not Use the Yellow. Cut out strips of 15 dots and attach them to the
+back of the cards.
+<p>
+Have a Called Number Board set up on stage. This can be a large sheet of
+paper or a dry eraser board. On the top of the board print out the word
+BINGO. Under the "B" put the numbers 1 - 15 in a column. Under the "I"
+put the numbers 16 - 30 in a column. Under the "N" put the numbers 31 -
+45 in a column. Under the "G" put the numbers 46 - 60 in a column. Under
+the "O" put the numbers 61 -75. As the numbers are called, circle the
+number with a marker.
+<p>
+After each tip choose 1 person in each square to give a number. This
+can be the #1 gal in each square, or #4 guy in each square, or whoever
+the MC chooses. You will need a minimum of 5 numbers. If you have
+less than 5 squares, choose another person in each square to give a
+number. Individuals who are chosen to pick a number can pick any number
+they want, even if it is a number on their card. After a number is chosen,
+the number is circled on the Called Number Board. All individuals that
+have the called numbers will place a transparent dot over the number on
+their card.
+<p>
+Choosing numbers will continue after each tip until BINGO is called. At
+that time the numbers will be checked and the winner will choose from
+the door prizes. Play will continue on the same cards until a second
+BINGO is called and so on until all the door prizes are awarded.
+<p>
+It is best to keep the number of door prizes down; otherwise it might go on for a long time.
+<p>
+<h3> CALLED NUMBER BOARD</h3>
+<table class=board>
+<tr><td>B</td><td>I</td><td>N</td><td>G</td><td>O</td></tr>
+<tr><td>1</td><td>16</td><td>31</td><td>46</td><td>61</td></tr>
+<tr><td>2</td><td>17</td><td>32</td><td>47</td><td>62</td></tr>
+<tr><td>3</td><td>18</td><td>33</td><td>48</td><td>63</td></tr>
+<tr><td>4</td><td>19</td><td>34</td><td>49</td><td>64</td></tr>
+<tr><td>5</td><td>20</td><td>35</td><td>50</td><td>65</td></tr>
+<tr><td>6</td><td>21</td><td>36</td><td>51</td><td>66</td></tr>
+<tr><td>7</td><td>22</td><td>37</td><td>52</td><td>67</td></tr>
+<tr><td>8</td><td>23</td><td>38</td><td>53</td><td>68</td></tr>
+<tr><td>9</td><td>24</td><td>39</td><td>54</td><td>69</td></tr>
+<tr><td>10</td><td>25</td><td>40</td><td>55</td><td>70</td></tr>
+<tr><td>11</td><td>26</td><td>41</td><td>56</td><td>71</td></tr>
+<tr><td>12</td><td>27</td><td>42</td><td>57</td><td>72</td></tr>
+<tr><td>13</td><td>28</td><td>43</td><td>58</td><td>73</td></tr>
+<tr><td>14</td><td>29</td><td>44</td><td>59</td><td>74</td></tr>
+<tr><td>15</td><td>30</td><td>45</td><td>60</td><td>75</td></tr>
+</table>
+</div>
+</li>
+</ul>
