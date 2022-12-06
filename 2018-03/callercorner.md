@@ -1,0 +1,24 @@
+I would like to talk about the use of a "singles board".  WARNING, this may be controversial in some clubs, but it is worth talking about. If you are not sure what this is here is my take. Caution, this is only an option for you -- an idea to tweak as you deem fit.
+
+Single dancers are absolutely essential to square dancing. So are couples. They dance often and support councils, clubs, callers, and cuers. Thank YOU very much. There has been and will be continued discussion on what "Singles" mean for our activity. This topic has been discussed at Leadership Seminar more than once. I am a "single" dancer and besides myself, witnessed many, many other Singles at EVERY event I have ever called or danced at. My concern is, how are we taking care of Singles? Give yourself and your club a grade and then read on. When we take their monies for lessons or dances and larger events we need to try and get all of the Singles the best chance to dance. I believe the "Single Board" does this.
+
+This is not my idea; it was used in our area many years back, up to about 3-4 years ago. Then it stopped.
+
+Here is how it works. My opinion:
+
+* You get a white board or any other magnetic type board, like you see in a restaurant (about being Seated or Wait). It can cover from 1 to 12 names.
+* Divide your board in half, placing men&rsquo;s names on one side ladies&rsquo; on the other, as they request to go onto the board when they enter your dance. There needs to be ONE and ONLY ONE person per night to manage this. Select someone that cannot dance for that evening or ask volunteers to step up. "In the Kingdom there can be but one King."
+* Tip 1 starts and on your board , you have 7 Single Ladies and 4 Single Men.
+  * Time out! What if someone comes in after the first tip, then place them on the bottom of the respective list.
+  * Wait! I can dance both positions than place their name of the shorter of the 2 lists. Now on we go.
+* Tip 1 is about to start and Ladies 1/2/3/4 dance with Men 1/2/3/4, they know they have a partner and off to the floor they go.
+* After the first tip here is how tip #2 numbers look like: Your club person in charge of the Board updates it and now: Ladies 5/6/7/8 dance (those that sat out Tip 1) with Men 1/2/3/4, again they have a partner, assigned, and they can check in between Rounds who that new partner is. They can introduce each other and say "I am your partner for the next tip". And so on.
+
+Here is what seems to happens at every dance where a Singles Board is used. Let's say, I want to sit out and Leslie wants to dance, she can add her name on either side for (1) tip and (then remove it after that tip if she wants) dance with the next name up from the board.
+
+Sounds complicated, it is not. How do you move the numbers up and down?  With a pen or get the plastic magnetic numbers that every thrift store and family uses on their refrigerator. Put numbers next to the names, as the current tip ends you are ready for the next tip.
+
+There are 6-8 tips per night. You could start the board at tip 2 or not. You can advertise your club uses a "Singles Board". I would do this for sure. All of these have an UP-side. Now grade your club as to how do we treat singles?
+
+Janienne Alexander
+Caller Liaison

@@ -1,0 +1,48 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li><a>Ed Warmoth Obituary</a>
+<div>
+<p><img class="right" src="content/2018-03/t300/Warmoth.png" /></p>
+<p>Edward Junior Warmoth, long-time fixture in the square dance world and former President of the Oregon Federation of Square and Round Dance Clubs, passed away January 26.&nbsp; He was&nbsp;91.</p>
+<p>Ed was born 01/03/1927 in Portland, Oregon.&nbsp;&nbsp;Through life, he was variously known as&nbsp;Skee, Ed, Eddie, Edwardo, Pop, Dad and GrandPa.&nbsp;&nbsp;His parents were Cenith and Ed Warmoth (a Portland Postman).</p>
+<p>Ed graduated from Benson Technical High School in 1945, along with the future Senator H. Clay Myers Jr. After serving in the Navy during WWII, he married Mary Forney. His career in public relations and administration began in broadcasting, most notably at KNPT in Newport, Oregon, where he worked with Mohave Marie Niemi, who founded Mo&rsquo;s Seafood &amp; Chowder.</p>
+<p>He worked for Oregon&rsquo;s DMV main office in Salem, Oregon.&nbsp; He then became Mayor Terry Schrunk&rsquo;s assistant&nbsp;in Portland.&nbsp;&nbsp;He then worked for Model Citys (Portland), where he worked with Charles Jordan.&nbsp; He then went to work for Traffic Safety of Washington County (Hillsboro).&nbsp; He had been with the Jaycees, the Kiwanis and Rotary.</p>
+<p>In 1961 Ed and Mary took Square Dance Lessons at the Keizer&rsquo;s Elks Club.&nbsp; Ed and Mary joined the Peace Corps after his retirement.&nbsp; They went to Santo Domingo, on the Island of Haiti.&nbsp; When they came home they lived in their motorhome at Will and Karen&rsquo;s house for 3 months before joining Habitat for Humanity.</p>
+<p>During their travels with the Habitat for Humanity, they met many people like Jimmy Carter.&nbsp; Ed was always great at finding out information on anything.&nbsp;You could always count on him to come up with an answer. He will always be loved and missed by many friends and family. Ed is survived by two sisters, three sons, four frandchildren, and six great-grandchildren.</p>
+<p>A memorial service will be held at 3 PM on Sunday, April 15, at Oregon City United Methodist Church, 18955 S South End Road, Oregon City.</p>
+</div>
+</li>
+
+
+<li><a>New Cuer Training</a>
+<div>
+<p>If you are interested in learning to be a cuer, and aren't afraid of a bit of a drive, the Okanagan Square &amp; Round Dance Association will be holding a 3-day cuer's seminar in Vernon, BC, May 18 to 20.&nbsp; The instructors will be Peter &amp; Stells Tennant.&nbsp; Vernon is at the far end of Okanagan Lake, on the other side from Pentiction and Kelowna.&nbsp; If you're interested, check the link at <a href="http://www.region3.squaredance.bc.ca">http://www.region3.squaredance.bc.ca</a>.</p>
+</div>
+</li>
+
+
+<li><a>Thanks</a>
+<div>
+<p>Dear all Oregon dancers,</p>
+<p>I don't know how to say thank you enough for awarding me the Buddy Randall award. I am so very humbled &amp; at the same time so honored to receive this award. I knew Buddy &amp; Nancy so this is even more special. I am sorry I couldn't be there, but was really sick. I hope I can continue to live up to all that they were &amp; did. I truly appreciate every vote that I received &amp; I still can hardly believe it as there are others I'm sure that work hard for the federation. Again thank you all so very much.</p>
+<p>Elaine Funk</p>
+</div>
+</li>
+
+</ul>

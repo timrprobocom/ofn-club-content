@@ -1,0 +1,1 @@
+As spring approaches, take the time to vote for your Federation officers for 2018-19.  Your club secretaries should have received their ballots in February, and the ballots need to be mailed back to the Federation secretary by mid-April, because the quarterly meeting is earlier than usual this year.
