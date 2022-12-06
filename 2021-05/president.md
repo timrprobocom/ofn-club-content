@@ -1,0 +1,9 @@
+Well things might be looking up but there are still some hurdles to jump over and hoops to get through.  The pandemic continues and every two weeks our Governor has changes for each County. Check for the updates frequently and act accordingly.  We don’t want to be out of compliance with the guidelines.  If you are thinking of opening your dance venue to hold Round or Square dancing, please take a look at the Federation Guidelines that are posted on the Federation web site (https://squaredance.gen.or.us/). They  are a compilation of the State directives related to our activity. They can be downloaded as a PDF file.   Thanks to Tim Keck for his effort in making sure we have some data to follow in beginning dancing again.  This will open up the info that you seek.  Read it all.  The last three pages are examples of waivers for your use when you start dancing.  These are required for reading and signing in for the dances so that everyone is aware of their responsibilities and is a good way to track contacts if there is an outbreak from the dance.  If you have any questions please contact Timothy Keck (tjkeck@outlook.com) if you need further information.
+
+Social Square Dancing (SSD) is a new buzz word being talked about and a lot of the state’s callers and other dancers are getting involved.  SSD is a short course (12 weeks) teaching mainstream. Get as much information as you can and discuss this with your club and caller. Choosing to use the SSD teaching method is a group decision and it would be a good idea if some of the other clubs in your area consider it, if your club wants to do it. Here is a link for more information http://callerlabknowledge.org/?s=SSD.  
+
+We are all in this together and whether or not if you received the vaccine, I know we all miss the social aspect that dancing provided.
+
+Swing Your Partner
+
+Gary Clark, Federation President
