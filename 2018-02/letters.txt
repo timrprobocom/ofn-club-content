@@ -1,0 +1,43 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li><a>Barbara Kleve Obituary</a>
+<div>
+<p>Barbara Alice Kleve, a long-time square dancer and wife of caller Harold Kleve, passed away on December 20, 2017.</p>
+<p>Barbara Kleve was born on May 17, 1935 to Daniel Boone Tissington and Recie Mildred Tissington in Choctaw, Okla.&nbsp;</p>
+<p>She is survived by her son, Michael Anthony DeDona; daughter-in-law, Amanda Marie DeDona; grandchildren, Star Lyn Peeler, Jackie Wayne Peeler Jr., David Newton Pearson, Roger "Bud" Raymond Crump, Roxanne Michelle (Crump) Galaviz, Ethan Michael DeDona, Vincent Michael DeDona, Lance Ellis Cline and Briannah Lynn Cline; great-grandchildren, Bretton Keffer, Christopher Shoemaker, David Downing, Kristeya Underwood, Vincent Barreto, Garrett Padgett, Bradley Finan, Nivea Baretto, Lydia Barreto, Braydon Lockwood, Corey Pearson and Skyler Brooks. She was preceded in death by her husband, Harold T. Kleve; son, Jackie Wayne Peeler; daughter, Deborah Ann Jessee; and grandchildren, Chesta Coral Peeler and Anthony Wayne Young.&nbsp;</p>
+<p>A memorial service will be at 3 p.m., Sunday, Jan. 7, 2018, at the Orchid Ballroom of the Oregon Garden of Silverton. Arrangements with Unger Funeral Chapel.</p>
+<p>Please sign the online guest book at&nbsp;<a href="http://www.oregonlive.com/obits" target="_new" rel="nofollow">www.oregonlive.com/obits</a>.</p>
+</div>
+</li>
+
+
+<li><a>Earl Restorff Obituary</a>
+<div>
+<p>Earl Restorff was born on October 3, 1931, and passed on December 27.&nbsp; A celebration of life will be held January 2 at 11 AM at St John's Lutheran Church in McMinnville.</p>
+</div>
+</li>
+
+
+<li><a>Jay Stimler Obituary</a>
+<div>
+<p>Walter Jay Stimler, long-time cuer with his wife Bonnie, passed on December 26.&nbsp; He was borh March 18, 1945.&nbsp; A celebration of life will be held on January 19 at 1 PM at Redeemer Lutheran Church on Lancaster Drive in Salem.</p>
+</div>
+</li>
+
+</ul>
