@@ -1,0 +1,1 @@
+We have a jam-packed issue this month, with notes about lessons, updated on fall dancing, and columns from several of our newly installed Federation officers.

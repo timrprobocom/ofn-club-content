@@ -1,0 +1,38 @@
+---
+title: Betty Hanna
+photo: /content/2019-10/BettyHanna.png
+thumb: /content/2019-10/t300/BettyHanna300.png
+---
+Betty Hanna, 1932 - 2019
+
+We've lost a beautiful, caring and sweet lady, Betty Hanna.     Betty
+and her late husband, Ray, taught rounds for many year from beginners
+through advanced. They also taught couples in their home where they
+had a beautiful dance floor.   Their round dance club was called River
+Bottom Rounders where a number of future cuers learned and danced.
+David Vomocil and Kathy Baumhardt, Christina Corelli and Kirby Goode
+and others learned and danced with them.   Betty and Ray cued for Timber
+Twirlers square dance club and the Linn Wanderers.   Ray and Betty wrote
+a Christmas dance called A Christmas Waltz and also an intermediate rumba
+titled Verida Tropicale.   Their dancers became lifelong friends who
+adored them both.   They, in turn, loved all of us.   We were blessed
+and are saddened that they are both gone.   We have wonderful memories
+to buoy us.   So many round dancers remember them both with fondness
+and love.
+
+Ray and Betty were charter members of Oregon Round Dance Teachers
+Association (ORDTA).   Betty was their second secretary.   Elaine Funk
+is the last remaining founding member of this organization.   There are
+but a few charter members left.
+
+Betty and Ray were on the round dance committee for the 1994 national
+convention in Portland.   Steve and Ginger Weir and the Hannas worked
+on this committee.   Steve and Ginger learned rounds at the Hanna's home
+and became fast friends enjoying vacationing together.
+
+Betty and Ray enjoyed hosting potlucks for the River Bottom Rounders
+and their home and the homes of their dancers.   There were a fun-loving
+couple, and we all remember them so fondly.   Rest in peace Betty and Ray
+Hanna.   Your influence and love carries on, and we thank you so much!
+            
+            

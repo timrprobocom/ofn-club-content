@@ -1,0 +1,2 @@
+The Central Oregon Council has chosen the October 2019 Oregon Round of the Month:  "Do You Love Me", Phase II+1 Two Step (strolling vine), choreographed by Bob & Mary Townsend Manning, by the Contours.
+[Download your cue sheet here](https://www.roundalab.org/CuesheetsDL2/Do%20You%20Love%20Me,%20Townsend-Manning,%20M&B__2+1.pdf).
