@@ -1,0 +1,30 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li><a>Pacific Northwest Teen Square Dance Festival</a>
+<div>
+<p>The Pacific Northwest Teen Square Dance Festival is here! The yearly wait for the teen festival competition is over. This year&rsquo;s festival is May 4th &amp; 5th at Silverton High School, 1456 Pine Street, Silverton, Oregon. This is the 69th year that the PNTSDF has been held and only the 2nd time in Oregon.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have 5 clubs competing this year &ndash; the Delta Sundancers from Canada; the Wesburn Wranglers from Canada; the Young Bunch from Washington; the Jacks &amp; Jills from Washington; and the Silver City Squares from Oregon. There are approximately 150 youth ages 8-21 competing in square dancing, calling, round dancing, cueing and exhibition dancing. Some of the youth are competing in more than one division. Each division has the possibility of Pre-Teen Novice, Pre-Teen, Novice, Junior, Intermediate and Senior levels.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Friday night (May 4th) is the simple night. We start off with setting up for festival (if it doesn&rsquo;t rain, we can start at 4:30 pm). There is a fun dance 7:00 &ndash; 9:00 pm. Everyone is welcome &ndash; just wear your festival pin. There will be festival pins available at the door for $4.00 each if you lost or forgot your pin! We also have Festival Committee meeting Friday night starting at 7:30 pm.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Saturday is the BIG DAY! The kids will line up for the Grand March at 6:30 am with the march actually starting at 7:00 am. Competition starts at 8:00 am in the main gym with the squares and singing calls. And at 8:00 am in the small gym with Mystery Hash for the round dancers. Cuers will be interspersed with the round dancers in the small gym. The patter competition starts at 8:30 am. Afternoon will see the round dancers performing their &ldquo;compulsory&rdquo; dances (these are the dances that they were required to memorize) in the small gym. The main gym will see the square Mysteries and the additional songs/patters for the higher level callers and cuers. The &ldquo;Super Senior Mysteries&rdquo; come just before the dinner break starting at 4:45 pm. Super Senior are adult squares put together to try to dance to a pre-recorded mystery tape. This is also a fundraiser for the festival ($100.00/square). After dinner comes the exhibition competition in the main gym &ndash; these are choreographed dances that can include an entire club and are similar to dance/drill teams. All of the round dancers get to showcase their compulsory (memorized) dances following the exhibitions. Then the &ldquo;let loose&rdquo; fun starts. There is a fun dance to let off steam starting at about 7:20 pm that will go for at least one hour. This is followed by another Grand March and the AWARDS.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Silverton Elks have agreed to bring in their food booth to have food available for sale for lunch (lunch break is 11:30 am &ndash; 1:00 pm) and dinner (5:15 pm &ndash; 6:00 pm) for those who don&rsquo;t want to go off of school grounds.</p>
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Programs and Festival pins will be available for sale during Festival for $4.00 each.</p>
+</div>
+</li>
+
+</ul>

@@ -1,0 +1,3 @@
+We have information this month about the Federation's student scholarships, and about the Pacific Northwest Teen Square Dance Festival, which is going to be hosted in Oregon early in May.
+
+I want to make a special comment about the Tualatin Valley Council.  Last year, the TVC made a commitment to have council visitations to every club's anniversary dance.  The council has responded magnificently; virtually all of the anniversary dances since then have had more than 100 dancers, topping out at 134 at the Valley Squares last month.  It's so great to attend a dance with a full floor.  Nice work, TVC!
