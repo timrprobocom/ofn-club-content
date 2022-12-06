@@ -1,0 +1,84 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li><a>Thank You</a>
+<div>
+<p>To the dancers who bought Split-the-Pot tickets, to the clubs and individual who donated a total of 22 baskets and other items for the Raffle at the 2017 Mid-Winter Festival, you did an outstanding job and hopefully are proud of yourselves.</p>
+<p>Because of your generosity and creativity, the Festival is richer by $1,990.</p>
+<p>Thank You for all your time and effort.&nbsp; It is appreciated.</p>
+<p>Harriet Livingston<br />Special Events Chairman</p>
+</div>
+</li>
+
+
+<li><a>Mid-Winter Last Square Standing</a>
+<div>
+<p class="MsoNormal" style="text-indent: .5in;">For those who watched or participated in the Last Square Standing at Mid-Winter &ndash; here are the results. We had about 14 squares try to last dancing to Randy Dibble.</p>
+<p class="MsoNormal" style="text-indent: .5in;">First place went to a mixed square of kids and dads from the Silver City Squares and Wesburn Wranglers in Burnaby British Columbia: Caitlyn Brendzy, Nicholas Brendzy, and Ray Brendzy from Wesburn Wranglers; Julia Buchheit, Mathew Buchheit, Petrina Buchheit, Thomas Buchheit and Makayla Hutchison from Silver City Squares.</p>
+<p class="MsoNormal" style="text-indent: .5in;">Second Place went to: Laura Cimolino; Allen Crane; Jim Elliot from Valley River Dancers; Brett Heron from Last Chance Squares in Boise Idaho; Dan Knierim and Debbie Knierim from M &amp; M&rsquo;s; Donna Krossman-Darling from Country Cut-Ups; and Darlene Wooden from Salem Swingin&rsquo; Stars/Last Chance Squares.</p>
+<p class="MsoNormal" style="text-indent: .5in;">Congratulations to both squares for lasting through everything!</p>
+<p class="MsoNormal" style="text-indent: .5in;">Our volunteer judges were Janienne Alexander, Christine Brendzy, Karyn Buchheit, Dian Forster, Mark Forster, Manuel Machado, Lorri McIntosh, R J Nueske, and Micki Schranz.</p>
+<p class="MsoNormal" style="text-indent: .5in;">Karyn Buchheit</p>
+</div>
+</li>
+
+
+<li><a>Getting and Supporting Youth Dancers</a>
+<div>
+<p class="MsoNormal" style="text-indent: .5in;">Over the past few years I have heard many people say that there is no need to try to get youth to start square dancing since we lose them after high school. I have also had many people ask how to get youth dancers. These are two very different situations that are very closely connected. A major consideration is that if you don&rsquo;t get a youth interested and dancing <u>before</u> they start college, you won&rsquo;t have much chance again until they have graduated. Also, unless we as a community of dancers support a college age dancer there is a very good chance that we will lose them</p>
+<p class="MsoNormal" style="text-indent: .5in;">Let&rsquo;s address how to get youth dancers first. Your first step is to find some youth who enjoy square dancing. Once you get a few youth, they will bring in more youth. The youth want to have fun and like to dance with other youth. If they can&rsquo;t dance with other youth at least once in a while, they will quit especially if the older dancers refuse to allow them to be &ldquo;wild and crazy&rdquo;. Set aside an area in your hall for an &ldquo;adventure&rdquo; square where dancers are allowed to cut in and out; do circle left/right at a run and other fast/fun moves. The youth dancer likes a fast paced dance and wants to add in lots of extras in the way of styling and fancy moves. To try to attract youth, contact school PTA&rsquo;s, churches, and local home school associations to try to set up demos/mini lessons with them for family nights. Promote dancing as an inexpensive family activity &ndash; this is very true compared to many other activities that families can be involved with. Make sure that youth and families can get to dances &ndash; often times they can be unsure of their welcome. Offer to meet them at a dance or pick them up. Treat youth dancers the same as you would the adult dancers &ndash; be welcoming to all.</p>
+<p class="MsoNormal" style="text-indent: .5in;">In the situation of &ldquo;losing youth after high school&rdquo; this is more of the youth going to college rather than losing interest. Youth are facing three difficulties towards dancing at this time if they are in college: time, finances and a feeling of being abandoned by the dancing community.</p>
+<p class="MsoNormal" style="text-indent: .5in;">Time comes first &ndash; most college students are full time students which means that they are taking a minimum of 12 credit hours. This is the number of hours they are in a classroom. The colleges use a formula of 2-3 hours study time at home per credit hour which means a student taking the minimum of 12 hours also has 24-36 hours per week spent in study which equals a total of 26-48 hours per week. If they are taking 15 credit hours this expands to a total possible of 45-60 hours per week. Many students also add in a part-time job to help pay for college which takes another 20+ hours a week. For many of these youth, classes are taken during the day with work arranged around the class schedule &ndash; which translates into work in the evenings and weekends. This means that at our normal dance times, the college youth dancer is often at work. If there is a special dance or festival coming up, the college youth dancer can often request the time off of work, but there is no guarantee of them getting off.</p>
+<p class="MsoNormal" style="text-indent: .5in;">Finances are next &ndash; college is expensive and getting more so each year. I don&rsquo;t have anyone at a 4-year college yet, but have been informed that students at Oregon State University pay between $20,000 - $22,000 per year for their tuition, fees, books, room and board. Other state/public colleges and universities are close to this range. A private university can double or quadruple this amount. Community Colleges are somewhat cheaper &ndash; but it still adds up. I remember 25+ years ago, community colleges had a set fee if you were a full-time student and once you paid that fee, you could take anywhere from 12-19 credit hours for the term. Now the community colleges charge per credit hour. Then you have the class/lab fees, books, additional expenses. Let&rsquo;s look at Chemeketa Community College for an example since I do have students there. A student taking 15 credit hours per term has tuition of $80 per credit, plus a $14 &ldquo;universal&rdquo; fee per credit equaling a cost of $94 per credit hour per term. For 15 credit hours, this equals tuition of $1,410 per term. If the student is taking an on-line course there is a $50 fee charged in addition to the base tuition. Students are told that they can expect a cost of approximately $450 per term for books and supplies. So base costs per term can equal up to $1,860 and when expanded out for a year (3 terms) equals $5,580. This does not include the parking permit fee of $40 for the year and other incidental fees such as library/copying on campus or special equipment for certain classes. To pay for this out of pocket, the youth must work at least 20 hours a week for 29 weeks at minimum wage. If a student is living at home, the parents&rsquo; income is taken into consideration for all financial aide, grants, job share, etc. and it doesn&rsquo;t take much parent income to make a student ineligible for a lot of these. Parental income is used until a student is 25 or 26 years old!</p>
+<p class="MsoNormal" style="text-indent: .5in;">Third, we come to the feeling of abandonment &ndash; the college dancer wants to go to dances. When they are unable to do so, they miss the enjoyment, activity, and social community that they have become accustomed to and they miss contact with their dancer friends. If a college youth is working evenings and weekends they may not be able to attend dances due to their work schedule. For example, Thomas&rsquo; job at Wilco sometimes requires him to work until their 8:00 pm closing time. With dances starting at 7:30 pm, by the time he gets off of work, comes home, and cleans up he can&rsquo;t get to a dance much before they would end, so he doesn&rsquo;t go. If he has a day off and we are going to a dance, he tries to go with us. The dancing community members do talk to the family members of the college dancer &ndash; but this isn&rsquo;t the same as personal contact. The college dancer also gets tired of people asking, &ldquo;Where have you been, I&rsquo;ve seen your family&rdquo;. This dancer is in college and working! Please think about getting contact information for the college dancer and send them a quick email or text. They would love to hear from people they have come to know. They would also like to have a quick encouraging word &ndash; classes can be very difficult and the students do get discouraged. If a club and extended dancing community has little or no contact with a college dancer for the 2-8 years needed for their degree, why would the college dancer come back?</p>
+<p class="MsoNormal" style="text-indent: .5in;">It is important for all of us to remember &ndash; families and youth are who we need to bring into dancing in order to replace those of us who are aging out due to health, age and mobility. If we don&rsquo;t get younger dancers, eventually dancing will die out from a lack of dancers. We need to work to attract and keep them &ndash; this does mean an effort on the part of every dancer, not just a few families or a few youth. Make dancing enjoyable at lessons, regular dances, special dances and festivals. The more fun we make it, the more we make it attractive to prospective dancers. Make an effort to establish ties with youth and families &ndash; this will make it easier to support these dancers. Please remember when you or your family had youth and what you had to do to support them. Our current youth and families do need the same support &ndash; sometimes just a smile and a word of encouragement can mean the difference between keeping or losing a dancer.</p>
+<p class="MsoNormal" style="text-indent: .5in;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Karyn Buchheit<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="text-indent: 0.5in;">State Youth Advisor</span></p>
+<p>(Author grants permission to reproduce this article into other square dance publications.)</p>
+</div>
+</li>
+
+
+<li><a>Genevieve Churchill Obituary</a>
+<div>
+<p><img style="float: right;" src="/content/2017-03/t300/GenevieveChurchill.png" /></p>
+<p>Genevieve Churchill, matriarch of Oregon Square Dancing, passed away in her sleep on February 9, 2017.&nbsp; She was 105 years old. &nbsp;She is survived by her son George (Snooks) Powers of California, daughter Cory (Steve) Martin of California/Washington, one sister Juanita Brown-Bolton, Redmond OR, three grandchildren and three great grandchildren.</p>
+<p>Genevieve Churchill was born in Belleville, IL, on Nov 22, 1911 to Cora Porter McCamment and Walter McCartney. She was the oldest of 6 sisters.&nbsp; She was preceded in death by her parents, 4 sisters- Betty O&rsquo;Keefe, Fern Green, Floris Loy and June Gilbert, as well as husbands William B. Powers and Robert E. Churchill, and daughter Janet Monahan.</p>
+<p>Genevieve worked for Fred Meyer all her life, twice retiring from the company.&nbsp; She was on the relay crew.</p>
+<p>She was an avid square dancer. &nbsp;After watching a huge square dance on top of the old Farmer's Market in downtown Portland for Oregon's Centennial in 1959, she decided to take up the hobby. &nbsp;She took a square dance class in 1962, and after more than 50 years danced her last dance in August 2014 at the age of 103. &nbsp;She has many accolades and awards that came from square dancing. &nbsp;She has danced around the world and promoted dancing along the way. &nbsp;She was the president of the Oregon Federation of Square and Round Dance Clubs from 1991 to 1992. &nbsp;She served as a Goodwilll Amassador for the Oregon Federation for 10 years, and was a special ambassador to the Penticton Square Dance Festival in British Columbia. &nbsp;She was a member of many clubs over the years, including Valley Squares and Eager Beavers. &nbsp;She danced in all 50 states, and attended 35 National Square Dance Conventions.</p>
+<p>When she was 80 years old, she decided to become a volunteer in the Estate Sales shop of Albertina Kerr.&nbsp; She &ldquo;retired&rdquo; from being a volunteer at age 101. She was the longest serving volunteer at 21 years.</p>
+<p class="MsoNormal">Memorial Services are pending and will be announced at a later date.</p>
+</div>
+</li>
+
+
+<li><a>Marge Pentecost Obituary</a>
+<div>
+<p><img style="float: right;" src="http://eaglenewspapers.media.clients.ellingtoncms.com/img/photos/2017/02/23/02_23_17_Margaret_Elizabeth_Brock_Pentecost_t280.jpg" /></p>
+<p>Margaret Elizabeth (Brock) Pentecost was born May 29, 1925, in Dover, Idaho, to Ursus and Helen Brock. She was the oldest of three daughters, with younger sisters Edith and Mary.</p>
+<p>Margaret spent her teenage years in Kinzua, a lumber town in central Oregon, where her father was manager of the Kinzua Lumber Mill. She graduated from Wheeler County High School in 1942 and went to Linfield College for one semester and then on to Whitworth College.&nbsp;</p>
+<p>She married her high school sweetheart, Wilbur Pentecost, on March 23, 1945, prior to his shipping out to Okinawa, Japan. They agreed to &ldquo;change&rdquo; their names to Dick and Marge (Margie).&nbsp;</p>
+<p>Upon his return from the Army, they settled in The Dalles, Ore., where they both worked for her father at The Dalles Lumber Mill. After their daughter Gay and son Rick were born, in the early 1950&rsquo;s, they moved to their farm out on Seven Mile Hill Road in 1956 and lived there for 49 years.</p>
+<p>They began square dancing in the late 1940&rsquo;s and continued on, with Dick as caller and Marge as cuer for several clubs in the local area.</p>
+<p>Marge went back to work after the kids were in school, working for Dr. John Gilhousen as a secretary/transcriptionist until he retired, and then she was employed by the Episcopal Diocese of Eastern Ore. until she retired.</p>
+<p>She was a member of the Fort Dalles Riders&rsquo; Club, Swap and Swing Square Dance Club, Christian Women&rsquo;s Association, and Calvary Baptist Church.</p>
+<p>They moved from their farm into Flagstone Senior Living in January, 2007. Dick passed away in 2010 after 65 years of marriage.&nbsp;</p>
+<p>Marge is survived by her sisters Edith Mulholland, her four children and spouses, numerous grand and great-grandchildren, Mary Marsden, her two sons and families; her niece Barbara (Wayne) on the Pentecost side of the family and her own children, grandchildren and great-grandchildren; daughter Gay Hall-Pentecost; sons David (Lynn) and Dan (Natalie) and five great-grandchildren, Rick (Leslie) and children, Eric (Sarah), Ted (Brandi) and Beth (Aaron) Foster and four great-grandchildren.</p>
+</div>
+</li>
+
+</ul>
