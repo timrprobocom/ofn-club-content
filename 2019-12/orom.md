@@ -1,0 +1,2 @@
+The Interstate-Highlanders Council has chosen the December 2019 Oregon Round of the Month:  "Summertime Blues", Phase II+2 Two Step (Fishtail and Suzie Q), choreographed by Brigit & Richard Maguire, by Summertime Blues.
+[Download your cue sheet here](https://www.roundalab.org/CuesheetsDL2/Summertime%20Blues,%20Maguire,%20B&R__2+2.pdf).
