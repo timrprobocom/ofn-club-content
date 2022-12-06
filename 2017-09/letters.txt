@@ -1,0 +1,37 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li><a>Claude Butler Obituary</a>
+<div>
+<p><img class="right" src="content/2017-09/t300/CButler250.png" /></p>
+<p>Claude Ellis Butler, age 82, of Roseburg, Oregon, passed away June 19, 2017 at the Roseburg VA Community Living Center Riverhouse. He was born to parents Robert Lee Butler and Mary Mattie Butler. Claude&nbsp;graduated from Roseburg High School in 1953 and joined the Navy, earning a National Defense Service Medal. He&nbsp;enjoyed round dancing, fly fishing, wood working, and sewing.</p>
+<p>Claude is survived by his daughters and their spouses, Bambi Daley and Paul Daley of Redmond, WA, Claudine Brewer and Todd Brewer of Republic, MO; his sons and their spouses, David Butler and Normajean Butler of Reno, NV, Kelly Butler and Nancie Butler of Minden, NV; grandchildren, Robert Butler, Amy Warfle, Jena Ortiz, Brenden Sisson, Derek Butler, Kenneth Daley, Ryan Daley, Shannon Butler, Kori Dunlap, James Butler, Christopher Brewer, Sarah Brewer, Haley Brewer, Thomas Brewer; great-grandchildren, Jessica Tuttle, Robert Perkins, Jena Perkins, Andrew Warfle, Mason Warfle, Adrian Ortiz, Gabriel Ortiz, Angelino Padilla, D'Angelo Butler, Danilo Butler, Ruby Daley, Lorelai Dunlap, Hannah Dunlap; and nieces, nephews and cousins, Judy Butler, Nancy Dunnewin, Pam Butler, Robert Butler, Terrie Butler, Mark Butler, Cindy Randall, Keith McClendon, Phyllis Burke, Bruce McClendon, Steven Fisher.</p>
+<p>Claude was&nbsp;remembered at a gathering of family, friends, and the square &amp; round dance community at the Buckeroo Barn in Roseburg. Claude was a cuer for several decades and cued or taught round dance classes for many festivals and clubs, including Boots &amp; Calicos, Timber 8's, and Dancing Friends. He danced plus regularly with the Timber 8's, even after retiring from cueing, and will be greatly missed.</p>
+</div>
+</li>
+
+
+<li><a>USDA Publications and Educational Materials</a>
+<div>
+<p>We have been appointed as the Western Region Vice President for United Square Dancers of America, or USDA. &nbsp;USDA has produced quality club leadership and educational materials for use by dancers, to help promote and perpetuate the dance activity. &nbsp;Small quantites of these pamphlets and booklets are available to clubs and councils at nocharge, with a minimal charge for larger quantities. &nbsp;See<a href="http://www.usda.org/ED%20Web%20Order.pdf"> this form</a> for a complete list of materials and an order form, or you may order from <a href="http://www.usda.org">www.usda.org</a>.</p>
+<p>Please feel free to contact us with questions or for more information.</p>
+<p>Dale and Kathy Worthington<br />dkworth@hotmail.com<br />503-861-2726</p>
+</div>
+</li>
+
+</ul>
