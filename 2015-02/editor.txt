@@ -1,0 +1,10 @@
+Remember that YOU are in control of the
+dance information that gets displayed in the main section down below.
+You can change the callers and cuers, you can set a theme, you can make
+a dance go dark (or not), and you can set flyers.  You can even add 
+additional special dances.
+
+To do any of that, you need to go to the 
+<a href="/ClubInfo/">state directory club info</a> area.  Use the "Dance" page 
+to update your regular dance information, and use the "Edit"  page to edit 
+specific dance information.

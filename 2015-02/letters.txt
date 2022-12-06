@@ -1,0 +1,84 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").hide();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+
+<ul class='hideseek'>
+<li><a>Ray Claussen Obituary</a>
+<div>
+<p>
+Ray passed away at age 85 on January 7, 2015.  Ray had been diagnosed 
+with liver cancer not long before his passing.  He was a strong advocate 
+for square and round dancing.  Ray danced over 50 years and was always 
+showing up at various clubs and functions.  He loved to dance.  
+<p>
+Ray had planned to attend the January 10 dance in Sweet Home, and his daughter 
+from Morrow, Oregon was down to be with him and take him.  He figured it 
+would be his last dance to attend.  He was that committed to dancing and 
+being with his square and round dance family.  He was a lifetime member of 
+the Sweethome Squarenaders and will be missed by many.
+<p>
+Ray was a weather fan, measuring rainfall and keeping track of the temperature 
+and other weather phenomena.  He'd call friends to compare rainfall and 
+temperatures, etc.  He had, at one time, reported his findings to one of the 
+local television stations. 
+<p>
+A Celebration of Life Service was held in Lebanon January 31 at the American Legion Hall.
+Ray also loved to play cribbage and pinochle and had a game lined up with friends before his death.
+Cards may be sent to Ray's children, Robert Claussen and Karen Dennis at 39941 Crestview Lane,
+Lebanon, OR 97355.  Our thoughts and prayers to Ray's family.
+</div>
+</li>
+<li><a>Thank you from Jim and Judy Hattrick</a>
+<div>
+<p>
+Oh my gosh, where do I begin.  As you know, I had a serious emergency
+surgery on November 13.  After three weeks in the hospital I am finally
+home and slowly on the mend (I think).  I had a ruptured duodenum
+that could not be repaired because of the location of the tear and the
+fragility of my organs.   They placed three drain tubes in my belly to
+keep all drainage from the wound and a staple line at the base of the
+stomach to keep anything from going through the duodenum.  Two weeks
+ago I had a cat scan that showed that the rupture has healed.  I am
+now transitioning from being fed through the vein to being fed through
+one of the tubes in my belly.  I started having severe cramping so they
+have slowed the feeding in the tube.  I seem to be tolerating the tube
+feeding better this week so things are looking up.
+<p>
+As you know, Daryl and Yvonne Clendenin organized a wonderful benefit
+dance for us.  Judy and I are speechless and overwhelmed by the outpouring
+of support.  Never did we think there were so many dancers, callers and
+cuers pulling for us.  How can we show our gratitude?  Thank you just
+doesn't seem sufficient but it is all we have.  We would like to extend
+a special thank you to Daryl and Yvonne for their continued support.
+We would also like to thank the callers and cuers who supported the
+dance. Thank you Craig Abercrombie, Connie Clark, George Clark, KC Curtis,
+Randy Dibble, Bev Flint, Chuck Garner, Ellen Halley, Mike, Halley, Terry
+Halley, Darryl Kalmback, Richard Lane, Bill Lundin, Roger Putzler, Jim
+Raupp, Renee' Ruud, Les Seeley, Julie Stiers, Lonnie Syckes, David Trout,
+Ray Walz, and Mark Wheeler.  Please forgive us if we missed anyone.
+We were also told that several clubs donated baskets for raffles and
+the Happy Hoppers manned the kitchen.  A HUGE thank you goes to everyone
+involved.  There were approximately 34 squares of dancers in attendance.
+WOW!  We haven't seen that many dancers at a local dance in a long time.
+<p>
+Judy and I are so grateful to be part of such a caring and wonderful
+square dance community.  Your generosity has lessened our financial
+burden with this lengthy illness and we will never be able to repay you.
+More importantly, your love and friendship will never be forgotten.
+<p>
+Thank you!  Thank you!  Thank you!
+<p>
+Jim and Judy
+</div>
+</li>
+</ul>
