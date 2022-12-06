@@ -1,0 +1,95 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+
+<ul class='hideseek'>
+<li><a>Irene James Obituary</a>
+<div>
+<p>
+Ireme James passed away on October 30.
+<p>
+A retired school teacher and volunteer activist, Irene James passed away
+Oct. 30, 2015, at Tanner Spring Assisted Living in West Linn. Her husband,
+Chuck James; and daughter, Maureen Hodges preceded her in death. She is
+survived by her grandson, Robert Johnston.
+<p>
+She was born in Portland,
+the middle child of five, to Alois and Flossie Tedisch. Growing up
+during the Great Depression, Irene learned to be thrifty and creative
+all her life. She graduated valedictorian from Albany High School in
+1947, then went on to get her teaching degree from the University of
+Oregon. She taught many years and retired from Portland Public Schools
+soon after her grown daughter, an only child, was murdered in 1987. She
+worked through her grief and soon after she became a strong leader in
+Parents of Murdered Children.
+<p>
+She and her husband, Chuck, were avid
+recyclers, gardeners and environmentalists leading them to turn their
+small acreage outside Tualatin into a nature reserve providing habitat
+for wildlife including vulnerable bird species. As a skilled seamstress,
+she created many complete outfits for underprivileged children. Her
+love of nature, books, music and square dancing enhanced her life as
+well as the lives of those around her. She was respected and loved
+by all who knew her. She will be missed, but will never be far from
+our hearts. A celebration of her life will be held at 2 PM Friday,
+Jan. 22, 2015, at Metanoia Peace House, 2116 N.E. 18th Ave., Portland, OR
+97212. In lieu of flowers, donations may be made to Parents of Murdered
+Children, P.O. Box 515, Beaverton, OR 97075-0515 or Bonnie Hays Animal
+Shelter, 1901 S.E. 24th Ave., Hillsboro, OR 97123.
+</div>
+</li>
+</ul>
+
+
+<ul class='hideseek'>
+<li><a>Fun!</a>
+<div>
+<p>
+To all Square Dancers,
+<p>
+Square dancing is <u><i>fun!</i></u> That is the one reason that we all do it -
+for the <u><i>fun</i></u>. That being said, I think there are a couple of general
+rules that would make it more enjoyable for all of us. First, the
+square dancer should be able to dance. Not dancing when a square is
+broken is not <u><i>fun</i></u>. To keep a square going, dancers need to be aware of
+the capabilities of others in the square.  If you are in a square with
+experienced dancers, a certain amount of “cutting up” is <u><i>fun</i></u> and is
+expected.  If you are in a square with new dancers or challenged dancers,
+you need to keep your cutting up to a level that does not bomb the square.
+If you try it and the square bombs, don’t do it again.
+<p>
+Second and even more important, we have an obligation when angeling to
+not confuse the students. Cutting up can confuse students, makes it harder
+for the instructor and is not <u><i>fun</i></u> for those that are in a learning mode.
+<p>
+Third, we all enjoy dancing in the square that just sails through
+the calls and allows us to dance to the best of our capabilities. One
+square like that makes the whole dance <u><i>fun</i></u>.  Again, that being said,
+we also have an obligation to the other members in our club who are
+less skilled on the floor.  After all, you were not always the shining
+example of square dance expertise that are now.  You learned by being in
+squares with more experienced dancers.  When you see a square with new
+or challenged dancers, don’t run and hide in the experienced square.
+Spend one or two tips with those less experienced dancers. Sure, you
+may not be able to cut up as much or dance at the level you would like,
+but you will be giving the newer dancers the advantage of your experience
+and expertise, just like others gave you when you were learning.
+<p>
+Last but by no means least, square dancing is <u><i>fun</i></u> - let’s keep it that way 
+for all of our dancers. We all deserve to have some <u><i>fun</i></u>!
+<p>
+Nick Heineck<br>
+Lebanon Square Circlers
+</div>
+</li>
+</ul>
