@@ -1,0 +1,3 @@
+As you hold your elections for next year's officers, remember to go enter that information in the Federation's membership web site, both to keep the state directory current, and so that we know how to contact you.  Ballots for the constitutional amendment are on their way to your club secretary, and if the address isn't current, you might miss out on your opportunity to vote.
+
+The membership page is at http://squaredance.gen.or.us/ClubInfo/.

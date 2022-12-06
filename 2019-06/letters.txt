@@ -1,0 +1,46 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li class='clear'><a>Summer Festival</a>
+<div>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-indent: .5in;">The first of many special events during Summer Festival has us dancing on the Oregon&rsquo;s State Capitol steps on Friday, July 19<sup>th</sup>.<span style="mso-spacerun: yes;">&nbsp; </span>You can drive directly to the State Capitol at 900 Court St. NE, or drive to Blanchet Catholic School and catch a ride on the Cherriots, Salem&rsquo;s Public Transportation at 9:40 am. The Mainstream square dance on the steps with Leonard Snodgrass starts at 10:30 am and lasts for 2 hours.<span style="mso-spacerun: yes;">&nbsp; </span>Be sure to wear colorful, comfortable clothes and shoes.<span style="mso-spacerun: yes;">&nbsp; </span>After the dance, Cherriots will deliver you back to the school in time to for you to purchase a hamburger, hotdog or other food item at the Youth Concessions Stand. Dancing starts in the halls at 2:00 pm. <span style="mso-spacerun: yes;">&nbsp;</span>A Cherriots round trip costs $3.25 for adults and $1.50 for youth and seniors.<span style="mso-spacerun: yes;">&nbsp;&nbsp; </span>If you&rsquo;d like to walk around the capitol area, Cherriots sends a bus to Blanchet every 15 minutes.<span style="mso-spacerun: yes;">&nbsp; </span>For more information, please check out Lorri McIntosh&rsquo;s article on the &ldquo;Oregon Summer Festival 2019&rdquo; Facebook page. <span style="mso-spacerun: yes;">&nbsp;</span></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-indent: .5in;">On Saturday, there will be fun games for the youth, with an opportunity to win a prize basket.<span style="mso-spacerun: yes;">&nbsp; </span>Our Funsters, Lee Ashwill and Dave Cooper, will also be leading a fun activity outside on one of the fields Saturday afternoon. <span style="mso-spacerun: yes;">&nbsp;</span>You&rsquo;ll have to come to see what fun activity they have arranged for us!<span style="mso-spacerun: yes;">&nbsp; </span>Mid-Winter Chairmen Aaron and Linda Gibbens and committee are working on their Promo Party with Janienne Alexander on Saturday from 4:00-4:45 pm in the Mainstream Hall.<span style="mso-spacerun: yes;">&nbsp; </span>Come hear about their plans for Mid-Winter 2020.</p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-indent: .5in;">On Saturday, there will also be a special Educational Seminar on how to keep your club legally healthy led by Tim Roberts, OFSRDC Parliamentarian.<span style="mso-spacerun: yes;">&nbsp; </span>Tim will be joined by Lane Clem, OFSRDC Treasurer and other guests who will present information and answer your questions about how to establish a club, how to keep your existing club healthy, what forms you need to complete for the IRS, what things are required by law for non-profit clubs, and more.<span style="mso-spacerun: yes;">&nbsp; </span>Please bring your questions and join Tim, Lane and other speakers on Saturday, July 20<sup>th</sup> from 3:00-4:00 pm in the Education Room.</p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-indent: .5in;">On Sunday, dancing will start in the Mainstream Hall at 9:00 am with callers and cuers from around the state in an Open Mic format led by Caller MC Phil Ramey and Cuer MC Mark McDonald. MaryAnn Callahan will be conducting a Phase IV Teach in the Round Dance Hall, followed by a Round Dance Review.<span style="mso-spacerun: yes;">&nbsp; </span>Back in our Mainstream Hall between 11:00-1:00 pm, we will have a very special Trail&rsquo;s Out Dance with Featured Caller Michael Kellogg and Featured Cuer MaryAnn Callahan.<span style="mso-spacerun: yes;">&nbsp; </span>You won&rsquo;t want to miss this special day of dancing before you start your trek home.</p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-indent: .5in;">Our Summer Festival Quilt, &ldquo;We Are One&rdquo; will be on display next to the Registration Table.<span style="mso-spacerun: yes;">&nbsp; </span>This unique one of a kind quilt has 12 blocks.<span style="mso-spacerun: yes;">&nbsp; </span>Ten of the blocks represent a council in the OFSRDC.<span style="mso-spacerun: yes;">&nbsp; </span>The last 2 blocks are for Summer Festival and the OFSRDC.<span style="mso-spacerun: yes;">&nbsp; </span>It takes all of us working together to put on this Festival &ndash; together, &ldquo;We Are One&rdquo;.<span style="mso-spacerun: yes;">&nbsp; </span>Raffle tickets for the quilt are $1 each and will be available at the Registration Table.<span style="mso-spacerun: yes;">&nbsp; </span>The winning ticket will be picked Saturday night when we draw for the Basket Raffles and Split the Pot.</p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-indent: .5in;">Daytime dancing will be casual dress.<span style="mso-spacerun: yes;">&nbsp; </span>Evening dancing will be square dance attire.<span style="mso-spacerun: yes;">&nbsp; </span>Please remember no cowboy boots or spike heels on the gym floors in the Mainstream and Plus Halls.</p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-indent: .5in;">If you are planning on staying at the Shilo Inn, the Comfort Inn, or the Comfort Suites and would like to take advantage of the group rate, please remember to make your reservations prior to June 18<sup>th</sup>.<span style="mso-spacerun: yes;">&nbsp; </span>On June 18<sup>th</sup>, the rooms that have not been reserved will be released and the prices will go up.</p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-indent: .5in;">If you&rsquo;d like to volunteer to help with Summer Festival, please contact me at <a href="mailto:Kathy@4roberts.us">Kathy@4roberts.us</a>.<span style="mso-spacerun: yes;">&nbsp; </span>Let me know where you&rsquo;d like to help and I&rsquo;ll put you in contact with the correct committee.<span style="mso-spacerun: yes;">&nbsp; </span>Currently, we need volunteers to help with decorations Friday morning, selling Split the Pot Tickets, and with the Basket Raffle.<span style="mso-spacerun: yes;">&nbsp; </span></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-indent: .5in;">For additional information on the Festival including our registration form, dance schedules, and Youth Concessions Menu, please visit our Webpage at <a href="http://www.2019.oregonsummerfestival.org/">www.2019.oregonsummerfestival.org</a> or our Facebook page &ldquo;Oregon Summer Festival 2019&rdquo;.<span style="mso-spacerun: yes;">&nbsp; </span>One day ribbons will be available at the door.<span style="mso-spacerun: yes;">&nbsp; </span>Friday or Sunday only ribbons will be $12 per day per person.<span style="mso-spacerun: yes;">&nbsp; </span>A Saturday only ribbon will be $25 per person for the entire day.<span style="mso-spacerun: yes;">&nbsp;</span>&nbsp;</p>
+<p class="MsoNormal" style="margin-bottom: .0001pt;">&ldquo;Let&rsquo;s Get Together in 2019&rdquo; for a FUN Time.<br />Kathy Roberts, Summer Festival 2019 Co-Chairman <span style="mso-tab-count: 1;">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>
+</div>
+</li>
+
+
+<li class='clear'><a>PAC/TVC Alzheimer's Dance</a>
+<div>
+<p>Thanks to those you attended the May 19th Portland Area Council and Tualatin Valley Council Alzheimer&rsquo;s Benefit dance, it was a great success!&nbsp; Thank you to caller MC Dan Nordbye and the other callers in attendance that donated their time (Darrell Kalmbach, Terry Halley (Betty Chipps), K.C. Curtis (Linda Curtis), Daryl Clendenin, Anthony Egan and Lane Clem (Marie Clem).&nbsp; The last tip of the night Dan had Terry, Egan, and Lane up on stage for a few singing calls&hellip;.lots of fun.&nbsp; Stephanie from the Alzheimer's Association took videos and pictures that she will email to me, hope to post them to Facebook soon.&nbsp;&nbsp;</p>
+<p>A big thank you to all the clubs who donated baskets for the raffle.&nbsp; They were really creative and brought in a lot of money.&nbsp; The food items were donated by other dancers, as well as the Alzheimer&rsquo;s office donated 7 items.&nbsp; Here is the breakdown:</p>
+<p>79 signed in dancers<br />$900 in door donations<br />$121 in food, silent auction donations<br />$508 in basket raffle donations<br />$1,529 GRAND TOTAL for the Alzheimer&rsquo;s Association.&nbsp;</p>
+<p>Thank you volunteers, you made the day run so smoothly!&nbsp; Hope we can do it again next year (the Sunday after Mother&rsquo;s Day in May?).&nbsp; Looking forward to the Toe Dragger&rsquo;s &ldquo;Man Enough to Wear Pink&rdquo; cancer benefit dance later this year!</p>
+<p>&nbsp;</p>
+<p>Julie Stiers-Cuer</p>
+</div>
+</li>
+
+</ul>
