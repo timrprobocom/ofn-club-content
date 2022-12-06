@@ -1,0 +1,55 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li class='clear'><a>Alzheimer's Association Benefit Dance</a>
+<div>
+<p class="MsoNormal" style="margin: 0in 0in 0.0001pt; line-height: 107%;"><u></u>We would like to encourage all dancers and callers/cuers to attend the May 19, 2019 Alzheimer's Association Dance dance at the Oak Grove Community Club (see flyer below).&nbsp; We will have an open break with finger foods.</p>
+<p>There will be baskets to raffle and baked goods to put in your silent bids.&nbsp; All money raised from the basket raffle tickets and the silent auction will be donated to the Alzheimer&rsquo;s Association.&nbsp; Your donation will get you into the dance.&nbsp; While at the dance, you can complete a donation slip if you would like a tax-deductible receipt emailed to you OR you can donate on-line now to the Team Page I&rsquo;ve created on the Alzheimer&rsquo;s website:</p>
+<p><a href="http://ALZ.org/TLD">http://ALZ.org/TLD</a></p>
+<p>* At the main page click &ldquo;Find a Fundraiser&rdquo;<br />* Search by Team Name: &nbsp;&nbsp;Oregon Federation&nbsp; &nbsp;click Search<br />* Click on the link&nbsp; &ldquo;Oregon Federation of Square and Round Dance Clubs&rdquo;<br />* Click on DONATE<br />* Click on MAKE A TEAM DONATION<br />* Enter your donation and click on the green &ldquo;Donate&rdquo; button to complete.&nbsp; You will receive an email receipt for your donation.&nbsp;</p>
+<p>The callers and cuers who participate in the event are donating their time, and the hall rent is being donated.&nbsp; We dance to have fun and raise awareness.....&nbsp; Hope to see you on May 19th, and wear purple!</p>
+<p>Thank you, &nbsp;Julie Stiers (Cuer)&nbsp; &nbsp;&nbsp;</p>
+</div>
+</li>
+
+
+<li class='clear'><a>Summer Festival</a>
+<div>
+<p>Oregon&rsquo;s 2019 Summer Festival will be July 19-21, at Blanchet Catholic School in Salem.&nbsp; Blanchet is the perfect location in the heart of the Willamette Valley. &nbsp;It is about an hour from Portland or Eugene, and only a couple of hours for most of the rest of the state. &nbsp;&nbsp;When you take the Market Street Exit in Salem, the school is only a &frac12; mile from I-5, east of Lancaster Drive. &nbsp;The school is close to restaurants, hotels, shopping, and gas stations.</p>
+<p>We have discounted rates with three hotels in the area.&nbsp; The Shilo Inn (503-581-4001) and the Comfort Inn and Suites (503-588-0515) are 1 block west of I-5 on the Market Street Exit.&nbsp; The Comfort Suites&nbsp; (503-585-9705) is off the Mission Street Exit.&nbsp; There will be limited dry camping on-site for $10 per night, available starting Thursday afternoon. &nbsp;Your rigs will be secure; the gates are locked every night at 10:30 pm.&nbsp; If you require power and or water, there are several campgrounds on the internet, including Salem RV (503-364-5490) and Phoenix RV Park&nbsp; (503-581-2497).</p>
+<p>Dancing will start at 2:00 pm on Friday, July 19.&nbsp; Blanchet has 2 beautiful large wooden gym floors where we will be dancing Plus with Rounds and Mainstream with Rounds.&nbsp; We will also have a separate hall for Rounds, and another hall for our Advanced dancers.&nbsp; In order to protect their wooden gym floors from damage, cowboy boots, spike heels, and high heels that come to a point will not be allowed on the wood floors.&nbsp;&nbsp; &nbsp;&nbsp;</p>
+<p>Summer Festival&rsquo;s featured caller, Michael Kellogg, is from Northridge California, and has been dancing since 1983.&nbsp; During the late 80s and 90s, he called full-time through the US, Europe, and Japan.&nbsp; Since the early 2000s he reduced his travels so that he could work full time as a software engineer. &nbsp;In addition, Michael teaches lessons for beginners through C3B. Michael&rsquo;s bio is on the Summer Festival Webpage (<a href="http://www.2019.oregonsummerfestival.org/">www.2019.oregonsummerfestival.org</a>) under the Callers Tab.&nbsp;</p>
+<p>Summer Festival&rsquo;s featured cuer, MaryAnn Callahan, is from Northern California and started dancing as a teenager with the Teasin&rsquo; Teens in Medford.&nbsp; In 1991, MaryAnn started teaching round dancing with her partner Craig Cowan.&nbsp; MaryAnn dances and teaches all levels of round dancing.&nbsp; She is a member of several professional organizations and has choreographed several dances.&nbsp; MaryAnn&rsquo;s bio is on the Summer Festival Webpage under the Cuer Tab.</p>
+<p>In addition to our featured caller and cuer, we will be enjoying the talents of many of our Oregon callers and cuers.&nbsp; We are planning a complete dance program in all of the halls.&nbsp; There will also be several workshops and teaching sessions available for your dancing pleasure.&nbsp;</p>
+<p>Your OFSRDC State Delegates, Officers, their representatives, and committees are planning a great Summer Festival.&nbsp; If you haven&rsquo;t registered yet, click on the &ldquo;Registration Form&rdquo; link at (<a href="http://www.2019.oregonsummerfestival.org/">www.2019.oregonsummerfestival.org</a>), complete it and mail it in. You won&rsquo;t want to miss this fun Festival!&nbsp; Visit out our Summer Festival 2019 Facebook page to keep up-to-date and to post questions.&nbsp;</p>
+<p>In next month&rsquo;s OFN , I&rsquo;ll share information &nbsp;about our special events and open mic opportunities.</p>
+<p>&ldquo;Let&rsquo;s Get Together in 2019 &ndash; Summer Festival&rdquo;<br />Kathy Roberts, Co-Chairman</p>
+</div>
+</li>
+
+
+<li class='clear'><a>Pioneer Courthouse Square</a>
+<div>
+<p><a href="http://ofn.club/content/2019-04/PCS_SquareDance_Flyer_V3.pdf"><img class="right" src="http://ofn.club/content/2019-04/t300/PCS_SquareDance_Flyer_V3.300.png" /></a></p>
+<p>A unique opportunity has been presented to us!</p>
+<p>April marks the 35th anniversary of Pioneer Courthouse Square, often called "Portland's Living Room".&nbsp; In celebration of that milestone, the City of Portland has asked the Federation to put on a free square dance.&nbsp; This dance will be held in the Square at 11:30 on Friday, April 5.&nbsp; Leonard Snodgrass will be calling&nbsp;mainstream tips, and occasionally the onlookers will be invited to come join us for an introduction session.</p>
+<p>All dancers in the area are invited to come on down and show the general public how much fun it is to "square it up".  The sponsors will be providing free cupcakes.&nbsp;&nbsp;Click on the thumbnail above to get a printable flyer for this event.</p>
+</div>
+</li>
+
+</ul>

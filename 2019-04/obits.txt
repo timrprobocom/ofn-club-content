@@ -1,0 +1,66 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li class='clear'><a>Richard (Dick) Pesek</a>
+<div>
+<p><img class="right" src="https://www.donelsonfh.com/fh_live/15400/15410/images/obituaries/6006377_fbs.jpeg" /></p>
+<p>Richard (Dick) James Pesek, 89, formerly of Rapid City, SD, died Friday, February 15th, 2019 in Hillsboro, Oregon.</p>
+<p>Born July 27, 1929, he was the son of Adolph G Pesek and Christina K Hruska in Mellette County, South Dakota. He was raised in Rapid City, SD and graduated from Rapid Central School in 1947. Then met the love of his life Patricia Mansfield in Rapid City and married her on August 14, 1950. Dick served honorably in the United States Army as a surveyor (1950 -1951) but was honorably discharged due to a knee injury.&nbsp; After his military service, he went to work for Julian Straven Engineering as a surveyor.&nbsp; Then he transitioned into a long career as a bricklayer in Rapid City, SD. In 1987, Dick and Patricia decided to move to Portland, Oregon where he worked as a bricklayer for 10 years.&nbsp; Dick retired in 1997 and enjoyed square dancing, hiking, making wine and salsa, fishing, and hunting. He also was a proud father of four daughters and four sons, 13 grandchildren, and 6 great grandchildren that he enjoyed spending time with. &nbsp;&nbsp;</p>
+<p>He is survived by his wife of 68 years, Patricia Mansfield; six of his children: Lori Krush &ndash; Hillsboro, OR; Cheryl Wasko (Richard) &ndash; Kiowa CO; Gail Poole &ndash; Aurora, CO; David Pesek - Boonville, NC; Donald Pesek (Misty) Flagstaff, AZ; Dale Pesek &ndash; Mukilteo, WA. 13 grandchildren; 6 great-grandchildren; and one sister: Rosanne Mansfield &ndash; Rapid City, SD.&nbsp; Dick was preceded in death by his two eldest children Rhonda K Pesek and Douglas D Pesek along with his brothers Ralph Pesek, Rapid City, SD, Red Pesek, Rapid City, SD, Bob Pesek, Houston, TX, Paul Pesek, Mesa, AZ, and Joe Pesek Rockledge, FL.</p>
+<p>Memorial service will be held with Rosary at 11:00, Mass at 11:30 with Celebration of Life at 12:30 with lite lunch on 21 February, 2019. &nbsp;At St Mathews Church, 475 SE 3rd Ave, Hillsboro, OR 97123 where Patricia and Dick were longtime voluntaries at the parish.</p>
+</div>
+</li>
+
+
+<li class='clear'><a>Shirley Scott</a>
+<div>
+<p>Long-time Toledo 49'rs first lady Shirley Scott passed away recently. Sam and Shirley were mainstays of the club for over half of th eclub's 60 years.</p>
+<p>Shirley passed away March 3 in Happy Valley, OR from advanced dementia. She was born in York, Nebraska to Harry and Gladys (Thamer) Atkison. The family moved to Oregon in the 1930&rsquo;s, residing first in Corvallis and then eventually moving to Newport, where Shirley graduated from Newport High School in 1946.</p>
+<p>Shirley married Samuel L. Scott in December 1945, starting and raising a family where Shirley was able to be a stay at home mom until all her children graduated from school.&nbsp; She then joined the work force and worked for the Lincoln County Court House until retirement. Following retirement, Shirley spent her days volunteering at the Oregon Coast Aquarium. Shirley was a member of the Toledo 49&rsquo;rs Square Dance Club, Knotty Ladies Quilt group, and First Presbyterian Church. She found great joy spending time quilting, knitting, square dancing, and early morning lap swimming.</p>
+<p>Sam was the 49'rs caller and instructor for many years and was a frequent guest caller for other clubs on the coast and in the Willamette Valley. He taught and cued round dancing for a number of years, as well. Shirley was an accomplished seamstress, knitter and quilter. She worked at the front desk at the Lincoln County Courthouse in Newport, swam daily and volunteered at the aquarium. Pat and her younger brother Jim were with her in the final hours. She had been living in the Oregon City area near Pat since she had to move from Ocean View Assisted Living in Newport. A memorial service will be held in Newport at the Presbyterian church on Saturday March 23 at 2:00 p.m.</p>
+</div>
+</li>
+
+
+<li class='clear'><a>Beverly O'Dell</a>
+<div>
+<p><img class="right" src="content/2019-04/BeverlyODell.png" /></p>
+<p>Beverly Jean O'Dell was borh July 21, 1932 in Kewanee, IL.&nbsp; She came to Oregon in 1943 and graduated from Grant High School in 1950.&nbsp; She married Perry O'Dell in Portland in 1951, and they made their home in Beaverton, where she has resided since.&nbsp; Perry passed in 1984 after 32 years of marriage.</p>
+<p>Beverly worked for the Beaverton School District for 23 years, first as a cafeteria cook, then library aide, bookkeeper, learning disability aide, and finally special education secretary at Cooper Mountain Elementary School.</p>
+<p>Beverly had been a long-time active member of Beaverton's First United Methodist Church, since 1954.</p>
+<p>Among her special interests, she enjoyed oil painting, working in the flower garden, and her fish pond.&nbsp; She loved dancing, and had been a member of the Valley Squares since 1974.&nbsp; She also enjoyed attending her grandchildren's soccer and basketball games.</p>
+<p>She is survived by her sister, two sons and a daughter, eleven grandchildren, and fourteen great-grandchildren.</p>
+</div>
+</li>
+
+
+<li class='clear'><a>Joe Wrabek</a>
+<div>
+<p><img class="right" src="content/2019-04/t150/wrabek180.png" /></p>
+<p>Joe Wrabek, former Garibaldi City Manager and long time caller for the Wavw Steppers, passed away at home on March 7, 2019 following a five and a half year battle with cancer.</p>
+<p>Joe was born on September 25, 1949, in Spokane, Washington. Joe grew up in upstate New York and attended Syracuse University before moving to Oregon in 1972. Shortly after moving to Oregon, he settled in the Columbia River Gorge, where he became a land rights activist, testifying before congress in opposition to the Columbia River Gorge Act. His activism led him to serve on Cascade Locks City Council from 1983-89, and as Mayor from 1989-1991. Perhaps more notable, during his time in the Gorge Joe was the rhythm guitarist and a songwriter for the popular bluegrass band, The Dodson Drifters.</p>
+<div id="tncms-region-article_instory_top">&nbsp;</div>
+<p>Public service was at the heart of everything Joe did. After serving as Mayor of Cascade Locks, Joe worked as the city manager for small cities across Oregon, including Vale, Huntington, Union, Phoenix, Lafayette, and Garibaldi. His humor, music, and fiscal management skills touched every corner of the state. When he wasn&rsquo;t running a small city, Joe was normally working as a journalist, most recently for the Headlight Herald.</p>
+<p>In his retirement, Joe served as a committed board member for both Bay City Arts Center and the Fairview Grange. Among his many activities, Joe planned and participated in songwriting contests and open mics with both organizations.</p>
+<div id="tncms-region-article_instory_middle">&nbsp;</div>
+<p>In addition to his local community music and arts charitable work, Joe was a gifted artist featured at songwriting and talent competitions locally, nationally, and internationally. He released seven albums commercially including: Santa&rsquo;s Fallen and He Can&rsquo;t Get Up (2005), Dead Things in the Shower (2011), Pole Dancing for Jesus (2013), the all-solo Naked Album (2015), and Jesus on the Mainline (2019). A pre-posthumous tribute album, Cuppa Joe, was released in 2014 with various artists in the U.S., Canada, and England covering some of Joe&rsquo;s songs. From global warming to organized religion, to the media and the music business - few subjects were safe from Joe&rsquo;s dark humor and tongue-in-cheek lyrics. Given how many songs he had about roadkill, he&rsquo;s probably somewhere wondering why cancer got him before a truck with faulty brakes.</p>
+<p>Joe leaves behind his loving wife of 30 years, Sandra Koops of Garibaldi, OR; their daughter Kimberly Koops-Wrabek of Portland, OR; and his sisters, Trish Wrabek of Soldotna, AK and Annie LeClair Cieply of Beaverton, OR; nephews Michael Cieply and Nicholas LeClair of Beaverton, OR; cousin Janet (Danny) Towne Jones and Uncle William G. Towne of Lockport, NY; along with many friends and fans. Joe was predeceased by his parents, Leona and John Wrabek. The family will be holding a celebration of life at the Fairview Grange&rsquo;s monthly open mic on Saturday, April 6, 2019 at 6 p.m. in Tillamook, Oregon (5520 Third St.).&nbsp; The public is welcome, the Grange will have a spaghetti dinner available for a donation at 5 p.m. Please make donations in lieu of flowers to the Fairview Grange or Bay City Arts Center to support other songwriters.</p>
+</div>
+</li>
+
+</ul>
