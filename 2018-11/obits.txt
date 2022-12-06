@@ -1,0 +1,39 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li><a>Lloyd Larson Obituary</a>
+<div>
+<p>Lloyd Larson, a long-time square dancer in the McMinnville area, passed away of natural causes on August 26.</p>
+<p>Lloyd was born in Glendale, California on January 20, 1948 and moved to Oregon at a young age with his family. He grew to become an amazing man and successful business owner of "Lafayette Auto Body", in Lafayette, Oregon. Since then, he had retired and moved to Salem. During this time, he was active in his church at Willamette Valley Baptist Church in Aumsville, OR and involved with his square dancing. In 2012, he moved to Tucson, Arizona to warmer weather. Beloved Lloyd Jeralde Larson passed away on the 26th of August peacefully while sleeping of natural causes in Tucson, Arizona at the young age of 70.<br /><br />Lloyd is survived by one brother, Tom Larson and a sister, Joanne Clay, four children, Wade McGowan, Julie Schaffroth, Jeana McAllister and Kristina Larson and seven grandchildren.&nbsp;<br /><br />Lloyd was a man of God and lived a humble life. He loved to go deep sea fishing, work on cars, square dance calling/dancing and to grow a ton of fruit in his yard; didn't matter if it was a desert, he still made it happen. He loved his family, friends and animals who would keep him company. He was loved by many and will definitely be missed on this God given Earth! Until we see each other again, may Lloyd Rest in Peace with our Father in heaven. PS I'll do my best to bring you that Humdinger that you craved so much! I love you Daddy!<br /><br />Services will be held in Salem at Court Street Christian Church on October 6, 2018 at 1 pm. Located at 1699 Court St NE, Salem OR 97301</p>
+</div>
+</li>
+
+
+<li><a>George Griffith Obituary</a>
+<div>
+<p><img class="right" src="http://www.eastoregonian.com/storyimage/EO/20181008/ARTICLE/181009848/AR/0/AR-181009848.jpg" width="329" height="400" /></p>
+<p>George Goodall Griffith was born on September 1, 1925, at the Griffith home in Ione, Oregon, and died at age 93 on October 6, 2018, at Regency Care Center in Hermiston, Oregon. Services will be held Friday, October 12 at 2 p.m. at Ione Community Church, 395 E. Main St., Ione, Oregon. Internment by Sweeney Mortuary will be at Morgan Cemetery with military honors, following the service and dinner.</p>
+<p>George was born in Ione, Oregon, at the Griffith family home, the only son of Elmer and Frances Ann (Goodall) Griffith. He had two older sisters, Virginia and Katherine, and one younger sister, June. George attended grade school at the one-room schoolhouse in Morgan. He attended high school in Ione where he played football and basketball and graduated in 1943.</p>
+<p>He enlisted in the Marine Corps in January 1944, received basic training in San Diego and Camp Pendleton and became a member of the Fifth Marine Division. In August 1944, they were stationed at Camp Tarawa near Kamuela, Hawaii, which was on the famous Parker Ranch. On January 4, 1945, the Fifth Division left Camp Tarawa and sailed to combat at Iwo Jima. They landed on Iwo Jima on February 19, 1945. For 36 days, they fought one of the bloodiest battles of WWII. He witnessed the historic raising of the flag on Iwo Jima, which has become an iconic memorial and symbol of the United States fighting men. They returned to Hawaii for furlough and were sent to Japan where they landed at Sasebo on September 22, 1945, after the Japanese surrender.</p>
+<p>George married Lorene Adele Mitchell of Heppner, Ore., on May 19, 1951, and they had four children, Charlotte Rose born June 24, 1952, Glen George Aug. 9, 1957, and Elmer Dee and Grant Lee March 30, 1965. George and Lorene loved square dancing, hosted the 2000 Summer Festival in Pendleton, and in 2009 won the Randall award.</p>
+<p>George is preceded in death by his parents, Elmer and Fannie; his three sisters, Virginia Burns, Katherine Lindstrom and June Haugen; his daughter Charlotte; his twin sons, who died at birth; and his wife of 66 years, Lorene.</p>
+<p>He is survived by his son and daughter-in-law, Glen and Kelly Griffith; his granddaughters Tracy Griffith (Mund) and husband Justin, and Jenny Griffith (Turner) and husband Ricky; and two great-grandsons, Tate Turner and Talen Turner.</p>
+</div>
+</li>
+
+</ul>

@@ -1,0 +1,1 @@
+I appreciate the feedback I got from my note last month.  Although there are some who would favor a change, it appears that the great majority are happy with the way things are.  So, for now we will stay the course.  Thanks to those who commented.

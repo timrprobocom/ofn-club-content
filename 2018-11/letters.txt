@@ -1,0 +1,39 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+
+<li><a>Scholarships</a>
+<div>
+<p>
+<p class="MsoNormal" style="text-indent: .5in;">High School seniors and College freshmen this is information for you!!! Also, if you know of a youth square dancer of these ages &ndash; please pass this on to them. There are two scholarships available for youth dancers from Oregon.</p>
+<p class="MsoNormal" style="text-indent: .5in;">The United Square Dancers of America offer a $1,000 scholarship - USDA Founders Memorial Youth Scholarship. The deadline for this is February 1<sup>st</sup> so it is important to get started on the application soon. There are two forms needed: the scholarship application <a href="http://www.usda.org/trifold/IS-Y04.pdf">http://www.usda.org/trifold/IS-Y04.pdf</a> and the USDA Affiliate President Nomination Form <a href="http://www.usda.org/trifold/IS-Y06.pdf">http://www.usda.org/trifold/IS-Y06.pdf</a> . These links are to the pdf format. You can print the forms in a word format by going to <a href="http://www.usda.org/youth.htm">http://www.usda.org/youth.htm</a> In addition to the filled out forms, you will need 3 letters of recommendation (one needs to be from someone in your local square dance club) and a 500 word essay on &ldquo;The impact square dancing has had on my life.&rdquo;</p>
+<p class="MsoNormal" style="text-indent: .5in;">The Oregon Federation of Square and Round Dance Clubs is offering $500 scholarship. The complete application must be Scholarship applications must be turned in by May 1, 2019. Applications can be completed and submitted online through the Oregon Federation website <a href="http://www.squaredance.gen.or.us/ScholarshipApp.php">http://www.squaredance.gen.or.us/ScholarshipApp.php</a><span style="mso-spacerun: yes;">&nbsp;&nbsp; </span>They can also be submitted by snail mail to: Karyn Buchheit, 6122 Brush Creek, Silverton, OR 97381. Any questions, please call Karyn Buchheit at 503-873-5241 or by email at <a href="mailto:buchheitfarmkm@gmail.com">buchheitfarmkm@gmail.com</a><span style="mso-spacerun: yes;">&nbsp; </span>Grades will be a minor consideration. Financial need is not a consideration. At least one $500 Educational Scholarship will be awarded on the basis of merit to a youth dancer who meets the following guidelines.&nbsp;</p>
+<ul style="margin-top: 0in;" type="disc">
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">Is currently an active member of a square/round/clogging club which is affiliated with the Oregon Federation of Square and Round Dance Clubs;</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">Has been a member of that club for at least one (1) year;</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">Has a record of volunteer service in square dancing;</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">Is a graduating high school senior OR college freshman</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">Plans to continue their education at an accredited university, college, professional, vocational or technical school;</li>
+<li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list .5in;">Expresses an interest in continuing their involvement with square dancing, round dancing or clogging.</li>
+</ul>
+<p class="MsoNormal">I will have application forms for both scholarships at the youth table at Mid-Winter Festival. However, I don&rsquo;t recommend waiting until after Mid-Winter to put together the application packet for the USDA scholarship since that is so close to the deadline.</p>
+<p class="MsoNormal">Karyn Buchheit</p>
+</div>
+</li>
+
+</ul>
