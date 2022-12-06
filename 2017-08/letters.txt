@@ -1,0 +1,58 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li><a>Lue Dinsmore Obituary</a>
+<div>
+<p>Luther Thomas Dinsmore Died on June 27th 2017 in Portland Or. He was Born on July 25th 1925 in Denver Colorado, To Calude Roy and Mary Belle Dinsmore.&nbsp;<br /> <br /> Lue was the youngest of 10 children. Moved to Portland in 1928. Attended Corbett and Benson high schools. He then Served in world war two. Upon returning he married Carol J. Dinsmore in 1949. He worked as a machinist by trade in the ship yards, there was little he couldn't build or fix. Retired in 1990. He loved the outdoors, camping, fishing, oystering and clamming with his family.</p>
+<p>He and wife Carol were active in the Tri-squares and 59ers clubs where they enjoyed square dancing for over 50 years. Lue and Carol took square dance lessons with the Tigard 59rs in 1960 the first class that the 59rs offered.&nbsp; They were founding members of the Tri Squares and danced until 2010 when health problems prevented them from dancing.<br /> <br /> He was preceded in death by his daughter Sandra and his great Grandson Carter. He leaves behind his wife of 68 years Carol. Son Tom and wife Chris Dinsmore, Daughter Mary and husband Les Madden, and Son Dave Dinsmore. 4 Grandchildren, Anthony and wife Erika Dinsmore, Carrie Dinsmore, Molly and Reese Madden.&nbsp;</p>
+</div>
+</li>
+
+
+<li><a>What's Right with Square Dancing</a>
+<div>
+<p><a href="content/2017-08/whats-right.pdf"><img class="right" style="border: solid 2px blue;" src="content/2017-08/t150/whats-right.png" /></a></p>
+<p>Eric Henerlau gave a stirring keynote speech at the 65th National Square Dance Convention&reg; in June entitled "What's Right With Square Dancing". &nbsp;Given the decline in our activity over the past couple of decades, it is encouraging to hear some good news. &nbsp;I encourage you to&nbsp;<a href="content/2017-08/whats-right.pdf">click on this link</a>&nbsp;to the right&nbsp;to read his article.</p>
+<p>&nbsp;</p>
+</div>
+</li>
+
+
+<li><a>River City Riders -- Thank You</a>
+<div>
+<p style="clear: right;"><a href="content/2017-08/t300/2017-RCD-Thanks.jpg"><img class="right" src="content/2017-08/t150/2017-RCD-Thanks.png" /></a></p>
+<p>The River City Riders rode into the 66th National Square Dance Convention in Cincinnati, OH, and put their action into the hearts of 3,600 dancers. &nbsp;"Mr. Ed" and his herd put on 6 perfect performances, providing joy to all. &nbsp;Not only did they do this, but also danced with and helped earn the Guinness Record for largest square dance, with over 1,600 dancers.</p>
+<p>The Riders that put forth their right foot were Jolene &amp; Ed Cumming as lead horses, Lois Manos, Gil Shoemaker, Carol &amp; Danny Williamson, Norma Rice, Dale Smith &amp; Anna Easton. &nbsp;Anna was the new horse in the paddock and made the single-foot look easy. &nbsp;Our stampede was just plain awesome! &nbsp;Our caller, Jim Hattrick, put together a new 4-couple program to "Long Tall Texan" with A1 moves that flowed like a race track.</p>
+<p>As we performed, dancers came to us wanting pictures and congratulating us for the great performances! &nbsp;As for the future, 2018 Kansas City is ready for us, 2019 Atlantic City wants and will help raise funds, and 2020 Spokane is a close one! &nbsp;The head of Exhibitions, Nancy Hendrickson &amp; Ken Roberts, set us up with action that we all enjoyed and a spacious room with water and snacks. &nbsp;Nancy met us out on the street as we circled the Duke Energy Convention Center, and took us to unload and transport the horses. &nbsp;Thank you Nancy &amp; Ken for a job well done.</p>
+<p>A successful story is always due to those that help, and we, the River City Riders, want to acknowledge as many as we can over the past year. &nbsp;Making our trip to the National Convention&nbsp;was possible because of meny helping hands. &nbsp;</p>
+<ul>
+<li>Thanks to Jim Hattrick -- our caller that cares -- providing our programs and helping us with practice every Tuesday night. &nbsp;We are so grateful to Jim, and consider him #1 is all that he does.</li>
+<li>Thanks to the Milwaukie Community Center for the use of the hall.</li>
+<li>Thanks to the River City Dancers for the use of the horses, and for help with our fundraisers. &nbsp;</li>
+<li>Thanks to the Abernethy Grange for the use of the hall. &nbsp;</li>
+<li>Thanks to Jim Hattrick and Adam Christman for the River City Riders benefit dance. &nbsp;</li>
+<li>Thanks to the Columbia River Dancers for sharing your hall. &nbsp;</li>
+<li>Thanks to the Hazel Dell Grange as an arena for hourses.</li>
+<li>Thanks to Craig Abercrombie for filling in for Jim and doing our Christmas Bazaar and Rodeo Dance. &nbsp;+li+Thanks to the Molalla Adult Center for funds for the ride.</li>
+<li>Special thanks to Elsie Barthling for her blessing. &nbsp;She and her club, the Fairway Village Squares, made our rides move across the states.</li>
+</ul>
+<p>See the attached sheet for information about the first event in our new fundraising year.</p>
+</div>
+</li>
+
+</ul>
