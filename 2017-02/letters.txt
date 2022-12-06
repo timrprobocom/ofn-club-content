@@ -1,0 +1,25 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li><a>Harold Kleve Obituary</a>
+<div>
+<p>Harold T. Kleve age 82, passed away on January 15, 2017. A memorial service will be held at 1:00 PM on February 4, 2017 at Donelson Fir Lawn Funeral Chapel . Reception to follow at the Odd Fellows Hall, 267 East Main St, Hillsboro. &nbsp; A full obituary can be found <a href="http://obittree.com/obituary/us/oregon/hillsboro/donelson-funeral-chapel--cremation-services/harold-kleve/2824980/">here</a>.<br /><br />Harold was born August 7, 1934 on his grandmother's farm in Molalla, OR, as number 9 of ten kids. He was raised in Canby, OR, graduating in the class of 1952. He served as class president and salutatorian, was in the band, and was on the football, basketball and track teams.<br /><br />Harold served in the United States Air Force from 1953 to 1957. He was based at several bases statewide and in the Marshall Islands, where he participated in the testing of the hydrogen bomb. Harold joined the Washington County Sheriff's Office, Hillsboro, OR. In 1957 and retired as a Captain in 1985. He attended Portland Community College and received his degree in Criminal Justice.<br /><br />Harold was the first Washington County law officer to attend the F.B.I. National Academy (82ndSession) in Quantico, VA, and graduated in 1968. Returning to Washington County Sheriff's Office he applied this training to train his Officers. Harold was also instrumental in the formation of Washington County's Explorer Scout Post #877, one of the oldest posts in the nation.<br /><br />After retiring Harold wasn't ready for the rocking chair quite yet. So he became a Square Dance Caller and instructor, which he thoroughly enjoyed for 25 years. His baritone voice was enjoyed by many at National Conventions in Texas, Colorado, Oklahoma and Oregon. His yodeling was a surprise even to his family!<br /><br />The family suggests memorial contributions to the Kidney Foundation and the American Heart Association.&nbsp;</p>
+</div>
+</li>
+
+</ul>
