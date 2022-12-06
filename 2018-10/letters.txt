@@ -1,0 +1,28 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li><a>Al Bussey Obituary</a>
+<div>
+<p>Ernest Alfred &ldquo;Al&rdquo; Bussey passed peacefully at his home in Newport on August 21, 2018. He was born December 29, 1929 on a ranch in Lakeview, Oregon to Ira Ernest Bussey and Mildred M. Cochran Bussey and had a sister, Sarah Janis Bussey Wood.</p>
+<p>Al attended OSU and OTI. He became employed by Transamerica Title Company in Beaverton, transferred to Salem and then Newport in 1961 to build a new plant, later becoming branch manager. Active in Newport; he served on the City Council, Planning Commission and was a Jaycee. In 1973, transferred to Lake Oswego; continuing in the title business 25 years. Retired; he returned to Newport. In 2010, became a member of the Newport Police Volunteers. In 2014, they were recognized as Newport&rsquo;s &ldquo;Outstanding Volunteers of the Year&rdquo; and received the Alma B. Howell Award. He was certified for CERTS, volunteered at the PAC and in 2016, earned his Amateur Radio License (ham) to assist in local emergencies.</p>
+<p>Al enjoyed cars, golfing, boating, camping, square dancing and choreographed ballroom; taking their RV to festivals throughout the country. They loved to travel; visiting China, Europe, Caribbean Islands and Hawaii. He liked cruises; his favorite being the Panama Canal. Talented in building and repairing things, he worked on many projects to help his family. We will miss asking for his advice and help!</p>
+<p>Married 67 years, Al leaves behind his wife LaVonne Earnest Bussey, daughter Shawn, sons Scott, (wife Lisa), Mark (wife Kym) and grandsons Travis, Nicholas and Connor. A remembrance will be held September 9th, at their home in Newport beginning 2 PM. In lieu of flowers, donations to Newport Police Volunteers (designated to Children&rsquo;s Safety Town), or Samaritan Pacific Hospice in Newport are appreciated.</p>
+</div>
+</li>
+
+</ul>
