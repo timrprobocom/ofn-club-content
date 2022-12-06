@@ -1,0 +1,11 @@
+Tim and I went to Diamond Festival this year for this first time.  What a beautiful venue!  Except for some smoke from the fires in the area, it was absolutely perfect.  It was great dancing outside with friends to wonderful callers and cuers. I particularly got a kick out of dancing in the lake and I am really looking forward to attending the festival again next year.
+
+Last month, I listed the festivals that have been advertising in the OFN through the end of the year.  This time, I will be talking about our annual Mid-Winter Festival at the Linn County Fair and Expo Center in Albany January 25-27, 2019. For those people who arrive early, there will be a Trail’s End Dance on Thursday, January 24 in the Expo Center in Hall A. The featured callers will be Ray Brendzy from Burnaby, Canada and Charlie Robertson from Sulphur, OK.  Both of the callers started calling as youth callers.  Ray called his first dance at age 12 while Charlie started at age 13.  The Mid-Winter’s cuers are Mary and Bob Townsend-Manning.  Both Mary and Bob are retired from the US Navy.  They have been dancing together since 1992.  In addition to these outstanding callers and cuers, we will also have the opportunity to dance with some of our very own Oregon callers and cuers.
+
+Mid-winter Festival will have something for everyone. They have 6 dance floors for your dancing pleasure! There is a separate hall for Mainstream w/ Rounds, Plus w/ Rounds, Advance, B-51, Clogging, and Rounds.  Throughout the weekend, there are dances, workshops, resale clothing, sewing clinics, educational seminars, a basket raffle, many youth activities throughout the weekend, and more! You can download the Festival registration form and read more about the Mid-Winter by visiting their webpage at [midwinterfestival.com](http://midwinterfestival.com).
+
+On September 23, we will be installing our new Federation President Lorri McIntosh during our meeting at the Salem Square Dance Center.  I would like to invite all of you to our State Meeting so that you can meet Lorri and see how our meetings are run.  After the meeting, we will have short break followed by our next Summer Festival 2019 meeting.  Come and see what we are planning for your enjoyment.
+
+Hope to see you on a dance floor soon.  
+Kathy Roberts  
+OFSRDC President

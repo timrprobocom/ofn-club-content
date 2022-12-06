@@ -1,0 +1,59 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li><a>River City Riders Update</a>
+<div>
+<p><a class="right" href="content/2018-09/2018-RCR-67NSDC-Group.jpg"> <img src="content/2018-09/t150/2018-RCR-67NSDC-Group.png" /></a></p>
+<div>The River City Riders brought joy to over 2000 dancers at the 67th National Square Dance Convention in Kansas City, Missouri, with their "Long Tall Texan" routine, created by Jim Hattrick.</div>
+<p><a class="left" href="content/2018-09/2018-RCR-67NSDC-2.jpg"> <img src="content/2018-09/t150/2018-RCR-67NSDC-2.png" /></a></p>
+<div>River City Riders kept us horses on the move!&nbsp; Once we arrived at Kansas City the action began!&nbsp; We put together 4 performances with the last one bringing down the house!&nbsp;&nbsp; The dancers cheered us on and then wanted pictures with us,&nbsp; over 2000 saw us during this special "National's" &amp; we've been invited to the 2019 68th National's in Atlanta, Georgia and they have already had fund raisers to help us make this trip!&nbsp; Pretty awesome.....guess we will be going a little further next year....went over 4,000 miles this year!</div>
+<div style="clear: both;">&nbsp;</div>
+<p><a class="right" href="content/2018-09/2018-RCR-17th-USAWEST.jpg"> <img src="content/2018-09/t150/2018-RCR-17th-USAWEST.png" /></a></p>
+<div>We have a trip to Reno coming up as we will be performing at the "USA West Square Dance Convention" August 15-18 at Circus, Circus!&nbsp; If you are there please touch base with us...You are special to us!"</div>
+</div>
+</li>
+
+
+<li><a>Resale Clothing at Mid-Winter</a>
+<div>
+<p>Here it is mid-summer 2018, but Mid-Winter Festival 2019 is fast approaching. &nbsp;For many of you it provides an opportunity to recycle a few of those outfits taking up space in your closets.&nbsp; For others, it is that sad time when you are saying, &ldquo;I just can&rsquo;t dance anymore&rdquo;, and you want someone else to enjoy those beautiful outfits you have received so much pleasure wearing over the years.</p>
+<p>As with so many activities it has become more and more difficult to find volunteers willing to help.&nbsp; Resale Clothing is one of those areas that require a large number of volunteers to make it an available resource for all the dancers.&nbsp; So, we have been making some changes to this area.</p>
+<p>But first let&rsquo;s look closely at some key tips to assist you selling your clothing items at Mid-Winter Festival 2019.</p>
+<p>Follow the on-line instructions and email or mail your list of items in by January 16, 2019.&nbsp; Note:&nbsp; If you are having any problems completing the form on line, then by all means hand write it &ndash; legibly and mail it in.&nbsp; We will input it for you.&nbsp; This will save you and us a lot of time at the consignment tables.&nbsp; Read the instructions very, very carefully.</p>
+<p>Make sure the items are clean and in good repair.</p>
+<p>Bring your items listed in categories to simplify the tagging process at the consignment tables.</p>
+<p>If you have sets, then keep/place them together.&nbsp; This will help in the tagging process and may even help making them sell.</p>
+<p>Please, be early to consignment.&nbsp; We have expanded the hours for you so plan on Thursday afternoon or Friday morning so they will be prominently placed on the racks for the opening sales Friday evening.</p>
+<p>As I said earlier we require a large number of volunteers to assist during consignment and sale hours.&nbsp; We will accept any help, even if for just one (1) hour.&nbsp; So, contact the volunteer coordinator and let her know you want to help.</p>
+<p>Don&rsquo;t forget to pick up those items you want returned by 10:00 a.m. on Sunday morning.</p>
+<p>I made mention several times about the difficulty in finding volunteers to help keep the Resale Clothing program running.&nbsp; So, beginning last year, Mid-Winter Festival 2018 we are no longer accepting clothing items at the festival that were not listed for consignment before the input deadline.</p>
+<p>We are sorry it has come to this.&nbsp; But we hope you will utilize the on-line submission process or hand write it &ndash; again legibly, and send it to us.&nbsp; You will be surprised at how much time this saves you and those at the consignment table.&nbsp; We want to help you recycle the many beautiful outfits that you all have.</p>
+<p>Contact me for assistance preferably by email.&nbsp; Larry B. Reetz at <a href="mailto:larryreetz@gmail.com">larryreetz@gmail.com</a> or if you must call my home phone at 541-461-5642.</p>
+<p align="center">&nbsp;</p>
+</div>
+</li>
+
+
+<li><a>Bernice Gruchalla Passing</a>
+<div>
+<p><a href="content/2018-09/BerniceGruchalla.jpg"><img class="right" src="content/2018-09/t150/BerniceGruchalla150.jpg" /></a></p>
+<p>Bernice Claire Gruchalla, president of the Federation in 1973-74, passed away in Salem on July 2 at the age of 104. Bernice worked for JCPenney in Salem for 17 years. She and her husband George were active square dancers.</p>
+</div>
+</li>
+
+</ul>

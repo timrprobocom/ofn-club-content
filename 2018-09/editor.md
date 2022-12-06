@@ -1,0 +1,1 @@
+As we come in to the beginning of another square dance year, things will start to get busy.  I see lots of clubs are starting new lessons this month, and clubs that were dark in the summer have started up again.  Lots of opportunities are available to help promote and enjoy our activity.
