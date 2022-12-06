@@ -1,0 +1,1 @@
+As dancing slowly starts to ramp up, I think many clubs are out of the habit of updating the OFN with their dance information, flyers, and lesson information.  Below this note, you'll see a link that appears in every issue that describes how to get your information into the OFN.  Besides club info and flyers, I am always open to articles and photographs.
