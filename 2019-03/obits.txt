@@ -1,0 +1,35 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li class='clear'><a>Jim Windler</a>
+<div>
+<a href='http://ofn.club/content/2019-03/JimWindler.jpg'>
+<img class='right' src='/content/2019-03/t300/JimWindler300.png'></a>
+<p>Jim was born on July 11th, 1928, and died February 4, 2019.&nbsp; He loved square and round dancing.&nbsp;</p>
+<p>But before he was involved in dancing, he and his wife, Barbara, had met while roller skating in Seattle.&nbsp; They became dance skate partners.&nbsp; Roller skating remained their lifelong passion.&nbsp; He enjoyed other activities too.&nbsp; He loved hiking, biking and skiing &ndash; even taking up weight lifting in Belleview, Washington!&nbsp;</p>
+<p>Jim and Barbara started square dancing in Seattle in 1958.&nbsp; Shortly after, they discovered round dancing.&nbsp; They fell in love with &ldquo;Siesta in Seville&rdquo; [back in the day when rounds were not cued].&nbsp; They went home and learned it on their own.&nbsp; As time went on, a caller, Bill Walker, suggested that Jim learn to call.&nbsp; At first Jim was quite nervous about it but soon enjoyed it.</p>
+<p>He worked at Westinghouse in Seattle, and was transferred to the Portland office in 1977, where they bought a spacious home in Milwaukie.&nbsp; The day they arrived, they met neighbors who were square dancers, and they all went to a square dance together.</p>
+<p>Jim became the caller of the Portland WhirlAways, and continued with round dancing.&nbsp; He and Barbara eventually danced at the 5-6 level, with Barbara making beautiful dance and skate clothes.&nbsp; They also continued with their dance skating, frequently going to the skate rinks at Oaks Park.</p>
+<p>If you go by their home at 12011 SE 70th Ave. in Milwaukie (97222), you will be enthralled with their grounds.&nbsp; One would think they had a landscaper, or at least a lawn service, on the payroll.&nbsp; But no: Jim did it all himself.</p>
+<p>He was married for 66 years and is survived by his wife, Barbara, and a sister, Mary Dudon in eastern Washington.&nbsp; He had a brother who preceded him in death.&nbsp; Condolences can be sent to the above address.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</li>
+
+</ul>

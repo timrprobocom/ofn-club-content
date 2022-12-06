@@ -1,0 +1,39 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li class='clear'><a>Caller Licensing</a>
+<div>
+<div>Dear Dancers,</div>
+<div>&nbsp;</div>
+<div>I want to take this opportunity to put something to rest, specifically some rumors that are going around. Rumors about callers being unlicensed. The specific callers in question will remain nameless but I know who they are and I can personally assure you that they are both licensed and their licenses are current and up to date. I know this because I&rsquo;ve looked on the CallerLab site of licensed callers. I&rsquo;ve also spoken to Dana at CallerLab who verified that they are licensed. Lastly I have physically seen their cards.</div>
+<div>&nbsp;</div>
+<div>I hope that this will put an end to the rumors about these alleged unlicensed callers. Rumors like these can be devastating to a caller&rsquo;s career and reputation. If you have questions whether a caller that you are hiring is licensed, there are several resources you can utilize to verify that they are.</div>
+<div>&nbsp;</div>
+<div>You can call CallerLab at 800-331-2577 or email them at <a href="mailto:CallerLab@aol.com">CallerLab@aol.com</a></div>
+<div>&nbsp;</div>
+<div>You can also visit their website,&nbsp;<a href="http://callerlab.org/">CallerLab.org</a>.</div>
+<div>&nbsp;</div>
+<div>We also have callers who are licensed thru American Callers Association rather than CallerLab.&nbsp; If you have questions whether a caller is licensed thru A.C.A you can contact Mac Letson at A.C.A at 256-383-7585.</div>
+<div>&nbsp;</div>
+<div>I hope that this will put an end to the rumors and hopefully to provide you some resources to verify that callers that are being hired for dances are licensed. If you have further questions please feel free to contact me @ 704-492-2491 or <a href="mailto:davehill97229@gmail.com">davehill97229@gmail.com</a>.</div>
+<div>&nbsp;</div>
+<div>David Hill</div>
+</div>
+</li>
+
+</ul>

@@ -1,0 +1,1 @@
+The ballot for next year's Federation officers is on their way to your club secretaries.  Take time to consider the candidates thoughtfully.
