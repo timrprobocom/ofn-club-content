@@ -1,0 +1,27 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+
+<ul class='hideseek'>
+<li><a>Where Have All The Dancers Gone?</a>
+<div>
+<p>
+National caller Jon Jones wrote an article in <i>American Square Dance</i>
+magazine in January 2002 entitled "Where Have All The Dancers Gone?" in 
+which he discusses his assessment as a national caller of the reasons
+behind the decline in square dancing.  He has given us permission to
+<a href="/content/2016-03/Where Have All The Dancers Gone.pdf">reprint the article here,</a>
+and it is well worth your time to read it.
+</div>
+</li>
+</ul>
