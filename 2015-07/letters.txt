@@ -1,0 +1,43 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+
+<ul class='hideseek'>
+<li><a>Norman Roberts Obituary</a>
+<div>
+<p>
+Longtime Oregonian Norman Charles Roberts passed away on June 15, 2015.
+Born in Portland February 25, 1936, he grew up in North Portland and
+graduated from Jefferson High School in 1954.  He married Karen Esther
+Walden in July, 1958.  They moved to NE Portland in October, 1959,
+and stayed there 53 years until her passing.
+<p>
+Norm had a 45-year career as a warehouseman at Northern Specialty Sales.
+He spent 16 years serving in the Oregon National Guard, and was a charter
+member of the Gateway Elks Lodge.  Norm and Karen bowled every week for
+many years, and were active in many Oregon square dance clubs.  They 
+were members of the Swingin' Archies, and were charter members of 
+Aces &amp; Lace.  They rarely missed a Mid-Winter Festival.
+<p>
+Norm is survived by a sister, Shirley Daves of Milwaukie; a brother,
+Jerry Roberts, of Vancouver; two sons, Tim Roberts of Tigard, and Mark
+Roberts of Clackamas; and four grandchildren, Andrea Adzima, Amanda
+Roberts, Krista Roberts, and Jonathan Roberts.
+<p>
+Memorial service will be 1 PM Saturday, June 20, at Finley Sunset Hills
+Mortuary.  In lieu of flowers, please send donations to the Dominican
+Sisters of San Jose, at https://msjdominicans.org/SupportOurMission.
+</div>
+</li>
+</ul>
+
