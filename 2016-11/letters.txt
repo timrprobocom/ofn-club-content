@@ -1,0 +1,57 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li><a>Pine Forest Grange in Bend Holds Community Support Dance</a>
+<div>
+<p><a href="content/2016-11/FoodBank.jpg"><img style="float: left;" src="content/2016-11/FoodBank300.png" /></a></p>
+<p>On Friday, September 30 the Pine Forest Grange in Bend put on its first annual&nbsp;Community Support Square Dance. Randy Dibble was the caller and Ken Pratt was the&nbsp;cuer. Randy&rsquo;s calling was both wonderfully entertaining as well as challenging, and&nbsp;Ken&rsquo;s great cuing consistently filled the floor with enthusiastic round dancers.</p>
+<p>There was no admission charge for this dance. Instead, dancers were encouraged to&nbsp;support two local charities, Bethlehem Inn, a homeless shelter in Bend, and Neighbor&nbsp;Impact, which provides food and other services throughout Central Oregon.</p>
+<p>Dancers had been provided a list from Neighbor Impact of the most needed food items&nbsp;and encouraged to bring a bag of groceries in lieu of the normal dance admission charge. &nbsp;By the end of the evening there was a large collection of grocery bags stuffed with food.</p>
+<p>A representative of Bethlehem Inn spoke briefly during the dance, describing work they&nbsp;do to provide assistance to the homeless community in Central Oregon. Dancersresponded with very generous cash contributions to Bethlehem Inn.</p>
+<p>Not only did Randy Dibble call a great dance, but he was also instrumental in generating&nbsp;enthusiastic participation in Split the Pot ticket sales. All proceeds from Split the Pot&nbsp;were given to the two charities.</p>
+<p>The Pine Forest Grange would like to thank all of the dancers who attended this dance for&nbsp;their great generosity. Their support exceeded all expectations. Plans are now underway&nbsp;for the second annual Community Support Dance sometime next year.</p>
+</div>
+</li>
+
+
+<li><a>Valley Squares Caller Search</a>
+<div>
+<p>Valley Squares, the oldest square dance club in the Portland metropolitan area, is in a transitional phase. We want to encourage new ideas to update this traditional activity. Paramount in our philosophy is to be a club that welcomes ALL dancers - one that reflects the diversity of the 21st Century. We aspire to create an atmosphere where new dancers can have fun and be successful, but also where experienced dancers are delighted by creative and challenging choreography. &nbsp;</p>
+<p>We are in the process of making decisions about our club caller.&nbsp;</p>
+<p>If you have a great singing voice, love patter with creative choreography, have expertise in calling and teaching B51 through Advanced Plus; if you are stoked by dancers of all ages, singles as well as couples, including same sex couples or partners switching left and right positions; if you are excited about calling a variety of dances, including Community or Demo dances, email our secretary, Joy Choy at <a href="mailto:bok.choy@live.com" target="_blank">bok.choy@live.com</a> for an application.</p>
+<p>A Club Caller Application is posted on our web site: &nbsp;<a href="http://www.valleysquares.com/" target="_blank">www.valleysquares.com</a>.</p>
+</div>
+</li>
+
+
+<li><a>Genevieve Churchill Turning 105</a>
+<div>
+<p>Longtime square dancer, Oregon Goodwill Ambassador, and past Oregon Federation President Genevieve Churchill will be turning 105 on November 22. &nbsp;She has a little trouble getting around now, so we don't see her as much as we once did, and she misses all of us. &nbsp;Consider dropping by for a visit, or at least sending her a card to celebrate this incredible milestone. &nbsp;Her address is:</p>
+<blockquote>
+<p>Genevieve Churchill</p>
+<p>13200 SW Village Glenn Dr</p>
+<p>Tigard, OR &nbsp; 97223</p>
+</blockquote>
+</div>
+</li>
+
+
+<li><a>Valley Squares Mainstream Instructor Search</a>
+<div>
+<p>The Valley Squares is looking to contract with a caller/instructor to teach our Beginning through Mainstream class on Tuesdays starting January 17th at the Aloha Grange. &nbsp;The class starts with two free lessons on Jan 17th and 24th, and will continue for 20 weeks through approximately the start of June. &nbsp;Please contact Joy Choy, secretary, if you have the experience and desire to teach brand new students how to square dance. &nbsp;Joy's email is&nbsp;<a href="mailto:bok.choy@live.com">bok.cho@live.com</a>, and her cell number is 971-255-6809.</p>
+</div>
+</li>
+
+</ul>
