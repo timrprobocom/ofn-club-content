@@ -1,0 +1,65 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li class='clear'><a>Eldon Bartlett</a>
+<div>
+<p><img class="right" src="content/2019-02/t150/eldon160.png" /></p>
+<p>Eldon Stuart Bartlett was born May 22, 1922 in Webster, South Dakota, the son of the late Harry Bartlett and Vera (Hyde) Bartlett. As a very young boy, he moved with his family to Oregon, settling first in Newberg with Vera&rsquo;s parents, Fred &amp; Della Hyde, and then in the Forest Grove community, where he had resided since 1926.<span class="Apple-converted-space">&nbsp;</span><br /><br />He was a Veteran of World War II, having joined the United States Navy on September 18, 1942 in Forest Grove, Oregon. Eldon served for four years, until receiving his honorable discharge on February 4, 1946 at the rank of Water Tender 2nd Class. He received the American Area Campaign Medal, the Asiatic Pacific Area Campaign Medal, the Philippine Liberation Medal, the World War II Victory Medal and the Good Conduct Medal. His ship, the USS Robinson, a Fletcher Class destroyer, was in eight battles in the Pacific Theater during his service years.<span class="Apple-converted-space">&nbsp;</span><br /><br />Eldon was united in marriage to Anne Louise Shanafelt on September 7, 1947 at the Bartlett family home in Forest Grove, with Eldon&rsquo;s grandfather, Pastor Burton H. Jones, officiating. (Their home is reputed to be built on a large log first used as foundation for the Indian School, originally in Forest Grove.) Following their marriage, they honeymooned on a motorcycle trip across Canada, much to the chagrin of the bride&rsquo;s mother. They lived in Forest Grove in the same house, lovingly raising children, facing hardships and having fun family vacations ever since. In total, they held hands for seventy-two years.<span class="Apple-converted-space">&nbsp;</span><br /><br />He was preceded in death by his wife, Anne, on March 29, 2016 in Forest Grove, after celebrating over sixty-eight years of marriage together.<span class="Apple-converted-space">&nbsp;</span><br /><br />In 1927, his father ran the Harry Bartlett Garage in downtown Forest Grove. In 1941, Harry and Eldon built the current shop on Forest Grove&rsquo;s Main Street &amp; 23rd Avenue, where Eldon worked from 1946 after he returned to land from WWII. Eldon purchased the shop, and added marine engine repair, renaming it Bartlett&rsquo;s Auto and Marine in the 1970&rsquo;s. His son Mike, purchased the business in 1989 renaming it Bartlett's Marine &amp; Mower. Eldon officially retired in 1995. He was always willing to help Mike by going to buy parts or to &ldquo;watch&rdquo; the shop well into his 90s.<span class="Apple-converted-space">&nbsp;</span><br /><br />He had been a member of the Forest Grove Kiwanis Club, the Forest Grove Elks Lodge B.P.O.E. #2440 and the Independent Order of Odd Fellows Lodge in Hillsboro.<span class="Apple-converted-space">&nbsp;</span><br /><br />Eldon began square dancing with Anne in 1952, having been members of the Lads and Plaids, 4N8er&rsquo;s and the Eager Beaver square dance clubs, and included their children in dancing. Eldon enjoyed performing in several plays at the Theatre In The Grove, his favorite playing the role of &ldquo;Billis&rdquo; in the South Pacific Musical which featured him dancing in a grass skirt, mop wig and a coconut bikini top!<span class="Apple-converted-space">&nbsp;</span><br /><br />Eldon excelled at finding new adventures: racquetball, scuba diving (he logged 80 feet at 80 years old), boating (all his kids learned to water ski), photography, rock hounding, and spending time at their cabin at Rockaway Beach, Oregon. As a younger man, Eldon raced motorcycles, and took week long motorcycle excursions with buddies. He loved watching and helping his son, Mike, race Hydroplanes, and was a rescue diver for the race teams. He always found ways for his children and grandchildren to have their own adventures, too.<span class="Apple-converted-space">&nbsp;</span><br /><br />He was preceded in death by his parents, Harry and Vera Bartlett, and a son, Roger Bartlett.<span class="Apple-converted-space">&nbsp;</span><br /><br />Survivors include his four children; Bruce Bartlett, of Portland, Oregon; Susie Bacon, of Portland, Oregon; Mike and Kim Bartlett, of Forest Grove, Oregon and Peggy and Jeff Hill, of Sherwood, Oregon; his sister and brother-in-law, Patricia and Don Carver, of Lake Grove, Oregon and his brother-in-law and spouse, George and June Shanafelt, of Lacey, Washington.<span class="Apple-converted-space">&nbsp;</span><br /><br />Also surviving are his eight grandchildren, Lily Bartlett, Dan Bacon, Carolyn Bacon, Dan Mosher, Brian Bartlett, Katie Hill, Ryan Hill and Casey Hill, as well as numerous nieces and nephews.<span class="Apple-converted-space">&nbsp;</span><br /><br />The family suggests that remembrances may be contributions to the Forest Grove Senior and Community Center, 2037 Douglas Street, Forest Grove, Oregon 97116, in his memory. He and Anne had many lunches and conversations at the FGSCC.<br /><br />Celebration of Life&nbsp;<br /><a href="http://www.fuitenrosehoyt.com/obituary/Eldon-Bartlett/Forest-Grove-Oregon/1828095">Saturday, February 23, 2019<br />1:00 PM - 4:00 PM&nbsp;</a></p>
+<p>Forest Grove Senior Center</p>
+<p>2037 Douglas Street<br />Forest Grove, ORUS</p>
+</div>
+</li>
+
+
+<li class='clear'><a>Jack Herring</a>
+<div>
+<p><img class="right" src="https:/cache.legacy.net/legacy/images/cobrands/statesmanjournal/photos/ssj046773-1_20181228.jpgx?w=130&amp;h=180" /></p>
+<div id="ctl00_MainContentPlaceholder_Text">John C. "Jack" Herring of Salem passed away on December 24 at age 84.<br /><br />Retired&nbsp;<a id="InlineMicrositeLink_U.S._Air_Force" title="Visit U.S. Air Force Memorial Site to see similar profiles" href="http://www.legacy.com/memorial-sites/air-force/?personid=191111218&amp;affiliateID=2415" target="_blank">United States Air Force</a>&nbsp;Major John "Jack" Herring, age 84, passed away peacefully on Christmas Eve from Parkinson's disease. Born in Newberg, Oregon, Jack was raised on a farm and attended McMinnville High School, lettering in wrestling and graduating with honors in 1952. He married Jerry (Lucey) in 1953 and remained her husband until she preceded him in death in 2017. After High School Jack enlisted in the ROTC and attended Oregon State University on an Aeronautical Engineering scholarship. He was a member of the Delta Tau Delta fraternity and continued to wrestle for the college's varsity team. After OSU he accepted his commission in the Air Force and was one of 5 candidates selected to attend The&nbsp;<a id="InlineMicrositeLink_Ohio_State" title="Visit Ohio State Memorial Site to see similar profiles" href="http://www.legacy.com/memorial-sites/ohio-state/?personid=191111218&amp;affiliateID=2415" target="_blank">Ohio State University</a>'s Master of Geodetic Science program as part of a joint military effort to develop modern GPS, which he subsequently spent many years advancing. After graduation, Jack served a tour of duty in Korea, and for the following two decades Jack and Jerry were stationed at a number of military bases and posts in states including: California, Mississippi and Texas. After starting a family, they continued to be assigned to various installations throughout the US in Cheyenne, Boston and finally just outside Washington D.C. where Jack served as the Chief of Survey for the Defense Mapping Agency at Fort Belvoir. Jack traveled extensively during his military career, visiting 30 countries. Upon his retirement in 1977, he and Jerry came home to Oregon, where they settled in Salem. Jack had a second career as the director of Geographical Land and Design Systems - a city and county sponsored mapping agency. After his second retirement he and Jerry continued to travel, visiting several countries, most frequently the UK. Jack enjoyed attending Beavers football games, as a season ticket holder for over 20 years, square dancing and live theater and music. He was active in his church, a member of the&nbsp;<a id="InlineMicrositeLink_Elks_Lodge" title="Visit Elks Lodge Memorial Site to see similar profiles" href="http://www.legacy.com/memorial-sites/elks-lodge/?personid=191111218&amp;affiliateID=2415" target="_blank">Elks Club</a>, head of his HOA and a member of the Military Officers Association of America - at one time serving as chapter president. He was a caring member of his community who frequently volunteered his time. Jack is survived by his son Paul Herring and daughter-in-law Jean Robertson Herring of Portland, daughter Michelle Herring of Salem, brother Alan Herring of Southerland and his sisters Janice Hering of Gleneden Beach and Jean Marie O'meara of Eugene. Jack was a gentle and kind man who will be missed by many and forever in our hearts.<br /><br />A Mass of Christian Burial will be held on Wednesday, January 2nd at 10:30 AM with Recitation of the Rosary starting at 10:00 AM, at St. Edward's Catholic Church (5303 River Rd. N.) in Keizer, Oregon. Assisting is Virgil T. Golden Funeral Service.</div>
+</div>
+</li>
+
+
+<li class='clear'><a>Barbara Lewis</a>
+<div>
+<p><img class="right" src="https://cache.legacy.net/legacy/images/cobrands/statesmanjournal/photos/ssj046897-1_20190104.jpgx?w=130&amp;h=180" /></p>
+<p>Barbara Ann Lewis&nbsp;passed away peacefully at her home on November 24, 2018. She was surrounded by the love of her children as she left this world. Barbara was born in Syracuse NY on January 28, 1939 to Harvey and Margaret Barnes.<br /><br />On October 20, 1956 she married Frank Rolland Collum (Corky). The two of them had four children together. Cheryl Weimer, Jim Collum, Mike Collum, and Bambi Clark.&nbsp; She married R. Spencer Lewis on April 15, 2000. The two of them were married 17 years.&nbsp; &nbsp;Barbara was preceded in death by First Husband Frank (Corky) Collum, Second Husband R. Spencer Lewis, Son Jim Collum, and Granddaughter Megan Collum.<br /><br />Barbara was a kind gentle soul who never met a stranger. She went out of her way to make everyone feel loved.&nbsp; Barbara and Corky owned and operated the Dairy Queen on Capitol Street in Salem from 1976 to 1992. Where she made lifelong friends.&nbsp;&nbsp;After the sale of the DQ, she worked and retired from Winco foods as a Deli Manager.<br /><br />She had a passion for travel and was able to visit many wonderful destinations. She was an avid square dancer and belonged to The Independence Wagon Wheeler's. Barbara loved helping out with new dancers.&nbsp; She also enjoyed roller skating, volunteering at the Salem Hospital and feeling the sun on her face.<br /><br />Barbara is survived by Her three children Cheryl (Troy) Weimer, Mike (Sonya) Collum, Bambi (Don) Clark as well as 3 step children Bonnie Sue Lewis, Linda (Skip) Holmes and Weston Lewis. She was blessed with 14 Grand Children and numerous Great grandchildren.<br /><br />Barbara Ann Lewis will be remembered with a celebration of life at Rest Lawn. Services will be on January 19, 2019 at 2:00 in the afternoon. Come celebrate and share your memories of our beautiful Mother.</p>
+</div>
+</li>
+
+
+<li class='clear'><a>Lee Eggleston</a>
+<div>
+<p>Lee Eggleston --&nbsp;Dec. 10, 1934 - Jan. 4, 2019</p>
+<p>Lee Eggleston, age 84, passed away Friday, Jan. 4, 2019, at Providence St. Vincent Medical Center surrounded by his family.</p>
+<p>Lee was born in Denton, Texas but spent most of his life in Oregon. He was married to Rita Delger until her death from cancer in 1993. He was then married to Phyllis Filmore until her death from cancer in 2000. He is survived by his wife, Jane; sons, Dennis and Todd (Janice); stepson, Gene Riedasch; grandchildren, Jake and Logan Riedasch; and sister, Jeanette Morris.</p>
+<p>Lee was an active square dancers.&nbsp; He was a member of the Tigard Tri Squares, and Lee and Jane&nbsp;danced with many clubs in the Portland area.</p>
+<p>Services for Lee will be held at 11 a.m., Tuesday, Jan. 15, 2019, at Columbia River Foursquare Church in St. Helens. More info at&nbsp;<a>www.FuitenRoseHoyt.com</a>&nbsp;503-357-2161.</p>
+</div>
+</li>
+
+
+<li class='clear'><a>Betty Kester</a>
+<div>
+<p><img class="right" src="https://bloximages.chicago2.vip.townnews.com/lebanon-express.com/content/tncms/assets/v3/editorial/7/2a/72a17efa-e0fe-5069-99a9-dd42227c9c5c/5c362f5f7317d.image.jpg?resize=160" /></p>
+<p>Betty Mae Kester of Lebanon, member of the Lebanon Square Circlers, passed away on December 25, 2018, at the age of 92.</p>
+<p>A memorial service will be held at 1 p.m. on January 21 at Huston Jost Funeral Home, 86 West Grant St. Lebanon, Oregon.</p>
+<p>In lieu of flowers, donations may be made to Hospice Care of the Northwest, 2290 Commercial St., SE, Suite 108, Salem, OR 97302.</p>
+</div>
+</li>
+
+</ul>

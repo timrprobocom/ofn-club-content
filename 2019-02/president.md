@@ -1,0 +1,7 @@
+Hello to 2019, It’s a new year to start fresh.  The theme this year is “Let’s Get Together” for Summer Festival”.  Hope everyone starts this month and “Let’s Get Together” for Mid-Winter.  I will be there to dance a little and visit a lot.  It will be six weeks after me knee surgery, but I still plan to have fun.  Don’t forget the after parties for Mid-Winter 2020 and Summer Festival 2019.  The Federation festivals are so much fun with dancing and fellowship. Don’t forget to bring your new dancers and youth to each festival.  Remember the youth can request festival scholarships for their ribbons.  Contact the Youth Coordinator, Karyn Buchheit, for more information. Educational opportunities are offered at each festival, check out the program books and attend one with a friend or fellow dancer.
+Many of the clubs have new dancers graduating and new dance classes starting.  Encourage your new graduate’s to angel the beginning classes.  Gives the graduate dancer more floor time, additional learning, and a sense of accomplishment to help others. 
+I encourage everyone to support the students, angel a class, and encourage everyone to attend dances.  Expand outside the box of one club for your students.  Multiple clubs around the state offer student level dances.  Try going with the student to a dance at another club or council, this will demonstrate support for the new dancer.
+Remember to stay safe and have fun.  See you at a dance soon.
+
+Lorri McIntosh   
+OFSRDC President
