@@ -1,0 +1,10 @@
+We have just started the process of handling refunds for those people who had unfilled
+subscriptions to the printed OFN.  All subscribers should be receiving a postcard shortly
+describing how much of their subscription remains, with instructions on how to request a
+check.  Because of the overhead of processing a whole bunch of small checks, we are asking
+that those with less than a year remaining consider leaving that amount in the Federation
+as a donation towards our future expenses.
+<p>
+At the OFN table at Mid-Winter, we had a document explaining how to get your information
+into the OFN.  A reprint of that document is available 
+<a href="/content/ContributingToOFN.pdf">for download here</a>.
