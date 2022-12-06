@@ -1,0 +1,26 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li><a>Bill Rooper</a>
+<div>
+<p>Bill Rooper, long-time Treasurer and Financial Advisor for the Oregon Federation of Square and Round Dance Clubs, passed away on October 7 with his family at his side.&nbsp; A Celebration of Life will be held at the Columbia Gorge Discovery Center at 5000 Discovery Drive in The Dalles, on Saturday, October 21, at 5 PM.</p>
+<p><a href="http://www.thedalleschronicle.com/obituaries/2017/oct/17/william-rooper/">Obituary</a> for his obituary in The Dalles Chronicle.</p>
+</div>
+</li>
+
+</ul>
