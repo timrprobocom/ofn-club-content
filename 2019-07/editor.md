@@ -1,0 +1,1 @@
+As we dive into summer, many clubs will be going dark.  Take some time to scan the Where & When before you drive a long distance to a dance.

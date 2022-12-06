@@ -1,0 +1,36 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li class='clear'><a>Summer Festival</a>
+<div>
+<p>Wow! Summer Festival is almost here!&nbsp; I hope that many of you are planning on attending our Oregon Summer Festival, sponsored by all of the councils and officers in the Oregon Federation of Square and Round Dance Clubs.&nbsp; At the end of the festival, any profit will be split between all of the councils and the OFSRDC.&nbsp; This really is an Oregon Summer Festival.</p>
+<p>Summer Festival kicks off with a Trail&rsquo;s End Dance on Thursday, July 18, at the Salem Square Dance.&nbsp; Friday morning, we will be dancing Mainstream on the Oregon Capitol steps starting at 10:30 am for two hours.&nbsp; You can either drive directly to the State Capitol at 900 Court St., NE., Salem or drive to Blanchet Catholic School to catch a ride on the Cherriots, Salem&rsquo;s Public Transportation, at 9:40 am. Dancing starts at the Blanchet Catholic School (4373 Market St NE, Salem, OR 97301) at 2:00 pm.&nbsp; Where else will you be able to dance with our special featured caller Michael Kellogg and our featured cuer MaryAnn Callahan and Craig Cowan along with 18 of our very own Oregon Callers and 17 of Oregon Cuers throughout the weekend?&nbsp;&nbsp; We will also have 3 Open Mic opportunities for other callers and cuers.&nbsp; Our schedule is posted on the Summer Festival web page.</p>
+<p>In addition to an outstanding weekend dance program, we will also have an Educational Seminar Saturday at 3:00 pm on how to form a new club and keep your existing clubs legally healthy.&nbsp; Saturday afternoon will also have games and activities for youth and all age dancers.&nbsp; Our ceremonies will be Saturday evening at 6:30 pm.&nbsp; During the ceremonies, we will be honoring our veterans and active military personnel, awarding OFSRDC Educational Scholarships, and meeting our Chairmen for Mid-Winter Festival 2020 and Summer Festival 2020. We promise to keep it short so that we can get back dancing as soon as possible!&nbsp;</p>
+<p>Clubs and Councils, please remember to bring your basket donation for the raffle.&nbsp; We have a large area outside of the Round Dance Hall for our raffle.&nbsp;</p>
+<p>Due to space limitations, if you do not reserve your table space prior to July 1st, you will not be able to display your dance tri-fold.&nbsp; Space is available for flyers, but not extra tri-folds.&nbsp; We will have a monitor to promote your club and council events and dances, if you send me a JPG or PDF of your dance flyer for the slide show.&nbsp; If you don&rsquo;t send it to me, it won&rsquo;t be on the slide show.&nbsp;</p>
+<p>Tickets for our beautiful and unique Summer Festival Quilt, &ldquo;We Are One,&rdquo; will be $1 each at the Registration Table where the quilt will be displayed.&nbsp; All raffle tickets and the winning quilt ticket will be drawn Saturday evening.</p>
+<p>Daytime dancing will be casual dress.&nbsp; Evening dancing will be square dance attire.&nbsp; Please remember no cowboy boots or spike heels on the gym floors in the Mainstream and Plus Halls.</p>
+<p>If you&rsquo;d like to volunteer to help with Summer Festival, please contact me at <a href="mailto:Kathy@4roberts.us">Kathy@4roberts.us</a>.&nbsp; Let me know where you&rsquo;d like to help and I&rsquo;ll put you in contact with the correct committee.&nbsp; Currently, we need volunteers to help with decorations Friday morning, selling Split the Pot Tickets, and with the Basket Raffle.&nbsp;</p>
+<p>For additional information on the Festival including our registration form, dance schedules, and Youth Concessions Menu, please visit our Webpage at <a href="http://www.2019.oregonsummerfestival.org/">www.2019.oregonsummerfestival.org</a> or our Facebook page &ldquo;Oregon Summer Festival 2019&rdquo;.&nbsp; One day entrance will be available at the door. Friday or Sunday will be $12 per day per person.&nbsp; Saturday only will be $25 per person for the entire day.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Hope to see you at the 2019 Summer Festival!&nbsp; &ldquo;Let&rsquo;s Get Together in 2019&rdquo; for a FUN Time.</p>
+<p>Kathy Roberts, Summer Festival 2019 Co-Chairman&nbsp;</p>
+</div>
+</li>
+
+</ul>
