@@ -1,0 +1,56 @@
+There has been a lot of confusion about what information you can include
+in the online OFN, and how you get that information presented.  I'm going
+to try to summarize that as best as I can.
+<ul>
+<li>
+<b>Club and Council News:</b> I would like you to continue to handle club 
+and council news just like you have been handling it all along.  Club 
+reps should send their news items to their Area Editors.  The Area Editors
+will gather them all up and send them to me. The deadlines will be up to
+the Area Editors.  As long as they are to me by the 10th, all will be
+well.
+<li>
+<b>Pictures:</b> For now, please send your pictures directly to
+<script> shroud('timr','probo','com','me by email'); </script>.
+I am in the process of adding a method for you to upload them directly,
+but it's not there yet.  Please include a few lines about the picture
+that I can use as a caption.
+<li>
+<b>Changes in Caller, Cuer, or Schedule:</b> You are in control of the
+dance information that gets displayed in the main section down below.
+You can change the callers and cuers, you can set a theme, you can make
+a dance go dark (or not).  You can even add additional special dances.
+
+To do any of that, you need to go to the 
+<a href="/ClubInfo/">state directory club info</a> area.  Use the "Dance" page 
+to update your regular dance information, and use the "Edit"  page to edit 
+specific dance information.
+<li>
+<b>Dance Flyers:</b>
+You can update your flyers on the same page where you change the themes
+and callers.  Flyers should be full page (8.5" x 11"), and need to be either
+JPEG or PDF.  The web site will make a small thumbnail to go in the 
+flyer collection just below.
+<li>
+<b>Lesson Information:</b>
+You can also update your lesson information on the state directory
+page mentioned above.  Use the "Lessons" tab.  Contact 
+<script> shroud('timr','probo','com','me by email'); </script>
+if you have trouble.  Note that you can add both square and round
+dance lessons.
+<li>
+<b>Available Callers and Cuers:</b>
+The "available callers and cuers" list is now included in the online
+OFN.  If you are a caller or cuer who wishes to be included, please
+send your contact information to the editor.  The cost is $12 per year.
+<li>
+<b>Non-Federated Advertising:</b>
+We are just about ready to include advertising from non-Federated
+sources.  The tentative pricing will be $15 for a one-time flyer,
+$30 for three months, or $100 for one year.  All ads will need to 
+be full-page PDF or JPEG files.  We will include a list of thumbnails,
+just like we do for the Federated club dances below.
+</ul>
+<p>
+Please be patient as we try to make this a useful resources for dancers 
+both within and outside of the Federation.
