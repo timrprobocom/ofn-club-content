@@ -1,0 +1,46 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li><a>Donald Schreiner Obituary</a>
+<div>
+<p>Donald E. Schreiner passed away at his home in Klamath Falls on Aug. 18, 2017.<br />Don was born in Klamath Falls on Sept. 12, 1921, to Arthur E. and Jessie E. (Depuy) Schreiner. He graduated from Klamath Union High School in 1939.<br />He was a World War II&nbsp;veteran, serving from 1942 to 1946 in the U.S. Navy. He was a plank member of the repair ship U.S.S. Hector, preparing her for commissioning and serving on her initial crew. Most of his service time was spent aboard this ship in the South Pacific.<br />He returned to Klamath County after his discharge from the Navy and married Virginia Helen Smyth in 1947. Together they established a family farm in the Hildebrand area of Klamath County and raised their family there. They were married for over 70 years.<br />He attended Oregon Technical Institute, now Oregon Institute of Technology, soon after it was established, studying accounting and agriculture, and was a licensed tax consultant for many years.<br />Don enjoyed hunting, fishing, camping, square dancing, and the company of family and friends. He was a member of the Klamath Country Squares square dancing group for over 30 years. He was a longtime member of&nbsp;Veterans of Foreign Wars&nbsp;Post No. 1383 and the Farm Bureau. He was a proud father, uncle, grandfather and great-grandfather.<br />Don is survived by his wife Helen; his sons Don Schreiner Jr. (Ginny) and Ron Schreiner (Patty); grandchildren Nathan Schreiner (Bari), Laura Schreiner (Joe McGuire), and Heather Schreiner (Dawn Rust); step-grandchildren Jennifer Grant, Kindra Fox, David Gregory, and Phillip Gregory (Christy); 10 great-grandchildren; sister-in-law Clara Houck; and many loving nieces and nephews. He was preceded in death by his parents and his sister Pauline Flowers Poirier.<br />His family appreciates the care provided by the staff of High Desert Hospice during Don's final months.</p>
+</div>
+</li>
+
+
+<li><a>Letter of thanks from Les & Paula Seeley</a>
+<div>
+<p>FIRST-----we can&rsquo;t possibly thank each of you individually for all your kindness and expression of love over all the years. It would take up all the space and time available for a long time. Please know everyone and every act of kindness extended to us is filed away in our heads and hearts and our office wall. This letter is a special thanks for all of the support and kindness shown in our preparation to move and the move itself.</p>
+<p>THANKS to those that helped us with our garage sale and purging of &ldquo;stuff&rdquo;.</p>
+<p>THANKS for the going away dance sponsored by the River City Dancers. You gave us $1750 to help with the moving costs.</p>
+<p>THANKS to all the dancers with whom we stayed during our recent vacation trip in July and August as well as those that offered and those that would have offered had the opportunity presented itself.</p>
+<p>THANKS to the clubs that asked us to call during our vacation trip. And a special THANKS to Renee&rsquo; Ruud for calling and singing with me for many years.</p>
+<p>THANKS to Tami Helms for making sure we got to golf during our visit and for being so great to call and cue with.</p>
+<p>THANKS to Daryl Clendenin for his guidance and encouragement.</p>
+<p>THANKS to the family members that had a bar-b-que for us.</p>
+<p>THANKS to one of our sons and his wife for letting us use their lovely house at the Washington coast.</p>
+<p>We had a very nice drive back to our new house (to us anyway) in Surprise, Arizona and hope to have all things in order by the end of September.</p>
+<p>Our current plans include a trip in to Oregon / Washington in 2018 and we will be working hard to make that happen.</p>
+<p>For those of you that might be traveling our way, we would love to have you call and arrange a visit. Our contact information is below.</p>
+<p>In closing, a great big THANK YOU&nbsp; TO ALL for 34 years of unbelievable fun and friendship that includes 30 years of calling in our region.</p>
+<p>Les and Paula&nbsp;</p>
+<p>Email-------------------callerles@gmail.com<br />Land line---------------623-249-7331<br />Les&rsquo; cell----------------503-799-8633<br />Paula&rsquo;s cell-------------360-635-7145<br />16150 North Naegel Drive<br />Surprise, Arizona 85374</p>
+</div>
+</li>
+
+</ul>
