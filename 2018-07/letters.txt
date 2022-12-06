@@ -1,0 +1,49 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li><a>Thanks from Christina Corelli</a>
+<div>
+<div>Thank you dancers</div>
+<div>&nbsp;</div>
+<div>A huge thank you to all of you who kept Kirby and me too, in their thoughts and prayers while Kirby was on 'in home' hospice since the fall of 2016.&nbsp; Kirby was on several prayer chains and lists.&nbsp; People sent e-mails, cards and visited Kirby while he was on hospice.&nbsp; It made a difference as Kirby was so lonesome being bedridden. Several folks stayed with Kirby so I could shop, cue, teach classes, etc.</div>
+<div>&nbsp;</div>
+<div>When Kirby passed away, the outpouring of love and support was amazing and appreciated more than you could ever know.&nbsp; &nbsp;E-mails and cards came from everywhere.&nbsp; The memorial for Kirby June 9 was actually fun.&nbsp; Wes Weathers, a former square dancer, provided a Color Guard, presenting of the flag and flag salute which provided a nice touch of honor and patriotism.&nbsp; Roger Putzler manned the sound and microphone for sharing which was upbeat, and folks, including me, learned things about Kirby.&nbsp; One of Kirby's best friends, Tom Gregersen, welcomed everyone to the service, made remarks and gave the invocation.&nbsp; Our pastor, David Bondurant from the First Christian Church in Junction City, closed with the benediction and provided instructions on what to do next.&nbsp; He also took photos. Janet Geiger, who Kirby was helping to learn to call, did Crawdad Hole, a singing call from Kirby's collection.&nbsp; Christina cued Turn Your Radio On.&nbsp; There was a huge potluck and people looked at photo boards and memorabilia.&nbsp; ORDTA had sent a huge beautiful bouquet that was displayed on the entrance table.&nbsp; Floyd Bard brought 50 additional chairs from the Elks.&nbsp; Single Trees had their dance the night before and put chairs out on the dance floor for the service.&nbsp; Thank you Single Trees. A big thank you to folks who took care of the door, the potluck, cleaning up, etc.&nbsp; Kirby's caregiver, Jake Westra, went to his brother's afterwards. His brother asked him how it went&nbsp; Jake's reply was "I had FUN!"&nbsp; Kirby would have loved it!&nbsp; Everyone had a name badge or hard badge and mingled and shared.&nbsp; Yes, this was truly a celebration of Kirby Goode's life.&nbsp; There was close to 300&nbsp; in attendance.&nbsp; Thank you so much one and all.</div>
+<div>&nbsp;</div>
+<div>Much love,</div>
+<div>Christina Corelli</div>
+<div>Kirby Goode's widow</div>
+</div>
+</li>
+
+
+<li><a>Opal Mae Steele Obituary</a>
+<div>
+<a href="/content/2018-07/OpalSteele.jpg">
+<img class="right" src="http://ofn.club/content/2018-07/t150/OpalSteele150.png"></a>
+<p>Opal Mae Steele was born to Otto and Alice (Cdady) Obermiller on September 5, 1923, in Loup City, Nebraska.&nbsp; She passed away of Congestive Heart Failure in Salmon, Idaho, on June 19, 2018.</p>
+<p>Opal married Clyde A. Steele, they had four children: Shirley Ann, Clyde Jr., James O. (Jim), and Linda Kay.</p>
+<p>Opal retired from the commercial/professional garment sewing business in the Portland, Oregon area, working with Pendleton and White Stag Companies.</p>
+<p>She and Clyde (he was a square dance caller from 1959-1990) loved to square dance, and they danced from 1950-2003. Opal &amp; Clyde started The Tandem Teens, a teen precision exhibition square dance group of 40 teenagers, traveling and performing all over the Northwest from 1963 -1978.&nbsp; Her son, Jim Steele, was the choreographer of the routines performed.</p>
+<p>She enjoyed traveling with their RV between Quartzsite, AZ and Salmon, ID as &ldquo;snowbirds&rdquo; with Clyde when he retired in 1980, she continued to travel until Clyde passed away in 2005. She then shared her home in Arizona for winter months with her daughter, Shirley and summer/fall months they lived at Shirley&rsquo;s home in Salmon, Idaho.</p>
+<p>She is survived by her children Jim (Jan) Steele, and Shirley (Richard) Kempf; grand childre Chris Steele, Jacqie (Rich) Harding, Codi Steele, and Jimmy (Amanda) Steele; and two brothers, Raymond Obermiller and Harold Obermiller.</p>
+<p>Opal was preceded in death by her parents, Otto &amp; Alice (Caddy) Obermiller and the following siblings: Frank, Earl and Mary. Her husband Clyde, and her children: Clyde Jr., and Linda Kay. Her grandson, Chaddrick James (Jim &amp; Jan Steele&rsquo;s son) and her son-in-law, Richard Kempf.</p>
+<p>Memorial Services will be held in Loup City, Nebraska at a later date in June.</p>
+</div>
+</li>
+
+</ul>

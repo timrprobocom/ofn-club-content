@@ -1,0 +1,6 @@
+Oregon's Summer Festival is in a sad place.  At the time I'm writing this, three weeks out, fewer than 60 ribbons have been purchased for the 2018 Summer Festival in Grants Pass, and despite Herculean efforts by Lorrie McIntosh and her committee, it is likely that the Festival will end up losing money, money that the Rogue-Sis-Q Council can ill afford to pay.
+
+Times have changed.  We all know that.  In the early 1980s, Summer Festivals routinely had more than 5,000 attendees, and dancers made their vacation plans around the festival.  Today, it seems that Summer Festival (like most Federation activities) is viewed as a burden, rather than an adventure.
+
+I see no clear path to reverse that.  When a 3-day Festival generates less interest than a regular club dance, there is a real problem.  Dancers today just aren't interested in going out of their way, and it's not clear there is anything a Festival could do to change that.  Due to the lack of a bidder, the Federation itself will be sponsoring the 2019 Summer Festival.  Unless someone has a radical idea that hasn't been tried before, it seems like 2019 may be the last Oregon Summer Festival.  That's a shame, but there's no point in throwing a party if no one attends.
+
