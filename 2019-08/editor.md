@@ -1,0 +1,1 @@
+Ah, summer.  The days are long, the evenings are warm, the allergies are in full bloom.  Clubs are starting to plan for their fall lessons, many clubs will be going dark, and several parts of the state are going into "festival" mode.  There's lots of dancing to be had.

@@ -1,0 +1,32 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li class='clear'><a>River City Riders</a>
+<div>
+<p><a href="content/2019-08/RCR-NSDC.jpg"><img class="right" src="content/2019-08/t300/2019-RCR-NSDC.png" /></a></p>
+<div>"Mr. Ed" (the talking horse!) reports:</div>
+<div>&nbsp;</div>
+<div>The River City Riders Trial Ride consisted of 8 Riders &amp; "Horses" making their way across the Country to Atlanta, Georgia, for the NSDC, turning this into "a trip/ride of the Century"!&nbsp;&nbsp;We &nbsp;are the&nbsp; Lead "Horses", Jolene &amp; Ed Cummings with&nbsp;Danny &amp; Carol Williamson, Lois Manos, Laura Bonacorsi, Patricia Billings&nbsp;&amp; Anna Easton.&nbsp;&nbsp; We stopped to play at Cousins, Little America, Lamberts Bun Throw, Dolly Partons Stampede, Branson Belle, Graceland, Danced with Pistols &amp; Petticoats, WAHOO Zipline, Ruby Falls, Dollywood, then on into the 68th National Square Dance Convention in Atlanta, Georgia.&nbsp; Our performances were received with cheering &amp; pictures&nbsp;as we worked up to the last one with a fun attitude that made&nbsp;us special to all!&nbsp; Our Exhibition Chairs were Bob &amp; Dana Whitfield.&nbsp; They said, "You really made a hit with the audiences and the visitors in the main area as you walked through.&nbsp; Quite a treat for everyone!" Thank you Bob &amp; Dana for your kind, caring help!&nbsp; On Sat. the&nbsp; 29th we toured Atlanta, seeing Martin Luther Kings home and Church, built in 1856, it was his Dad &amp; Grandad's Church before him.&nbsp; There was a new church across&nbsp;the road.&nbsp;&nbsp; We actually toured the "World of Coke" where you could sample 101 different coke flavors!&nbsp; Then we went to CNN &amp; went up the longest escalator in the U.S.--6 stories.&nbsp; Then came down stairs two flights at a time as each area was explained to us...&nbsp; Breaking news is handled immediately..other 6 to 8 hours to tape.</div>
+<div>&nbsp;</div>
+<div>We traveled 5,978 miles to accomplish this feat!&nbsp; Giddy up, go --all the way...Please acknowledge these "Riders"--they represented our Northwest in style!&nbsp; Thank you awards were given to each!&nbsp; They were Awesome!</div>
+<p>&nbsp;</p>
+<div>The USA West is in Boise, Id&nbsp; Aug, 15-17 and we are scheduled to perform there, This is a really nice dance with lots going on and you would truly&nbsp;enjoy it so hope you can make it!</div>
+</div>
+</li>
+
+</ul>
