@@ -1,0 +1,27 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+
+<ul class='hideseek'>
+<li><a>Jack G Brinson Obituary</a>
+<div>
+<p>
+Jack G Brinson, who chaired two Federation Summer Festivals and was the
+Central Oregon delegate for a number of years, passed away late in June.  
+His wife, Ilene, passed in 2005.  Here is his obituary from the Bend Bulletin:
+ <a href="http://www.bendbulletin.com/obituaries/3319044-151/jack-grant-brinson"
+ >http://www.bendbulletin.com/obituaries/3319044-151/jack-grant-brinson</a>.
+</div>
+</li>
+</ul>
+
