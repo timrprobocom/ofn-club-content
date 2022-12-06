@@ -1,0 +1,86 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li><a>Response on Summer Festivals</a>
+<div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;"><span style="font-size: 10pt;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">I read your Editors Note in the July OFN in regard to the future of Summer Festivals.</span></span></div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;">&nbsp;</div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;"><span style="font-size: 10pt;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">I have a few suggestions and observations as a Square Dancer in regard to the future of our Summer Festivals.</span></span></div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;">&nbsp;</div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px; text-align: center;"><span style="font-size: 10pt;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">Summer Festival Bids:</span></span></div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;">&nbsp;</div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;"><span style="font-size: 10pt;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">A lot of the councils are now small, how about we all get along and combine councils to put on a Summer Festival. Square Dancing belongs to all of us, not just to 1 club or council. Combined efforts and funds can make for a more affordable summer festival.</span></span></div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;">&nbsp;</div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px; text-align: center;"><span style="font-size: 10pt;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">Lack of interest from the dancers:</span></span></div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px; text-align: center;">&nbsp;</div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;"><span style="font-size: 10pt;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">You are absolutely correct Tim, when you commented a 3-day festival generates less interest than a regular club dance. Here is why I wasn't interested in the last 2 summer festivals. These are my observations and many of the dancers I have talked to in the last couple of years.<br /></span></span></div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;">&nbsp;</div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px; text-align: center;"><span style="font-size: 10pt;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">1.&nbsp;<span style="text-decoration-line: underline;"><strong>Lack of information</strong></span><br /></span></span></div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;"><span style="font-size: 10pt;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">Summer Festival 2017, early on myself and other dancers had questions in regard to the festival, the Chairman was not knowledgeable of her own festival and couldn't answer questions.&nbsp;<br /></span></span></div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;">&nbsp;</div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;"><span style="font-size: 10pt;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">Summer Festival 2018, again early on, no information. The only answer that was given for almost a whole year in the OFN magazine and the Oregon Federation meeting minutes was: there would be information forth coming. Never happen, no information.</span></span></div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;">&nbsp;</div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px; text-align: center;"><span style="text-decoration-line: underline;"><strong><span style="font-size: 10pt;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">2. Very little advertisement and very little visitation.</span></span></strong></span></div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;"><span style="font-size: 10pt;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">Both Summer Festivals 2017 and 2018 relied mostly on Facebook. Not everyone uses Facebook. What happen to visitations, what happen to everyone involved in putting on the festival coming up to you at the dances, etc. talking to you about their festival and what it had to offer?&nbsp; &nbsp;<br /></span></span></div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;">&nbsp;</div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px; text-align: center;"><span style="text-decoration-line: underline;"><strong><span style="font-size: 10pt;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">3.Registration</span></span></strong></span></div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;"><span style="font-size: 10pt;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">It would be nice to have information on the hotels and some of the local restaurants on the back. Also RV Parks for the RV group, especially if there is no dry camping at the festival site. Some need electricity for medical reasons. Directions on how to get to the festival and directions that are RV friendly for the RVs.<br /></span></span></div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;">&nbsp;</div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;"><span style="font-size: 10pt;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">I would like to suggest for future summer festivals if at the Oregon Federation May state meeting there are 100 pre-registration or less, cancel the summer festival.<br /></span></span></div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;">&nbsp;</div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px; text-align: center;"><span style="text-decoration-line: underline;"><strong><span style="font-size: 10pt;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">4.Program</span></span></strong></span></div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;"><span style="font-size: 10pt;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">Summer Festival 2018, didn't have much to offer the adults, it was geared to the Youth.<br /></span></span></div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;">&nbsp;</div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px; text-align: center;"><span style="text-decoration-line: underline;"><strong><span style="font-size: 10pt;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">5.Entertainment</span></span></strong></span></div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;"><span style="font-size: 10pt;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">Summer Festival 2017 had a great idea, dancing on the State Capital steps. With a tour of the state capital building afterwards, A lot of us were interested, then we found out it was going to be held on Thursday. A lot of dancers are working during the week and some dancers are en-route to the festival the first day of the festival.<br /></span></span></div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;">&nbsp;</div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;"><span style="font-size: 10pt;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">Summer Festival 2018, had a lot of fun events for the Youth, nothing for the adults.</span></span></div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;">&nbsp;</div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;"><span style="font-size: 10pt;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">Summer Festival 2017, could have offered a lunch or dinner cruise on the Willamette Queen,&nbsp; visit the Oregon Gardens, wine tours, the Cooley Gardens, etc.</span></span></div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;">&nbsp;</div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;"><span style="font-size: 10pt;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">Summer Festival 2018, could have offered a jet boat cruise with lunch, there is the Oregon Caves, Crater Lake,etc. Southern Oregon is known as the recreational part of Oregon.<br /></span></span></div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;">&nbsp;</div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;"><span style="font-size: 10pt;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">Both festivals could have gone to their visitor's center or Chamber of Commerce for brochures of the local area, dancers could pick something out before, during or after the festival to do while enjoying the festival. This information could have been included in their festival displays at dances and one activity could have been picked out and arranged for a Saturday afternoon to do during the festival for the adults.<br /></span></span></div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;">&nbsp;</div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;"><span style="font-size: 10pt;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">As I have said these are my observances and the dancers I have talked to, I hope this will help give insight for future summer festivals so we can continue to have the summer festival.<br /></span></span></div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;">&nbsp;</div>
+<div style="font-family: arial, helvetica, sans-serif; font-size: 13.3333px;"><span style="font-size: 10pt;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">Respectfully submitted,</span></span></div>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000; background-color: #ffffff;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 12pt;">Glory Guches</span></span></p>
+</div>
+</li>
+
+
+<li><a>Thanks to Summer Festival Committee</a>
+<div>
+<p><span style="caret-color: #000000; font-family: Helvetica; font-size: 13px; text-size-adjust: auto;">We would like to thank our committee who worked hard promoting and coordinating all the activities and dances at Summer Festival 2018. We would also like to thank all the dancers, callers, and cuers who took time out of a very busy summer schedule to support this wonderful festival. We had many callers and cuers who wanted to volunteer, but could only schedule so many. &nbsp;I&rsquo;ve heard from many, especially the Buckeroo&rsquo;s, who voiced having a great time dancing at the fairgrounds and the Vortex (House of Mystery). Thank you Janienne Alexander for calling at the Vortex. &nbsp;It was great to see some many people having so much fun. The Grants Pass Bear hunt was enjoyed by the youth and the young at heart. We think the adults had just as much fun as the youth visiting this wonderful town and finding over 50 bears stationed throughout Grants Pass. Of course many stopped for their free phosphate soda at Grants Pass pharmacy. We want to thank the committee and Chuck Simpkins for all their hard work.</span></p>
+<p><br style="caret-color: #000000; font-family: Helvetica; font-size: 13px; text-size-adjust: auto;" /><span style="caret-color: #000000; font-family: Helvetica; font-size: 13px; text-size-adjust: auto;">Lorri and Elaine, co-chair for Summer Festival 2018</span></p>
+</div>
+</li>
+
+
+<li><a>Note from a Caller's Wife</a>
+<div>
+<p>I would like to thank Timber 8&rsquo;s from Roseburg for making me &ndash; a caller&rsquo;s wife &ndash; feel included, welcomed, and valued. You provided a very comfortable and easy way for me to enjoy square dancing while my husband/partner called your dance. Thank you.</p>
+<p>When I stepped into the world of a caller&rsquo;s wife I had no idea how lonely it would be and how little I would get to dance. I go to dances with my partner but have no partner to square dance with. We get to do some rounds together, after he has greeted the members and guests and answered the many questions that come his way once he is off the stage. After the rounds he heads back to the stage and I sit on the bench.</p>
+<p>We recently went to Roseburg and I had one of the best dancing experiences as a caller&rsquo;s wife. After the first tip the Timber 8&rsquo;s president came to me wearing a garter around his arm. He asked me if I would like to dance the next tip with him. I was thrilled! He then explained he would pass the garter on to another who would be my partner for the next tip, if I chose to dance. After our tip I watched him pass the garter on to another club member who asked me to dance. This began a very memorable, enjoyable dance. Thank you all the wives/partners that gave up a tip so I could dance.</p>
+<p>Whatever method your club uses to include your caller&rsquo;s/cuer&rsquo;s partner, know it is greatly appreciated. If you don&rsquo;t have a plan, please make one. Remember we come with a partner but don&rsquo;t get to dance with them.</p>
+<p>Erin &ndash; a caller&rsquo;s wife</p>
+</div>
+</li>
+
+</ul>

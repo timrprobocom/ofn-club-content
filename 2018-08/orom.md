@@ -1,0 +1,2 @@
+August's Oregon Round of the Month is "The Moon is Over Her Shoulder", by Michael Johnson, Phase II+1 Waltz (interrupted box), choreographed by Steve and Lori Harris. This was chosen by the Tualatin Valley Council.
+[Download your cue sheet here](https://www.roundalab.org/CuesheetsDL2/The%20Moon%20is%20Over%20Her%20Shoulder%2C%20Harris%2C%20S%26L__2%2B1.pdf).

@@ -1,0 +1,1 @@
+This summer is turning out to be a pretty hot one.  Before heading out to a dance, be sure to check the Federation's Facebook page, which has become the "go to" location for reporting weather cancellations.
