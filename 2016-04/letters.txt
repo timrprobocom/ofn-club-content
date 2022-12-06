@@ -1,0 +1,72 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+
+<ul class='hideseek'>
+<li><a>The Way It's Always Been</a>
+<div>
+<p>
+Don't you just hate those words?  When I question a procedure I always
+seem to get the same answer.  That's the way it's always been!  Every time
+I hear them I CRINGE.
+<p>
+I look around my local square dance center and see all those pennants.
+Most of those are ghost of clubs that USED to be.  I have to wonder how
+many times they said those words?  <i>"That's the way it.s always been."</i>
+Maybe if they had said that.s the way it USED to be they wouldn.t be
+ghost of clubs.
+<p>
+How many times in our clubs do we have to say <i>"That's the way it's always
+been"</i>  before we and all other clubs are ghost of what might have been?
+<p>
+I don't have the answers to the problems, but we have an awfully lot of
+very intelligent dancers in our clubs and if we put our old ways aside,
+combine our thoughts maybe, just maybe, we as a square dance community
+will learn to say <i>THAT'S HOW IT USED TO BE</i>, and maybe square dancing
+will survive.
+<p>
+Jo Baker<br>
+Lebanon  Square Circlers<br>
+Mid-Willamette Area
+</div>
+</li>
+</ul>
+
+
+<ul class='hideseek'>
+<li><a>Rick Ewing Obituary</a>
+<div>
+<img class='right' src='/content/2016-04/t300/Ewing-300.jpg'>
+<p>
+Richard "Rick" H. Ewing passed away peacefully at his home Monday, February 29, with loved ones by his side. Rick was born February 15, 1945, in Portland, Oregon to Richard and Katherine Ewing and moved to Richland at an early age with his younger siblings, Ronald and Linda.
+
+<p>
+One of his first jobs as a young boy was working at Arlene’s Flowers alongside his mother, sweeping the shop; which contributed to his lifelong love of flowers, especially Orchids. Rick graduated from Columbia High School while working steadily from his teen years to help support his parents and himself. Rick received a degree from Columbia Basin College and began his career as a Designer, and through hard work, became a Nuclear Design Technician for Exxon, winning many awards and patents during his 30 years in the industry.
+
+<p>
+He was a prankster and loved joking around; leaving a legacy of stories from elaborate Halloween scares, pirate radio stations, motorcycle feats and tales that his best friend and cousin Kathy wouldn’t tell us. Rick enjoyed genealogy and spent countless hours researching and discussing his family roots, but his true passion was Square Dance calling where he made hundreds of friends and had the opportunity to travel with his wife, Carolyn. He led cruise ship tours to Alaska and the Caribbean, organized state and national festivals, took groups of dancers to Hawaii and was the caller for many Square Dance Clubs.  Rick called on parade floats, gave square dance demonstrations to schools and churches and performed community services.
+
+<p>
+Rick is survived by sons: R. James (April) and A. Bryan (Erica) Ewing; daughters: Kimberly (Myron) Schauss and Dawn (Tony) Messina; 9 grandchildren and 5 great- grandchildren. He is preceded in death by his parents, Dick and Kay; his loving wife, Carolyn; his brother, Ron; his sister, Linda and his grandson, Forrest.
+
+<p>
+There will be a funeral service at 1:00 pm on Thursday, March 10, 2016, at
+Events at Sunset in Richland, WA, with a graveside service to follow at
+Sunset Gardens. A reception is to follow at Rick’s home in Kennewick.
+
+<p>
+Donations can be made to the Kadlec Neurological Center for Alzheimer’s in honor of Richard H. Ewing.
+
+</div>
+</li>
+</ul>
