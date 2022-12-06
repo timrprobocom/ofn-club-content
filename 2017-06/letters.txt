@@ -1,0 +1,27 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li><a>Jean Turner and the R Square D</a>
+<div>
+<p><img class="right" src="content/2017-06/t300/Jeanx400.png" /></p>
+<p class="MsoNoSpacing"><span style="font-size: 12.0pt;">R Square D was formed in 1953 and recently celebrated their 64<sup>th</sup> anniversary.&nbsp; One of their members, Jean Turner, has danced with the club for 63 of those 64 years.&nbsp; Jean and her husband, Pete, married in 1942 and they began taking lessons with R Square D in September, 1954, with MC/teacher Ralph Lindsay.&nbsp; They went to their first dance in December, 1954.&nbsp; At that time, there were only tip callers at the dances and often there would be a different tip caller for each tip throughout the dance.&nbsp; Jean and Pete enjoyed ballroom dancing before they started square dancing and they soon learned to round dance, too.&nbsp; In those days, the women had to make their own square dance dresses, skirts, blouses, men&rsquo;s shirts and even their own petticoats.&nbsp; Pete and Jean were the President couple of R Square D in 1957 and they also served many times as Secretary or Treasurer of the club.&nbsp; The club danced at various locations, including Vasa Hall and Rose Valley Grange.&nbsp; In the late 1970s, the city of Longview allowed all the square dance clubs in the area to use a building on Industrial Way for their dances and lessons.&nbsp; The square dancers remodeled the building and installed a &ldquo;floating&rdquo; wooden floor.&nbsp; Pete spent many hours working on the floor and helping with other various projects.&nbsp; Pete died in 1990 (married for 47 years at that point) and Jean did not dance for a while after that.&nbsp; One day, she heard music at work (Canterbury Park in Longview) and saw that R Square D was doing a square dance demo for the residents of Canterbury Park.&nbsp; She saw friends there, who encouraged Jean to come back to dancing.&nbsp; She was warmly greeted when she returned and it was never a problem that she came as a &ldquo;solo&rdquo;.&nbsp; Jean turned 92 last November, but is still very young at heart.&nbsp; She is known at R Square D as &ldquo;Jean, Jean, the Dancing Machine&rdquo; and she still enjoys square and round dancing when she feels good.</span></p>
+<p class="MsoNoSpacing"><span style="font-size: 12.0pt;">Submitted by Chris Poole</span></p>
+</div>
+</li>
+
+</ul>
