@@ -1,0 +1,34 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li><a>Helen Hanson Obituary</a>
+<div>
+<p><a href="content/2018-04/HelenHanson.jpg"> <img class="right" src="content/2018-04/t150/HelenHanson150.png" /></a></p>
+<p>Dancing in Heaven&nbsp;</p>
+<p>Helen Hanson passed away peacefully in her sleep on 2/19/2018 at the age of 95. Dancing was one of her favorite recreational activities, square and round dancing in particular.&nbsp; In the 1960&rsquo;s she took classes in square dancing at Mt Hood Community College and Portland State College. The school district where she taught elementary classes said they might have to cut Physical Education funding. She thought square dance was something she could teach if she had to provide a P.E. program.&nbsp; The children enjoyed the activity, and ,using records, her class square danced regularly.</p>
+<p>Previously known as Helen Gross, she has been twice widowed.&nbsp; She danced with friend and partner Jody Glass over 10 years until he passed away.&nbsp; She learned to cue the rounds from Mary Ann Rother and Dan Sabola, and substituted as cuer for many clubs in the Portland and Vancouver area.&nbsp; She taught round to groups and individuals.&nbsp; She met Harold, her future husband in a lesson situation.</p>
+<p>Helen fondly remembered the old former square dance hall in Portland owned by Stella and Jesse Tufts.&nbsp; Helen and Harold were married in that hall with a fun square dance wedding. Harold celebrated his 80th birthday with a special dance in that hall. The tufts have been long gone now and so has the hall. Harold passed away in 2007.</p>
+<p>Helen and Harold were both Mazama Mountaineers and had been hiking and climbing for years. After they were married they took out hiking and treking expeditions all over the world. They led over 18&nbsp; international outings. They went to the worlds most southern square dance at the tip of Tazmania Island off the southern coast of Australia.&nbsp; They were the only Americans to ever have attended that dance, at the time.</p>
+<p>In Portland they enjoyed dancing with the B&amp;Bs, River Gate Stompers, Checkerboard Squares, Mix and Mingles, Eager Beavers, Happy Hoppers, Oaky Doaks, and others.</p>
+<p>On June 16, 1985, Helen (then Gross) , and Genevieve Churchill put on the one and only square dance at Crown Point in the Columbia Gorge. The highway department said &ldquo;never again&rdquo;! After 20 squares had formed the area became so jammed with dancers that regular traffic could not get through. Police were called to limit participants and reroute parking &nbsp;to the women&rsquo;s forum parking lot a mile away. They also provided shuttles back and forth to that lot. It was a great dance, in a great place, with a great crowd attending&hellip; Too Great!</p>
+<p>Helen treasured all the memories of dances big and small. From the time she cued at the 43rd National Square Dance Convention in June 1994 to local mid state festivals. A special thank you from Helen goes to Jim Hattrick, Lois and Gene Noble, Craig Abercrombie, and Jeanine Norden for the good times enjoyed at their dances.</p>
+<p>When the music plays, the callers and cuers call. When friends dance together those are Happy Times!!</p>
+</div>
+</li>
+
+</ul>
