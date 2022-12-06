@@ -1,0 +1,33 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+
+<ul class='hideseek'>
+<li><a>Genevieve Churchill Update</a>
+<div>
+<p>
+Oregon's matriarch of square dancing, Genevieve Churchill, 
+fell in July and broke her hip.  She has been diagnosed with moderate 
+dementia and can no longer live by herself.
+<p>
+Here is her new address:<br>
+13200 SW Village Glenn Dr.<br>
+Tigard, OR 97223
+<p>Her phone number is 503-968-1576.  Visiting hours are 9:30 AM to 7 PM.
+<p>
+Genevieve will be turning 104 years old on November 22.  Her daughter asks
+that dancers please send birthday cards to the above address.
+</div>
+</li>
+</ul>
+
