@@ -1,0 +1,1 @@
+Another year has come to a close.  Beginner's classes are in full swing, and we are rapidly approaching another Mid-Winter Festival.  Take the time to join your class members in the new dancer's hall, and show them what a friendly group of people we all are.

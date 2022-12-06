@@ -1,0 +1,55 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li class='clear'><a>Jim Kincaid Obituary</a>
+<div>
+<p><img class="right" src="content/2019-01/Kincaid.jpg" /></p>
+<p>James Leonard Kinkaid (Jim) was born October 15, 1934 in Pasco, Washington to Leonard and Mary Corrine Kinkaid. The family moved to the Willamette Valley in 1936 and settled in West Salem on a dairy farm in 1943. Jim attended Brush College Grade School and graduated from Salem High School in 1952 where he was an FFA member. After high school, Jim went to Oregon State College (University) and graduated in 1956 with a degree in Animal Husbandry and then joined the Air Force for 3 years of Service.<br /><br />On June 18, 1954 Jim and Margaret "Avis" Dezotell were married in First Christian Church in downtown Salem and later welcomed their first daughter, Debbie. In 1959, after Jim's discharge from the Air Force the family moved back to West Salem and Jim and his Dad, Leonard, formed a partnership on the dairy farm that remained in the family until 1985. Second daughter, Linda, was born during this time.<br /><br />While on the dairy, Jim was involved in many dairy organizations and served on the board of directors for Select Sires and All West Breeders. Jim was also involved in Church activities that included working with the Youth Groups and helping to take care of the Church property. Jim and Avis belonged to the Red Hots Square Dance Club for over 30 years and danced both locally and throughout the region.<br /><br />In 1985 the dairy was sold and a new adventure raising onions was started in the Lake Labish area and continued until Jim and Avis retired in 1997. Jim continued his involvement with the Church as a Deacon and on the Property committee seeing what needed to be done and getting it done often without fanfare. He was a promoter of agriculture and willing to show people how it used to be done with antique farm equipment at AgFest and Western Antique Powerland in Brooks.<br /><br />Jim passed away November 16, 2018 to join his wife of over 63 years who passed away in March 2018. Jim is survived by his daughters, Debbie (Marty) Hegr and Linda (Mark) Lytle; three grandchildren, Leslie Maloney, Eric Hegr and DJ Emmons; great-granddaughter, Payton Maloney; his siblings, Chuck (Lois) Kinkaid, Sharon (Gary) Mudge and Joyce (Paul) Miller.<br /><br />A Celebration of Life will be 1:00 PM on Saturday, November 24, 2018 at First Christian Church in downtown Salem. In lieu of flowers contributions may be given to the Jim Kinkaid Memorial Fund at the First Christian Church. Visitation will be from 2:00 PM to 4:00 PM on Friday, November 23, 2018 at Virgil T. Golden Funeral Service.</p>
+</div>
+</li>
+
+
+<li class='clear'><a>Joyce Voll Obituary</a>
+<div>
+<p><img class="right" src="content/2019-01/JoyceVoll.jpg" /></p>
+<p>Cuer Joyce Voll passed away November 23, 2018.&nbsp; A memorial dance for Joyce will be held on Januiary 13th.</p>
+</div>
+</li>
+
+
+<li class='clear'><a>Manuel Machado Obituary</a>
+<div>
+<p><img class="right" src="content/2019-01/ManuelMachado.jpg" />Manuel Cesar Machado passed away November 29 at&nbsp;morning at 8:36am after a long battle with colon cancer.&nbsp; A rosary was held at Golden Funeral Home on Sunday, December 2.</p>
+</div>
+</li>
+
+
+<li class='clear'><a>Ed Weber Obituary</a>
+<div>
+<p>Edward Paul Weber passed away in Portland. Oregon, from congestive heart failure, on December 16, 2018.</p>
+<p>Born July 17, 1939, in Boulder, CO, to Paul and Julia Weber, they moved to Astoria when Ed was 4.&nbsp; He attended Star of the Sea Grade School and graduated from Astoria High School in 1958, part of the first class to graduate from the new high school.&nbsp; He married Cynthia Ann Slanger on December 14, 1961, in Tillamook.&nbsp; They celebrated 57 years of marriage in December.</p>
+<p>Ed spent his working career with Van Dusen Beverages, from age 14 until retirement, spanning a period of more than 50 years as a route salesman, installer, and head bottler.&nbsp; He served 8 years in the Oregon National Guard.</p>
+<p>His many activities over the years included bowling, coaching baseball, being a 4-1-1 leader, and playing cards.&nbsp; He was the caller for the Hayshaker Square Dance Club for 23 years, enjoying the many festivals and camping weekends on the Nehalem River.&nbsp; He served as master of the Pacific Grange for 20 years, and was still a member at his passing.</p>
+<p>Woodworking was his passion, starting in high school.&nbsp; He spent many hours doing Alaska woodcarving, intarsia woodworking, and making items for Cynthia's many craft fairs.&nbsp; He was very proud of his ribbons from the Clatsop County Fair and Oregon State Fair.</p>
+<p>He never met a stranger, and had a new joke for every day.&nbsp; His children and grandchildren were his pride and joy.&nbsp; He bragged to everybody about their accomplishments.</p>
+<p>He is survived by his wife Cynthia; son Terry and wife Renae; son Jeffery; and grandchildren, Andrew and Kelsy.</p>
+<p>A memorial service will be held at 1 PM on December 22 at the Pacific Grange Hall in Warrenton.</p>
+</div>
+</li>
+
+</ul>
