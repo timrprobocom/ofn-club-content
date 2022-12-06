@@ -1,0 +1,155 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+
+<ul class='hideseek'>
+<li><a>Norma Craig Obituary</a>
+<div>
+<p>
+Norma Craig passed away on July 29.
+<p>
+Norma grew up in Casselton ND, graduating from Lincoln High School in
+1950. She graduated from St. Johns School of Nursing in Sept. 1953. Moving
+to Seattle WA in the spring of 1954, she met Stanley G. Craig at a
+dance in May of 1954. They married in June of 1955. Their last dance
+together was at their sixtieth wedding anniversary party on June 21st
+2015. Her goals in life were to become a nurse, and have boys. She had 5
+wonderful sons and 1 beautiful daughter, Scott, Paul, Dean, Donna, Tomas
+and Jon.
+<p>
+Norma and Stanley started square dance lessons in Sept. 1958 in Monroe
+WA. They joined the Hoedown Raiders in Monroe in Jan 1959. In 1965
+they moved to Milwaukie, where they joined the Calico Casters.
+When that club closed they joined the Oakey Doaks. They left
+the Oakey Doaks in the late 70s dancing mostly ballroom until joining
+the Aces and Lace square dance club in 1994. After Aces and Lace folded
+they traveled and danced widely, eventually joining the B&Bs and Bill and
+Tami's Melody Racters Plus club. After Bill passed, they moved to the River
+City Dancers to dance to Les Seely and Tami Helms. Norma and Stanley's
+health restricted their dancing these last few years. They danced for
+the last time to Les and Tami on their 60th wedding anniversary party
+on June 21, 2015.
+<p>
+Norma will have a Mass of Christian Burial at Christ the King Catholic
+Church, 7414 SE Michael Dr. on August 21 at 7:00pm followed by a celebration
+of life on August 22 at the Milwaukie Community Club, 10666 SE 42nd Ave
+from 12pm to 3pm. All are welcome to attend one or both.
+</div>
+</li>
+</ul>
+
+<ul class='hideseek'>
+<li><a>David Faulkner Obituary</a>
+<div>
+<p>
+David Faulkner, a long time residet of Eugene and member of the Single Trees
+passed away this month.  The following was written by close friend Dale 
+Hornberger.
+
+<p>
+My condolences go out to Lucy Faulkner & her Family upon hearing of the
+passing of her husband David Faulkner. Dave & Lucy joined my advanced
+lessons years ago at the Dance Studio on West 11th in Eugene. They soon
+became an integral part of the newly formed group Cast-A-Shadow. Their
+coordinating and managing of the dance and lesson tasks was the reason
+the club was so successful.
+
+<p>
+Their friendliness, their laughter and their ability to make dancers
+feel welcome truly epitomized the square dance spirit. Whether dancing
+locally or at various festivals or square dance retreats, David and Lucy
+always welcomed you into their square.
+
+<p>
+I was blessed to have the opportunity to have their friendship and
+hardworking spirit when I participated in square dancing. Dave & Lucy
+were sorely missed when they retired from dancing and now Dave is sorely
+missed in his passing. He may be gone, but his memories live on and I’m
+sure there are many dancers past and present that have fond memories of
+David 'Dave' Faulkner.
+</div>
+</li>
+</ul>
+
+<ul class='hideseek'>
+<li><a>2015 Central Oregon Round Up</a>
+<div>
+<p>
+August 6-8th square and round dancers met up in Sisters, Oregon, to enjoy
+the 33rd Annual Round Up at the Sisters High School. New this year was
+a dance opportunity on Friday afternoon with Callers/Cuers from central
+Oregon and "Friends". Scott Zinser and Roger Putzler, two long time
+(over 20 years) supporters of the Round Up were recognized on Saturday
+night by the Board. They, along with Jim Steele, Kippen Parret, Sandy
+Harris & Charlotte Jeske called at Thursday’s Trails End dance as
+well as Friday afternoon dance. Cuers were Marion Cook, Joyce Brown,
+Cherie Cox, Steve Murphy, and Sarge Glidewell.
+
+<p>
+Also new this year, we enjoyed a Friday night dance called by Richard
+Lane and cued by our own Mark McDonald. On Saturday over 100 enjoyed our
+featured caller, Charlie Fagan, from Los Angeles area, and Cuers Debbie
+& Paul Taylor from Cle Elum, WA. Debbie Taylor added a special teach
+on Saturday morning for the pleasure of our round dancers. Believe me,
+it was very appreciated.
+
+<p>
+This event is put on by four clubs of Central Oregon; Bachelor Beauts, Red
+Rocks, Sagebrush Shufflers, and Sundown Round Dance Club. Everyone pitches
+in to make sure this event comes off without any hitches. Of special note,
+the ladies of Sagebrush Shufflers offered homemade pies to the Friday
+night BBQ diners; leftovers were offered at Friday night’s dance. There
+was two BBQ’d tri-tip roasts remaining, so we held a special auction
+that night -- I bet that doesn’t happen at other Oregon Festivals!
+
+<p>
+Sq Dini and Designs by Keith joined Roger Putzler’s Jewelry from the
+Southwest in the vendor area.
+
+<p>
+Over 30 RV’s were camped in the parking lot and were delighted by the
+Dan & Ginger Allen and Terry & Jan Amerson’s breakfast spread offered
+Saturday and Sunday mornings.
+
+<p>
+The Round Up is held on the second weekend of August so pencil in the date on your calendar so that you can enjoy the calling of Mike Sikorsky and cueing of Ron & Georgine Woolcock in 2016!
+Joyce Welton
+</div>
+</li>
+</ul>
+
+<ul class='hideseek'>
+<li><a>Hal &amp; Virginia Meyers 50th Anniversary</a>
+<div>
+<p>
+<a href="/content/2015-09/IMGP0511.JPG">
+Harold "Hal" and Virginia (Allen) Meyers
+</a>, of Redmond, will celebrate their 50th wedding anniversary Aug. 20 with a family gathering at their home.
+<p>
+The couple were married Aug. 15, 1965, in Sacramento, California. They
+have four children, Larry of Portland, Kathryne Meyers and Susan Bisagno,
+both of Placerville, California, and the late Bradford Mapes; five
+grandchildren; and five great-grandchildren. Hal’s son Larry served
+as best man, Virginia’s son Bradford gave the bride away, and Hal’s
+daughters Kathryne and Susan served as bridesmaids.
+<p>
+Hal was an engineer for Shell Oil Company and retired in 1987. Virginia was 
+a real estate broker and retired in 2000.
+<p>
+Together they square dance at the Pine Forest Grange with the Swinging Mountaineers and Bachelor Beauts dance clubs.
+<p>
+They have lived in Central Oregon for 40 years.
+</div>
+</li>
+</ul>
+
