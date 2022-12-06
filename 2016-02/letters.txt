@@ -1,0 +1,280 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+
+<ul class='hideseek'>
+<li><a>Jacque Talbert Obituary</a>
+<div>
+<p>
+Jacque Norton-Talbert passed away on December 12, 2015 during a single-car 
+accident in San Felipe, Mexico where she resided during the winter.
+<p>
+Jacque was born to David and Dona Henderson on February 8, 1948 in San Diego, 
+California, and raised by her mother, Dona and step-father Clessen Mecham.
+<p>
+Jacque attended college at Southern Oregon University in Ashland where she
+received her AA degree. After college she married John E Norton. John and
+Jacque shared a love of music, car racing, the ocean and most importantly,
+their two children Jonathan and Jennelle. In 1978, following her divorce,
+Jacque and the children moved to Oregon as Jacque knew Bend was "the
+place" to raise her children.
+<p>
+In 1984 Jacque married Jeffrey A Talbert. Together, Jacque and Jeff
+made the kids their first priority. Jacque was a dedicated and involved
+mother. In the early 80’s the family took an interest in BMX. It was
+not uncommon on any given weekend for Jacque to load her Suburban with
+bikes and kids (hers and others) to travel anywhere in the Northwest to
+race. Jacque and her Suburban were legendary at the BMX tracks. Jacque
+remained actively involved with High Desert BMX in Bend and Smith Rock
+BMX in Redmond volunteering her time and expertise until 2014.
+<p>
+She was a member of Mirror Court 24, Order of the Amaranth, in Bend
+Oregon where she served as Royal Matron. Jacque truly enjoyed her Amaranth
+service; she valued and cherished her Masonic friends and associates.
+<p>
+It was only natural, given her love of music and dancing, that Jacque
+would become involved in Square and Round dancing. She was a member of
+Bachelor Beauts and Sundown Rounds in Bend. She was an associate member
+of SageBrush Shufflers in Prineville and the RedRocks in Redmond. She
+could also be found dancing with the Swinging Mountaineers Plus club in
+Bend. Jacque never joined any group without getting involved and being
+of service. She was an officer of the Central Oregon Square and Round
+Dance Council and chairman for the Central Oregon Roundup. Not only did
+she love to dance she loved to design and modify dance costumes.
+<p>
+In 2014 Jacque purchased a second home in San Felipe, Mexico. Fixing
+up the property and making it comfortable and inviting for family and
+friends was her priority. The woman was not only talented but tireless.
+<p>
+Jacque ("Just Jacque", as she referred to herself) will be remembered for her
+love and devotion to family and friends; her service to the community;
+her tenacious spirit and zest for life. "Just Jacque" didn’t just
+go through life she LIVED life, right to the end.
+<p>
+Jacque will be missed by all who knew and loved her. She is survived
+by her son, Jonathan Norton and wife Kelli; daughter, Jennelle Norton
+Vanderford; grandchildren, Jaxson, Milo, Kameryn, Iszabelle, and Austin;
+sisters, Cheryl Crane, Jeri Barnes, Laurie Grauberger; brother, Michael
+Mecham.
+<p>
+A celebration of her life is being planned after the holidays.
+</div>
+</li>
+</ul>
+
+<ul class='hideseek'>
+<li><a>Claire Enloe Obituary</a>
+<div>
+<p>
+Claire Enloe was born in Clatskanie, the first child of three born to
+Harold Edward Mattson and Iva Helen Waters Mattson.
+<p>
+Her paternal grandparents were immigrants from Finland and Norway and
+lived on "the ranch" outside of town.  Claire and her family moved
+to the big city if Portland when she was 10, after which she became a
+"city girl".
+<p>
+Claire graduated from Washington High School in 1947 and soon after met
+Bob Enloe.  Claire and Bob married Valentine’s Day Feb. 14,
+1948, and were married 51 years before he passed in 1999.  Claire and
+Bob raised two boys, Jay and Mark, in a home Bob built on a half-acre
+on S.W. Taylor Street, out in the country of Washington County.
+<p>
+After the boys were grown, Claire and Bob built their next home on10
+acres in Manning,  Claire and Bob went on to have three grandchildren,
+Dalles, Charles, and Melody, and five great grandchildren, Trey, Jenna,
+Savaan, Corben, Alexis, and Sabrina.
+<p>
+Claire was always focused on family, while also very ambitious outside
+the home, working in a number of early jobs but ultimately becoming a
+sales manager for Avon Products, through which she seemed to meet most of
+Western Washington County.  Those she did not meet through Avon, she knew
+from neighborhood, from being an early member of St. Andrew’s Lutheran
+church and from many community activities -- including square dancing,
+assisting with the polls at election time, starting and running the TOPS
+club in Banks, quilting, and others.
+<p>
+On Bob’s passing, Claire moved back to "the city", to a new area of Hillsboro
+that was just rising from the fields -- Orenco Station.  She very much enjoyed her condominium and continued her very social network, in Washington County, which had been her home since 1953.
+<p>
+Claire met her companion, Bill Young, several years after Bob’s passing
+and after Bill had lost his wife of many years.  Claire and Bill enjoyed
+six years of companionship together, including celebrating her 80th
+birthday Easter Day in the Netherlands, Bill sadly passed away from
+cancer illness less than two years later.  Bill’s children were a very
+important part of Claire’s extended family.
+<p>
+Claire passed away peacefully in her sleep Dec. 10, 21015, from
+complications of lung cancer, which was diagnosed in 2011.  She was
+fortunate to have few symptoms, until the last four to six weeks when
+weakness became significant and she moved to assisted care, where she
+received excellent care.
+<p>
+A memorial service will be held at 2 p.m. Saturday, Jan. 9, 2016, at
+the Old Scotch Church, 30685 N.W. Scotch Church Road, Hillsboro, where
+Claire and Bob had been members for many years. In lieu of flowers,
+Claire would appreciate donations to the American Cancer Society, to
+assist its anti-smoking programs.
+</div>
+</li>
+</ul>
+
+<ul class='hideseek'>
+<li><a>Al Westphal Obituary</a>
+<img class='right' width=200 src='/content/2016-02/AlWestphal.png'>
+<div>
+Toledo resident Allan B. Westphal, aged 95, passed away in his sleep at
+Sunshine Home in Lincoln Beach on Dec. 20, 2015. He had been lovingly
+cared for there by Ana Imes and the other angels since May 1.
+<p>
+He was born in Wylie, Minn., on March 28, 1920, to Frederick Karl and
+O'Tillie Keller Westphal. He joined brothers Merold, Vernon and Sheldon
+and sisters Luella, Grace, Pearl, Violet and Blossom.
+<p>
+Allan was a child of the Depression, moving with his family to Ridgefield,
+Wash., when his father died in 1923. He graduated from Vancouver High
+School in 1939 and then began work at Boeing in Seattle.
+<p>
+He married Wanda Nadine Stumbaugh in Seattle and soon both of them went
+off to serve in the U. S. Navy in WWII.
+<p>
+Allan served in the Pacific Theatre on the U.S.S. Montpelier,
+participating in all major engagements and earning 13 battle stars.
+<p>
+The couple later divorced and he married Roberta Fantz in Newport in
+1961. They were blessed with daughter Denise Gayle in 1962. They were
+later divorced.
+<p>
+He was a Lincoln County resident since the 1950’s in Logsden, Newport
+and Toledo.
+<p>
+He married Frances Huffman in 1969.
+<p>
+A man of varied experiences and interests, he was a teacher, coach,
+square and round dancer, outdoorsman, community volunteer and leader.
+<p>
+Allan was a 65-year member of Masonic lodges -- Occident Lodge 99 in
+Ilwaco, Wash., and Newport Lodge 85 (formerly Lincoln Lodge in Toledo,
+where he was past master several times, district deputy for five years
+and Hiram award recipient).
+<p>
+He was past president of the Oregon Federation of Square and Round Dance
+Clubs, Randall Award recipient, past Goodwill Ambassador, past delegate
+and past president of Lincoln-Tillamook area council, Yaquina Squares
+and Toledo 49’rs. In addition, he was twice past president and Yuma
+Festival chairman in Arizona.
+<p>
+He served in the local Coast Guard Auxiliary, where he was past Flotilla
+Commander and held several other positions.
+<p>
+In addition, he volunteered in both the Newport and Toledo Fire
+Departments and on the Toledo Rural Fire District board of directors
+(past president).  For several years, he was assistant chief and training
+officer in the Toledo department. In a related position, he was one of
+the founders and the primary instructor for the Georgia-Pacific plant
+emergency organization during its early years.
+<p>
+After the war Al worked in the oyster industry and built a home at
+Nahcotta, WA. He later worked as a logger and heavy equipment operator
+in Springfield, Valsetz, the Siletz Gorge and South Tract. He retired
+in 1982 from Georgia-Pacific, Toledo Div., as a millwright.
+<p>
+He was a member of the Toledo Elks, the Masonic lodges, the Coast Guard
+Auxiliary, the American Legion, and a very special writing group.
+<p>
+Surviving are his wife, Fran Huffman Westphal of Toledo, son Allan
+E. (Grace) Westphal, of Colorado Springs, daughter Denise (David) McMillan
+of Hillsboro, and grandchildren Christine (Adrian) Manzanares, Randall
+Westphal and Janet Westphal, of Ft. Collins, Colo., Amanda Wruble of
+Pleasant Hill, Calif., and Kylie Wruble of Bend. Also surviving are
+great-grandchildren, Xavier and Jaeson Manzanares, Emian, Dallana,
+Lanelle, and Kali Westphal, and their grandmother, Pu Yong Westphal,
+all of Ft. Collins.
+<p>
+Allan was preceded in death by his parents and brothers and sisters and
+by nephews Donovan Jahnke and Richard D. Westphal. Surviving nephews and
+nieces are Shirley Jahnke of Vancouver, Jerry Westphal, Carol Heffler,
+and Ronald Westphal, of the Portland area, Merold Westphal, of Nanuet,
+New York, Beth Kroll, of Norfolk, Virginia, Marcy Casey of Hoopa,
+Calif. and Sandy Williamson of Eureka, Calif.
+<p>
+A celebration of Allan's life will be held Saturday, Jan. 9, at 11:00
+a.m. at Trinity United Methodist Church in Toledo, 383 N.E. Beech
+Street. Contributions in his memory may be made to the Allan Westphal
+memorial fund, care of the church, P.O. Box 447, Toledo, OR 97391 or to
+a charity of your choice.
+</div>
+</li>
+</ul>
+
+
+<ul class='hideseek'>
+<li><a>Cathy Bailey Obituary</a>
+<div>
+
+Catherine "Cathy" Jessie Bailey, 71, passed on December 30, 2015.
+Cathy never like to shine a spotlight upon herself, but those
+who knew her could not say enough about her.  And they are consistent in
+how they describe her.  She’s a woman who possessed the biggest heart,
+the warmest smile, with the most generous and giving spirit.  She’s a
+woman filled with love for God and other people - a passionate supporter
+of those in her life.  Cathy was a great example of faithful service
+even in the midst of her own suffering.  She was an example of letting
+her servant’s heart guide her journey.
+
+<p>
+Born to Farquhar and Ruth Stewart on November 10, 1944, she was the middle
+child between Mike Stewart and little sister Judy Manos in northeast
+Portland. Even from an early age, Cathy’s caring and serving heart
+served her family well, and she often cared for her siblings when her
+parents were both working hard to support the family.  Later, she raised
+two children, John Martin and Teresa Portinga.  She was totally dedicated
+to her children even as she was forced to overcome large obstacles such
+as being a single parent and facing serious health issues.  She still
+managed to provide for and love her children and serve all those around
+her and in her church.
+
+<p>
+After her children were grown, she expanded her immediate family by
+finding and marring her true love, her prince, Carson Bailey II and
+gained two children, Dallas Bailey and Sue Angelechio.  After seven
+grandchildren had arrived, her family was complete.  This addition to
+her life allowed her to flourish and share great happiness and even more
+love to all those around her.
+
+<p>
+Her servant’s heart continued as she dedicated herself to not only her
+family and friends, but also to The Shrine and other clubs and programs
+such as the children’s program at her church, a sewing group that
+served the Shriner’s Children Hospital, and to absolutely anyone who
+could use a smile, help or kind words.
+
+<p>
+We want to let her and you to know that she did an outstanding job here
+and wish her a safe journey.  We will remember her smile, her warmth,
+her grace, fun energy, and her love of life.  She gathered people who
+loved her, dear friends, every step of her way.  She will never be
+forgotten.  She worked very hard all her life, up until the very end.
+She made a difference in the lives of many.  We invite you to join us
+and celebrate together.
+
+<p>
+Cathy and Carson over the years were members of several square dance
+clubs including the Checkerboard Squares in Portland, Hoedowners in
+Aloha, and Sunset Promenaders in Hillsboro as they enjoyed many years
+of dancing together.
+
+</div>
+</li>
+</ul>
+
