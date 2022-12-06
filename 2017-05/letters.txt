@@ -1,0 +1,47 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li><a>Thanks from Cory Martin</a>
+<div>
+<p><img class="right" src="content/2017-05/t300/Genevieve300.png" /></p>
+<p>Thank you to all who attended Genevieve Churchill&rsquo;s Memorial on March 25, 2017.&nbsp; If you weren&rsquo;t there you missed a beautiful service.&nbsp; Thank you to the anonymous donor for the Bereavement Fund.</p>
+<p>Several Callers &amp; Cuers were in attendance and all the male callers insisted that they were her favorite &ldquo;boyfriends&rdquo;. Jim Hattrick was her favorite caller.&nbsp; Darryl Clendenin was the last caller to dance with her in 2014 @ the Singles Convention in Portland.&nbsp; She was 103 at the time.</p>
+<p><strong>THANK YOU</strong> to Darryl Clendenin for calling a tip at her celebration of life.&nbsp; If you were there, then you were a part of a historic moment.&nbsp; Per Pastor Ake Lundberg, no one had danced on the sanctuary stage before this.</p>
+<p>All money and checks have been given to the church &lsquo;In care of Genevieve Churchill&rsquo;.&nbsp;</p>
+<p>See you in a Square&nbsp;</p>
+<p>Cory Martin and Family</p>
+<p>P.S.&nbsp; If you would like a memorial bulletin (while supply lasts), please send your name/address to:</p>
+<p>Cory Martin<br />7720 NE Hwy 99, Ste. D #417<br />Vancouver, WA&nbsp;&nbsp; 98665</p>
+</div>
+</li>
+
+
+<li><a>CALLERLAB wants ME to call a dance? What kind of dance? A Bumper Car Dance? Absolutely! Count me in!</a>
+<div>
+<p><img class="right" src="content/2017-05/t300/Bumper Car Caller Janienne Alexander.jpg" /></p>
+<p>Public Relations Chair Person Wendy Vandermeulen organized a slap-silly event at <em>Golfland and Sunsplash Park</em> in Mesa, Arizona during the CALLERLAB Convention for the teen callers, and the teen callers at heart. Knowing this event was only advertised via Facebook and very few RSVP&rsquo;s were received, we were happily surprised to find two squares of callers and cuers lined up at the park and ready to dance!&nbsp; The perimeter of the bumper car attraction was lined with spectators cheering them on. Originally intended for the teen callers, we had to ask the young people to sit out the second tip so more of the &ldquo;big kids&rdquo; could have a turn.&nbsp; There was too much giggling and snorting and pure silliness in the square to keep it all to themselves.</p>
+<p class="MsoNormal">Preparing for this event, I watched video after video of dancing with &ldquo;wheels.&rdquo; Since I wasn&rsquo;t sure of the size of the dance floor, whether the cars could go backwards, how many cars there would be; I kept my choreography plans simple with a grand finale of Tea Cup Chain.&nbsp; &ldquo;You can do it! You&rsquo;re callers!&rdquo;</p>
+<p class="MsoNormal">Armed with my microphone, patter music made just for this event, and a handful of notes to remind me of my carefully laid plans; I sashayed into the park with a horde of callers and cuers, ready for a rip-snorting good time square dancing in bumper cars. Upon seeing the bumper cars, I froze in my tracks.&nbsp; There were 8 cars.&nbsp; Good.&nbsp; Only enough room for a square.&nbsp; A tight square. A <strong>very</strong> tight square. I tossed my carefully planned choreography over my shoulder into the closest garbage can.</p>
+<p class="MsoNormal">&ldquo;Square your set! Wave to your partner, wave to your corner. Turn your wheels and circle left!&rdquo; We were dancing! &ldquo;Weave the Ring&rdquo; showed us how very little room we had. Square Dancing became a contact sport - literally!&nbsp; At one point during the weave the ring, the dancers gave up and just bumped their way home.&nbsp; &ldquo;Alright everyone, wave at the caller once you think you are home. If you can&rsquo;t make it home, you&rsquo;re a caller, grab a new home.&rdquo;</p>
+<p class="MsoNormal">I don&rsquo;t know who laughed or who had more fun. The caller? The dancers? The spectators? Tip one started out with Lil Deuce Coupe patter music.&nbsp; Relaxing music to get yourself acquainted with your car. Second tip&hellip; you should see the grin and determination in the dancers&rsquo; eyes when they realized they were &ldquo;square dancing&rdquo; to AC/DC&rsquo;s Highway to Hell. Hmmm&hellip; makes a much better patter music when you can step to the beat rather than drive to it.</p>
+<p class="MsoNormal">We had dancers/drivers from Europe, Japan, Canada, and all over the US. Now they get to go home and tell their survivor story of the 2017 CALLERLAB Convention Bumper Car Dance.</p>
+<p class="MsoNormal">Janienne Alexander</p>
+</div>
+</li>
+
+</ul>
