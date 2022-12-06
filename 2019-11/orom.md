@@ -1,0 +1,2 @@
+The Emerald Empire Council has chosen the November 2019 Oregon Round of the Month:  "Aspenglow", Phase II+2 Waltz (interrupted box and spin turn), choreographed by TJ & Bruce Chadd, by John Denver.
+[Download your cue sheet here](https://www.roundalab.org/CuesheetsDL2/Aspenglow,%20Chadd,%20TJ&B__2+2.pdf).
