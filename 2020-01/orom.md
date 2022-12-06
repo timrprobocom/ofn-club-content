@@ -1,0 +1,2 @@
+The Mid-Willamette Area Council has chosen the Jamuary 2020 Oregon Round of the Month:  "You Can Do Magic", Phase II Two Step, choreographed by Jack & Christa Gail Pointer, by America.
+[Download your cue sheet here](https://www.roundalab.org/CuesheetsDL2/You%20can%20do%20magic,%20Pointer,%20J&CG__2.pdf).
