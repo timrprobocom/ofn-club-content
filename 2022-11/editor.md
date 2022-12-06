@@ -1,0 +1,1 @@
+Our very long summer is finally coming to a close, and the leaves will finally begin to turn.  As we enter the annual holiday season, take a moment to be thankful for making it through another year, and for the friends in your square dance family who brighten your day.
