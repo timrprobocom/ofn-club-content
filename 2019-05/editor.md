@@ -1,0 +1,1 @@
+As your clubs hold their elections for 2019-2020 officers, remember to update your directory information at http://squaredance.gen.or.us/ClubInfo.  By getting things up to date now, while you're still thinking about it, you won't have to worry about the deadlines later. 

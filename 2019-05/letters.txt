@@ -1,0 +1,42 @@
+<style>
+ul.hideseek li a {
+    font-weight: bold;
+}
+ul.hideseek li {
+    margin-top: 1em;
+}
+</style>
+<script>
+$(function(){
+    $("ul.hideseek li div").show();
+    $("ul.hideseek li").click(function(){
+	$(this).children().filter("div").toggle();
+    });
+});
+</script>
+<ul class='hideseek'>
+
+<li class='clear'><a>Summer Festival</a>
+<div>
+<p>Summer Festival is only 3 short months away.&nbsp; If you haven&rsquo;t bought your ribbons yet or made your hotel reservations, I hope you take a few minutes to take care of it this month.&nbsp; We are planning a great Summer Festival in Salem July 29-21, at Blanchet Catholic School and you won&rsquo;t want to miss it.</p>
+<p>Our weekend starts with a Trail&rsquo;s End Dance on July 18th&nbsp;at the Salem Square Dance Center.&nbsp; We will have pre-rounds from 7:30-8 PM, followed by an open mic mainstream with rounds dance from 8-10 PM.&nbsp; From 10-10:30&nbsp;PM we will have plus dancing.&nbsp; Our Caller MC is Chuck Simpkins (Rogue Sis-Q) with Cuer MC Leonard Snodgrass (Mid-Willamette Area).&nbsp; All callers and cuers are invited to participate in the fun.&nbsp; Prospective callers and cuers working with mentors are also invited as well as all of our callers and cuers who have received an OFSRDC grants to attend caller or cuer schools. To reserve your place on the program, please contact either Chuck or Leonard by May 31.&nbsp; Their contact information is listed on the flyer in the Special Dance section.</p>
+<p>Summer Festival starts at 2&nbsp;PM at the Blanchet Catholic School with three days of continuous dancing, including workshops and introduction to different dance levels. Check out the schedule that appears in this month&rsquo;s OFN, or the OFSRDC&rsquo;s Facebook and Summer Festival&rsquo;s Facebook pages.&nbsp; We have a great line up of Oregon and Washington callers and cuers in addition to our featured caller Michael Kellogg and featured cuer MaryAnn Callahan.&nbsp;</p>
+<p>During Summer Festival, we will have 3 open mic opportunities.&nbsp; Our first open mic will be a round dance session on Friday at 2 PM&nbsp;with cuer MCs Tami Helm (Portland Area) and Ken Pratt (Tualatin Valley Council) in the Round Dance Hall.&nbsp; Our second open mic will be on Saturday&nbsp;at 1 PM in the Mainstream Hall with Caller MC KC Curtis (TVC and PAC) and Cuer MC Dave Cooper (South Coast).&nbsp; Our third open mic will be on Sunday from 9-11 AM, also in the Mainstream Hall, with Caller MC Phil Ramey (Rogue Sis-Q) and Cuer MC Mark McDonald (Central Oregon).</p>
+<p>There will be two tables for clubs and councils to display flyers.&nbsp; Due to limited space for tri-folds, we are going to try something new.&nbsp; Please send your flyers and the information you would normally have on a tri-fold to either Tim (<a href="mailto:timr@probo.com">timr@probo.com</a>) or Kathy (<a href="mailto:Kathy@4roberts.us">Kathy@4roberts.us</a>).&nbsp; We are going to make use of technology and have video monitors displaying flyers and tri-fold information in a revolving slide show.&nbsp; If you are planning on sitting at a table with your tri-fold to sell ribbons, please let Kathy know by July 1st &ndash; we will have a few tables available.</p>
+<p>The Blue Mountains Council will be sending letters to clubs and councils soon asking for donations for our basket raffle.&nbsp; If your area can donate a basket, we would appreciate it.&nbsp; The more baskets or donations we have, the more fun it is to participate in the raffle.&nbsp;</p>
+<p>If you would like to make a Summer Festival outfit, we are using JoAnn&rsquo;s novelty cotton print, &ldquo;Multi-color Puzzle Pieces&rdquo;, #15567845.&nbsp; You can combine the material with any solid color of your choice.&nbsp; A picture of the fabric will be on the OFSRDC and Summer Festival Facebook pages.</p>
+<p>&ldquo;Let&rsquo;s Get Together in 2019&rdquo; for a FUN Time.<br />Kathy Roberts, Summer Festival 2019 Co-Chairman</p>
+</div>
+</li>
+
+
+<li class='clear'><a>River City Riders Benefit Dance for Sharon Driscoll</a>
+<div>
+<p><a href="content/2019-05/2019%20RCR%20Sharon-Ap%207.jpg"><img class="right" src="content/2019-05/t300/2019%20RCR%20Sharon-Ap%207.png" /></a></p>
+<p>The River City Riders held a benefit dance for Sharon Driscoll on April 7.&nbsp; The Benefit for Sharon was a real "share your love" event; we were able to give her close to $1000!&nbsp;&nbsp; How sweet that was.&nbsp; The really nice thing is that at the club dance the night before, after I announced this dance, one of the dancers from WA came over and donated to her!&nbsp; Dancers are so in tune with helping each other! Thank you so much for being such awesome dancers and helpers....you can gallop!!</p>
+<p>Our Callers:&nbsp; Jim Hattrick, Craig Abercrombie and Darrell Kalmbach were right on and made the day a really awesome place to be!&nbsp; Thank them when you see them, their time was for Sharon and the dance!</p>
+<p>River City Riders say:&nbsp; Pony Rocks to all!</p>
+</div>
+</li>
+
+</ul>
